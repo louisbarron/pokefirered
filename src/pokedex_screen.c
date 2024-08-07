@@ -2196,15 +2196,7 @@ static void DexScreen_PrintNum3RightAlign(u8 windowId, u8 fontId, u16 num, u8 x,
 
 static u32 DexScreen_GetDefaultPersonality(int species)
 {
-    switch (species)
-    {
-    case SPECIES_SPINDA:
-        return gSaveBlock2Ptr->pokedex.spindaPersonality;
-    case SPECIES_UNOWN:
-        return gSaveBlock2Ptr->pokedex.unownPersonality;
-    default:
-        return 0;
-    }
+    return 0;
 }
 
 static void DexScreen_LoadMonPicInWindow(u8 windowId, u16 species, u16 paletteOffset)

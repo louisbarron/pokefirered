@@ -1144,35 +1144,7 @@ void Task_WaitMuseumFossilPic(u8 taskId)
 
 bool8 OpenMuseumFossilPic(void)
 {
-    u8 spriteId;
-    u8 taskId;
-    if (QL_AvoidDisplay(QL_DestroyAbortedDisplay) == TRUE)
-        return TRUE;
-    if (FindTaskIdByFunc(Task_WaitMuseumFossilPic) != TASK_NONE)
-        return FALSE;
-    if (gSpecialVar_0x8004 == SPECIES_KABUTOPS)
-    {
-        LoadSpriteSheets(sMuseumKabutopsSprSheets);
-        LoadPalette(sMuseumKabutopsSprPalette, OBJ_PLTT_ID(FOSSIL_PIC_PAL_NUM), sizeof(sMuseumKabutopsSprPalette));
-    }
-    else if (gSpecialVar_0x8004 == SPECIES_AERODACTYL)
-    {
-        LoadSpriteSheets(sMuseumAerodactylSprSheets);
-        LoadPalette(sMuseumAerodactylSprPalette, OBJ_PLTT_ID(FOSSIL_PIC_PAL_NUM), sizeof(sMuseumAerodactylSprPalette));
-    }
-    else
-    {
-        return FALSE;
-    }
-    spriteId = CreateSprite(&sMuseumFossilSprTemplate, gSpecialVar_0x8005 * 8 + 40, gSpecialVar_0x8006 * 8 + 40, 0);
-    gSprites[spriteId].oam.paletteNum = FOSSIL_PIC_PAL_NUM;
-    taskId = CreateTask(Task_WaitMuseumFossilPic, 80);
-    gTasks[taskId].tWindowId = CreateWindowFromRect(gSpecialVar_0x8005, gSpecialVar_0x8006, 8, 8);
-    gTasks[taskId].tState = 0;
-    gTasks[taskId].tSpriteId = spriteId;
-    SetStdWindowBorderStyle(gTasks[taskId].tWindowId, TRUE);
-    ScheduleBgCopyTilemapToVram(0);
-    return TRUE;
+    return FALSE;
 }
 
 bool8 CloseMuseumFossilPic(void)

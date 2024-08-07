@@ -1833,18 +1833,6 @@ static const u16 *LoadEvent_DefeatedWildMon(const u16 *a0)
 
 static bool8 IsSpeciesFromSpecialEncounter(u16 species)
 {
-    switch (species)
-    {
-    case SPECIES_SNORLAX:
-    case SPECIES_ARTICUNO:
-    case SPECIES_ZAPDOS:
-    case SPECIES_MOLTRES:
-    case SPECIES_MEWTWO:
-    case SPECIES_LUGIA:
-    case SPECIES_HO_OH:
-    case SPECIES_DEOXYS:
-        return TRUE;
-    }
     return FALSE;
 }
 

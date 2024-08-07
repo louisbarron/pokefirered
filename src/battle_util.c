@@ -1611,35 +1611,6 @@ enum
 u8 CastformDataTypeChange(u8 battler)
 {
     u8 formChange = 0;
-    if (gBattleMons[battler].species != SPECIES_CASTFORM || gBattleMons[battler].ability != ABILITY_FORECAST || gBattleMons[battler].hp == 0)
-        return CASTFORM_NO_CHANGE;
-    if (!WEATHER_HAS_EFFECT && !IS_BATTLER_OF_TYPE(battler, TYPE_NORMAL))
-    {
-        SET_BATTLER_TYPE(battler, TYPE_NORMAL);
-        return CASTFORM_TO_NORMAL;
-    }
-    if (!WEATHER_HAS_EFFECT)
-        return CASTFORM_NO_CHANGE;
-    if (!(gBattleWeather & (B_WEATHER_RAIN | B_WEATHER_SUN | B_WEATHER_HAIL)) && !IS_BATTLER_OF_TYPE(battler, TYPE_NORMAL))
-    {
-        SET_BATTLER_TYPE(battler, TYPE_NORMAL);
-        formChange = CASTFORM_TO_NORMAL;
-    }
-    if (gBattleWeather & B_WEATHER_SUN && !IS_BATTLER_OF_TYPE(battler, TYPE_FIRE))
-    {
-        SET_BATTLER_TYPE(battler, TYPE_FIRE);
-        formChange = CASTFORM_TO_FIRE;
-    }
-    if (gBattleWeather & B_WEATHER_RAIN && !IS_BATTLER_OF_TYPE(battler, TYPE_WATER))
-    {
-        SET_BATTLER_TYPE(battler, TYPE_WATER);
-        formChange = CASTFORM_TO_WATER;
-    }
-    if (gBattleWeather & B_WEATHER_HAIL && !IS_BATTLER_OF_TYPE(battler, TYPE_ICE))
-    {
-        SET_BATTLER_TYPE(battler, TYPE_ICE);
-        formChange = CASTFORM_TO_ICE;
-    }
     return formChange;
 }
 
@@ -3132,12 +3103,7 @@ u8 GetMoveTarget(u16 move, u8 setTarget)
 
 static bool32 IsBattlerModernFatefulEncounter(u8 battlerId)
 {
-    if (GetBattlerSide(battlerId) == B_SIDE_OPPONENT)
-        return TRUE;
-    if (GetMonData(&gPlayerParty[gBattlerPartyIndexes[battlerId]], MON_DATA_SPECIES, NULL) != SPECIES_DEOXYS
-        && GetMonData(&gPlayerParty[gBattlerPartyIndexes[battlerId]], MON_DATA_SPECIES, NULL) != SPECIES_MEW)
-            return TRUE;
-    return GetMonData(&gPlayerParty[gBattlerPartyIndexes[battlerId]], MON_DATA_MODERN_FATEFUL_ENCOUNTER, NULL);
+    return TRUE;
 }
 
 u8 IsMonDisobedient(void)

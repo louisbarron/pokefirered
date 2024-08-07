@@ -79,10 +79,6 @@ static const u16 sDefaultBattleStartWords[] = {
     EC_WORD_EXCL,
 };
 
-static const u16 sDeoxysValue[] = {
-    SPECIES_DEOXYS,
-};
-
 static bool8 IsECGroupUnlocked(u8 groupId)
 {
     switch (groupId)
@@ -709,13 +705,6 @@ static bool8 UnlockedECMonOrMove(u16 wordIndex, u8 groupId)
 
 static bool32 EC_IsDeoxys(u16 species)
 {
-    u32 i;
-    for (i = 0; i < NELEMS(sDeoxysValue); i++)
-    {
-        if (sDeoxysValue[i] == species)
-            return TRUE;
-    }
-
     return FALSE;
 }
 

@@ -1800,8 +1800,6 @@ static bool16 IsMonAllowedInPokemonJump(struct Pokemon *mon)
 
 static bool16 IsMonAllowedInDodrioBerryPicking(struct Pokemon *mon)
 {
-    if (GetMonData(mon, MON_DATA_IS_EGG) != TRUE && GetMonData(mon, MON_DATA_SPECIES) == SPECIES_DODRIO)
-        return TRUE;
     return FALSE;
 }
 
@@ -1906,28 +1904,10 @@ static u16 GetTutorMove(u8 tutor)
 
 static bool8 CanLearnTutorMove(u16 species, u8 tutor)
 {
-    switch (tutor)
-    {
-    case TUTOR_MOVE_FRENZY_PLANT:
-        if (species == SPECIES_VENUSAUR)
-            return TRUE;
-        else
-            return FALSE;
-    case TUTOR_MOVE_BLAST_BURN:
-        if (species == SPECIES_CHARIZARD)
-            return TRUE;
-        else
-            return FALSE;
-    case TUTOR_MOVE_HYDRO_CANNON:
-        if (species == SPECIES_BLASTOISE)
-            return TRUE;
-        else
-            return FALSE;
-    default:
-        if (sTutorLearnsets[species] & (1 << tutor))
-            return TRUE;
-        else
-            return FALSE;
+    if (sTutorLearnsets[species] & (1 << tutor))
+        return TRUE;
+    else
+        return FALSE;
     }
 }
 
@@ -2352,8 +2332,6 @@ static void DisplayPartyPokemonGender(u8 gender, u16 species, u8 *nickname, stru
     u8 palOffset = BG_PLTT_ID(GetWindowAttribute(menuBox->windowId, WINDOW_PALETTE_NUM));
 
     if (species == SPECIES_NONE)
-        return;
-    if ((species == SPECIES_NIDORAN_M || species == SPECIES_NIDORAN_F) && StringCompare(nickname, gSpeciesNames[species]) == 0)
         return;
     switch (gender)
     {
@@ -4404,8 +4382,6 @@ static void GetMedicineItemEffectMessage(u16 item)
 
 static bool8 NotUsingHPEVItemOnShedinja(struct Pokemon *mon, u16 item)
 {
-    if (GetItemEffectType(item) == ITEM_EFFECT_HP_EV && GetMonData(mon, MON_DATA_SPECIES) == SPECIES_SHEDINJA)
-        return FALSE;
     return TRUE;
 }
 

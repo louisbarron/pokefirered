@@ -700,7 +700,7 @@ static u16 SampleResortGorgeousMon(void)
     }
     while (GetSetPokedexFlag(SpeciesToNationalPokedexNum(species), 0) != TRUE)
     {
-        if (species == SPECIES_BULBASAUR)
+        if (species == 1)
             species = NUM_SPECIES - 1;
         else
             species--;
@@ -1517,9 +1517,9 @@ void ForcePlayerToStartSurfing(void)
 }
 
 static const u16 sStarterSpecies[] = {
-    SPECIES_BULBASAUR,
-    SPECIES_SQUIRTLE,
-    SPECIES_CHARMANDER
+    SPECIES_TEST,
+    SPECIES_TEST,
+    SPECIES_TEST
 };
 
 static u16 GetStarterSpeciesById(u16 idx)
@@ -2211,9 +2211,9 @@ void StopPokemonLeagueLightingEffectTask(void)
 }
 
 static const u8 sCapeBrinkCompatibleSpecies[] = {
-    SPECIES_VENUSAUR,
-    SPECIES_CHARIZARD,
-    SPECIES_BLASTOISE
+    SPECIES_TEST,
+    SPECIES_TEST,
+    SPECIES_TEST
 };
 
 bool8 CapeBrinkGetMoveToTeachLeadPokemon(void)
