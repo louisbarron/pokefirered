@@ -6,7 +6,9 @@
 static void Task_SmoothBlendLayers(u8 taskId);
 
 static const u8 sMonSpriteAnchorCoords[][5] = {
-    [SPECIES_TEST       - 1] = {0x16, 0x1b, 0x30, 0x16, 0x29},
+    [SPECIES_TEST - 1] = {0x16, 0x1b, 0x30, 0x16, 0x29},
+    [SPECIES_TESTTWO - 1] = {0x16, 0x1b, 0x30, 0x16, 0x29},
+
 };
 
 void AddTextPrinterParameterized3(u8 windowId, u8 fontId, u8 x, u8 y, const u8 * color, s8 speed, const u8 * str)

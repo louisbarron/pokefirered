@@ -86,12 +86,6 @@ void ClearRoamerData(void)
     default:\
         a = SPECIES_TEST;\
         break;\
-    case SPECIES_TEST:\
-        a = SPECIES_TEST;\
-        break;\
-    case SPECIES_TEST:\
-        a = SPECIES_TEST;\
-        break;\
     }\
     a;\
 })

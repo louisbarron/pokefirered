@@ -897,7 +897,7 @@ void CalculateMonStats(struct Pokemon *mon)
 
     SetMonData(mon, MON_DATA_LEVEL, &level);
 
-    if (species == SPECIES_SHEDINJA)
+    if (species == SPECIES_NONE)
     {
         newMaxHP = 1;
     }
@@ -919,28 +919,18 @@ void CalculateMonStats(struct Pokemon *mon)
     CALC_STAT(baseSpAttack, spAttackIV, spAttackEV, STAT_SPATK, MON_DATA_SPATK)
     CALC_STAT(baseSpDefense, spDefenseIV, spDefenseEV, STAT_SPDEF, MON_DATA_SPDEF)
 
-    if (species == SPECIES_SHEDINJA)
-    {
-        if (currentHP != 0 || oldMaxHP == 0)
+    if (currentHP == 0 && oldMaxHP == 0)
+        currentHP = newMaxHP;
+    else if (currentHP != 0) {
+        // BUG: currentHP is unintentionally able to become <= 0 after the instruction below.
+        currentHP += newMaxHP - oldMaxHP;
+        #ifdef BUGFIX
+        if (currentHP <= 0)
             currentHP = 1;
-        else
-            return;
+        #endif
     }
     else
-    {
-        if (currentHP == 0 && oldMaxHP == 0)
-            currentHP = newMaxHP;
-        else if (currentHP != 0) {
-            // BUG: currentHP is unintentionally able to become <= 0 after the instruction below.
-            currentHP += newMaxHP - oldMaxHP;
-            #ifdef BUGFIX
-            if (currentHP <= 0)
-                currentHP = 1;
-            #endif
-        }
-        else
-            return;
-    }
+        return;
 
     SetMonData(mon, MON_DATA_HP, &currentHP);
 }
@@ -1239,20 +1229,6 @@ s32 CalculateBaseDamage(struct BattlePokemon *attacker, struct BattlePokemon *de
     // Apply boosts from hold items
     if (attackerHoldEffect == HOLD_EFFECT_CHOICE_BAND)
         attack = (150 * attack) / 100;
-    if (attackerHoldEffect == HOLD_EFFECT_SOUL_DEW && !(gBattleTypeFlags & (BATTLE_TYPE_BATTLE_TOWER)) && (attacker->species == SPECIES_LATIAS || attacker->species == SPECIES_LATIOS))
-        spAttack = (150 * spAttack) / 100;
-    if (defenderHoldEffect == HOLD_EFFECT_SOUL_DEW && !(gBattleTypeFlags & (BATTLE_TYPE_BATTLE_TOWER)) && (defender->species == SPECIES_LATIAS || defender->species == SPECIES_LATIOS))
-        spDefense = (150 * spDefense) / 100;
-    if (attackerHoldEffect == HOLD_EFFECT_DEEP_SEA_TOOTH && attacker->species == SPECIES_CLAMPERL)
-        spAttack *= 2;
-    if (defenderHoldEffect == HOLD_EFFECT_DEEP_SEA_SCALE && defender->species == SPECIES_CLAMPERL)
-        spDefense *= 2;
-    if (attackerHoldEffect == HOLD_EFFECT_LIGHT_BALL && attacker->species == SPECIES_PIKACHU)
-        spAttack *= 2;
-    if (defenderHoldEffect == HOLD_EFFECT_METAL_POWDER && defender->species == SPECIES_DITTO)
-        defense *= 2;
-    if (attackerHoldEffect == HOLD_EFFECT_THICK_CLUB && (attacker->species == SPECIES_CUBONE || attacker->species == SPECIES_MAROWAK))
-        attack *= 2;
     if (defender->ability == ABILITY_THICK_FAT && (type == TYPE_FIRE || type == TYPE_ICE))
         spAttack /= 2;
     if (attacker->ability == ABILITY_HUSTLE)
@@ -3887,14 +3863,6 @@ u16 GetEvolutionTargetSpecies(struct Pokemon *mon, u8 type, u16 evolutionItem)
                 if (gEvolutionTable[species][i].param == heldItem)
                 {
                     targetSpecies = gEvolutionTable[species][i].targetSpecies;
-                    
-                    // Prevent cross-generational evolutions like Scizor and Steelix until the National Pokedex is obtained
-                    if (IsNationalPokedexEnabled() || targetSpecies <= KANTO_SPECIES_END)
-                    {
-                        heldItem = ITEM_NONE;
-                        SetMonData(mon, MON_DATA_HELD_ITEM, &heldItem);
-                        targetSpecies = gEvolutionTable[species][i].targetSpecies;
-                    }
                 }
                 break;
             }
@@ -3997,13 +3965,7 @@ u16 HoennToNationalOrder(u16 hoennNum)
 
 u16 SpeciesToCryId(u16 species)
 {
-    if (species < SPECIES_OLD_UNOWN_B - 1)
-        return species;
-
-    if (species <= SPECIES_OLD_UNOWN_Z - 1)
-        return SPECIES_UNOWN - 1;
-
-    return sHoennSpeciesIdToCryId[species - ((SPECIES_OLD_UNOWN_Z + 1) - 1)];
+    return sHoennSpeciesIdToCryId[species];
 }
 
 // Spots can be drawn on Spinda's color indexes 1, 2, or 3
@@ -4094,16 +4056,12 @@ u16 SpeciesToCryId(u16 species)
 // not it's the front pic.
 static void DrawSpindaSpotsUnused(u16 species, u32 personality, u8 *dest)
 {
-    if (species == SPECIES_SPINDA
-        && dest != gMonSpritesGfxPtr->sprites[B_POSITION_PLAYER_LEFT]
-        && dest != gMonSpritesGfxPtr->sprites[B_POSITION_PLAYER_RIGHT])
-        DRAW_SPINDA_SPOTS(personality, dest);
+
 }
 
 void DrawSpindaSpots(u16 species, u32 personality, u8 *dest, bool8 isFrontPic)
 {
-    if (species == SPECIES_SPINDA && isFrontPic)
-        DRAW_SPINDA_SPOTS(personality, dest);
+
 }
 
 void EvolutionRenameMon(struct Pokemon *mon, u16 oldSpecies, u16 newSpecies)
@@ -4924,38 +4882,12 @@ static u16 GetDeoxysStat(struct Pokemon *mon, s32 statId)
     u16 statValue = 0;
     u8 nature;
 
-    if (gBattleTypeFlags & BATTLE_TYPE_LINK_IN_BATTLE || GetMonData(mon, MON_DATA_SPECIES, NULL) != SPECIES_DEOXYS)
-        return 0;
-
-    ivVal = GetMonData(mon, MON_DATA_HP_IV + statId, NULL);
-    evVal = GetMonData(mon, MON_DATA_HP_EV + statId, NULL);
-    statValue = ((sDeoxysBaseStats[statId] * 2 + ivVal + evVal / 4) * mon->level) / 100 + 5;
-    nature = GetNature(mon);
-    statValue = ModifyStatByNature(nature, statValue, (u8)statId);
-    return statValue;
+    return 0;
 }
 
 void SetDeoxysStats(void)
 {
     s32 i, value;
-
-    for (i = 0; i < PARTY_SIZE; i++)
-    {
-        struct Pokemon *mon = &gPlayerParty[i];
-
-        if (GetMonData(mon, MON_DATA_SPECIES, NULL) != SPECIES_DEOXYS)
-            continue;
-        value = GetMonData(mon, MON_DATA_ATK, NULL);
-        SetMonData(mon, MON_DATA_ATK, &value);
-        value = GetMonData(mon, MON_DATA_DEF, NULL);
-        SetMonData(mon, MON_DATA_DEF, &value);
-        value = GetMonData(mon, MON_DATA_SPEED, NULL);
-        SetMonData(mon, MON_DATA_SPEED, &value);
-        value = GetMonData(mon, MON_DATA_SPATK, NULL);
-        SetMonData(mon, MON_DATA_SPATK, &value);
-        value = GetMonData(mon, MON_DATA_SPDEF, NULL);
-        SetMonData(mon, MON_DATA_SPDEF, &value);
-    }
 }
 
 u16 GetUnionRoomTrainerPic(void)
@@ -5001,10 +4933,6 @@ void HandleSetPokedexFlag(u16 nationalNum, u8 caseId, u32 personality)
     if (!GetSetPokedexFlag(nationalNum, getFlagCaseId))
     {
         GetSetPokedexFlag(nationalNum, caseId);
-        if (NationalPokedexNumToSpecies(nationalNum) == SPECIES_UNOWN)
-            gSaveBlock2Ptr->pokedex.unownPersonality = personality;
-        if (NationalPokedexNumToSpecies(nationalNum) == SPECIES_SPINDA)
-            gSaveBlock2Ptr->pokedex.spindaPersonality = personality;
     }
 }
 

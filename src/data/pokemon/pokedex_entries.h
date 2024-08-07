@@ -14,27 +14,27 @@ const struct PokedexEntry gPokedexEntries[] =
     },
     [NATIONAL_DEX_TEST] =
     {
-        .categoryName = _(CATEGORY NAME),
+        .categoryName = _("CATEGORY"),
         .height = 7,
         .weight = 69,
         .description = gTestPokedexText,
         .unusedDescription = gTestPokedexTextUnused,
         .pokemonScale = 271,
         .pokemonOffset = 0,
-        .trainerScale = ${trainer_scale},
-        .trainerOffset = ${trainer_offset},
+        .trainerScale = 271,
+        .trainerOffset = 2,
     },
     [NATIONAL_DEX_TESTTWO] =
     {
-        .categoryName = _(CATEGORY NAME 2),
+        .categoryName = _("CAT"),
         .height = 7,
         .weight = 69,
         .description = gTesttwoPokedexText,
         .unusedDescription = gTesttwoPokedexTextUnused,
         .pokemonScale = 271,
         .pokemonOffset = 0,
-        .trainerScale = ${trainer_scale},
-        .trainerOffset = ${trainer_offset},
+        .trainerScale = 271,
+        .trainerOffset = 2,
     },
 
 };

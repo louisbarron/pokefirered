@@ -1908,7 +1908,6 @@ static bool8 CanLearnTutorMove(u16 species, u8 tutor)
         return TRUE;
     else
         return FALSE;
-    }
 }
 
 // Tutorial battle messages
