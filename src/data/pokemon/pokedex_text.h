@@ -5,7 +5,7 @@ const u8 gDummyPokedexText[] = _(
 
 const u8 gDummyPokedexTextUnused[] = _("");
 
-const u8 gTestPokedexText[] = _("This is for testing\nA testing pokemon.");
+const u8 gTestPokedexText[] = _("Mysterious energies swirl around it,\nportending darkness or radiant light.\nPockets of shadow and illumination.");
 
 const u8 gTestPokedexTextUnused[] = _("");
 
