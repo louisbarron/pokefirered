@@ -397,7 +397,7 @@ static const struct TrainerCard sLinkPlayerTrainerCardTemplate1 =
     .monIconTint = MON_ICON_TINT_PINK,
     .facilityClass = 0,
     .stickers = {1, 2, 3},
-    .monSpecies = {SPECIES_TEST, SPECIES_TEST, SPECIES_TEST, SPECIES_TEST, SPECIES_TEST, SPECIES_TEST}
+    .monSpecies = {${SPECIES_PLACEHOLDER}, ${SPECIES_PLACEHOLDER}, ${SPECIES_PLACEHOLDER}, ${SPECIES_PLACEHOLDER}, ${SPECIES_PLACEHOLDER}, ${SPECIES_PLACEHOLDER}}
 };
 
 static const struct TrainerCard sLinkPlayerTrainerCardTemplate2 = 
@@ -437,7 +437,7 @@ static const struct TrainerCard sLinkPlayerTrainerCardTemplate2 =
     .monIconTint = MON_ICON_TINT_PINK,
     .facilityClass = 0,
     .stickers = {1, 2, 3},
-    .monSpecies = {SPECIES_TEST, SPECIES_TEST, SPECIES_TEST, SPECIES_TEST, SPECIES_TEST, SPECIES_TEST}
+    .monSpecies = {${SPECIES_PLACEHOLDER}, ${SPECIES_PLACEHOLDER}, ${SPECIES_PLACEHOLDER}, ${SPECIES_PLACEHOLDER}, ${SPECIES_PLACEHOLDER}, ${SPECIES_PLACEHOLDER}}
 };
 
 // Functions

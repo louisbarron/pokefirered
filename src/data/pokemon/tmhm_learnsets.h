@@ -8,7 +8,7 @@ static const u32 sTMHMLearnsets[][2] =
 {
     [SPECIES_NONE]        = TMHM_LEARNSET(0),
 
-    [SPECIES_TEST]   = TMHM_LEARNSET(TMHM(TM10_HIDDEN_POWER)
+    [${SPECIES_PLACEHOLDER}]   = TMHM_LEARNSET(TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(HM01_CUT)
                                         | TMHM(HM02_FLY)
                                         | TMHM(HM03_SURF)
@@ -18,7 +18,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM07_WATERFALL)
                                         | TMHM(HM08_DIVE)),
 
-    [SPECIES_TESTTWO]   = TMHM_LEARNSET(TMHM(HM01_CUT)
+    [${SPECIES_PLACEHOLDER}TWO]   = TMHM_LEARNSET(TMHM(HM01_CUT)
                                         | TMHM(HM02_FLY)
                                         | TMHM(HM03_SURF)
                                         | TMHM(HM04_STRENGTH)

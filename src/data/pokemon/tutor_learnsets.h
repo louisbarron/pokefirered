@@ -23,7 +23,7 @@ static const u16 sTutorLearnsets[] =
 {
     [SPECIES_NONE] = 0,
 
-    [SPECIES_TEST] = 0,
-    [SPECIES_TESTTWO] = 0,
+    [${SPECIES_PLACEHOLDER}] = 0,
+    [${SPECIES_PLACEHOLDER}TWO] = 0,
 
 };

@@ -28,7 +28,7 @@ Route16_House_EventScript_Fearow::
 	lock
 	faceplayer
 	waitse
-	playmoncry SPECIES_TEST, CRY_MODE_NORMAL
+	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_NORMAL
 	msgbox Route16_House_Text_Fearow
 	waitmoncry
 	release

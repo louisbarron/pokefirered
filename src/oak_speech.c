@@ -17,7 +17,7 @@
 #include "data.h"
 #include "constants/songs.h"
 
-#define INTRO_SPECIES SPECIES_TEST
+#define INTRO_SPECIES ${SPECIES_PLACEHOLDER}
 
 enum
 {

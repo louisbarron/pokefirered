@@ -154,9 +154,9 @@ static const struct
 };
 
 static const struct RoamerPair sRoamerPairs[] = {
-    { SPECIES_TEST,   SPECIES_TEST  },
-    { SPECIES_TEST, SPECIES_TEST },
-    { SPECIES_TEST,  SPECIES_TEST   }
+    { ${SPECIES_PLACEHOLDER},   ${SPECIES_PLACEHOLDER}  },
+    { ${SPECIES_PLACEHOLDER}, ${SPECIES_PLACEHOLDER} },
+    { ${SPECIES_PLACEHOLDER},  ${SPECIES_PLACEHOLDER}   }
 };
 
 // Scans for the given species and populates 'subsprites' with the area markers.

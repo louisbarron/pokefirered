@@ -6,8 +6,8 @@
 static void Task_SmoothBlendLayers(u8 taskId);
 
 static const u8 sMonSpriteAnchorCoords[][5] = {
-    [SPECIES_TEST - 1] = {0x16, 0x1b, 0x30, 0x16, 0x29},
-    [SPECIES_TESTTWO - 1] = {0x16, 0x1b, 0x30, 0x16, 0x29},
+    [${SPECIES_PLACEHOLDER} - 1] = {0x16, 0x1b, 0x30, 0x16, 0x29},
+    [${SPECIES_PLACEHOLDER}TWO - 1] = {0x16, 0x1b, 0x30, 0x16, 0x29},
 
 };
 
@@ -217,7 +217,7 @@ static void Task_SmoothBlendLayers(u8 taskId)
 
 u8 Menu2_GetMonSpriteAnchorCoord(u16 species, u32 personality, u8 a2)
 {
-    if (species == SPECIES_TEST)
+    if (species == ${SPECIES_PLACEHOLDER})
     {
         u8 unownLetter = GetUnownLetterByPersonalityLoByte(personality);
         switch (unownLetter)
@@ -225,13 +225,13 @@ u8 Menu2_GetMonSpriteAnchorCoord(u16 species, u32 personality, u8 a2)
         case 0:
             break;
         case 26:
-            species = SPECIES_TEST;
+            species = ${SPECIES_PLACEHOLDER};
             break;
         case 27:
-            species = SPECIES_TEST;
+            species = ${SPECIES_PLACEHOLDER};
             break;
         default:
-            species = SPECIES_TEST + unownLetter - 1;
+            species = ${SPECIES_PLACEHOLDER} + unownLetter - 1;
             break;
         }
     }

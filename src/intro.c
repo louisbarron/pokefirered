@@ -2448,7 +2448,7 @@ static void SpriteCB_NidorinoCry(struct Sprite *sprite)
         }
         break;
     case 1:
-        PlayCry_ByMode(SPECIES_TEST, 0x3F, CRY_MODE_DOUBLES);
+        PlayCry_ByMode(${SPECIES_PLACEHOLDER}, 0x3F, CRY_MODE_DOUBLES);
         sprite->sStateTimer = 0;
         sprite->sState++;
         break;

@@ -156,9 +156,9 @@ SeafoamIslands_B4F_EventScript_Articuno::
 	special QuestLog_CutRecording
 	lock
 	faceplayer
-	setwildbattle SPECIES_TEST, 50
+	setwildbattle ${SPECIES_PLACEHOLDER}, 50
 	waitse
-	playmoncry SPECIES_TEST, CRY_MODE_ENCOUNTER
+	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_ENCOUNTER
 	message Text_Gyaoo
 	waitmessage
 	waitmoncry
@@ -183,7 +183,7 @@ SeafoamIslands_B4F_EventScript_DefeatedArticuno::
 	end
 
 SeafoamIslands_B4F_EventScript_RanFromArticuno::
-	setvar VAR_0x8004, SPECIES_TEST
+	setvar VAR_0x8004, ${SPECIES_PLACEHOLDER}
 	goto EventScript_MonFlewAway
 	end
 

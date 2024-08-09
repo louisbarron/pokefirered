@@ -84,7 +84,7 @@ void ClearRoamerData(void)
     switch (GetStarterSpecies())\
     {\
     default:\
-        a = SPECIES_TEST;\
+        a = ${SPECIES_PLACEHOLDER};\
         break;\
     }\
     a;\

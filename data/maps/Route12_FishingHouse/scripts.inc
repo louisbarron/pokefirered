@@ -30,7 +30,7 @@ Route12_FishingHouse_EventScript_NoRoomForSuperRod::
 Route12_FishingHouse_EventScript_CheckMagikarpRecord::
 	goto_if_questlog EventScript_ReleaseEnd
 	special QuestLog_CutRecording
-	setvar VAR_0x8004, SPECIES_TEST
+	setvar VAR_0x8004, ${SPECIES_PLACEHOLDER}
 	specialvar VAR_RESULT, DoesPlayerPartyContainSpecies
 	goto_if_eq VAR_RESULT, FALSE, Route12_FishingHouse_EventScript_NoMagikarpInParty
 	special GetMagikarpSizeRecordInfo

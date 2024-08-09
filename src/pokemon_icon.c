@@ -27,16 +27,16 @@ const u16 gMonIconPalettes[][16] = {
 
 const u8 *const gMonIconTable[] = {
     [SPECIES_NONE]        = gMonIcon_QuestionMark,
-    [SPECIES_TEST]   = gMonIcon_Test,
-    [SPECIES_TESTTWO]   = gMonIcon_Testtwo,
+    [${SPECIES_PLACEHOLDER}]   = gMonIcon_Test,
+    [${SPECIES_PLACEHOLDER}TWO]   = gMonIcon_Testtwo,
 
     [SPECIES_EGG]         = gMonIcon_Egg
 };
 
 const u8 gMonIconPaletteIndices[] = {
     [SPECIES_NONE]        = 0,
-    [SPECIES_TEST]        = 0,
-    [SPECIES_TESTTWO]        = 0,
+    [${SPECIES_PLACEHOLDER}]        = 0,
+    [${SPECIES_PLACEHOLDER}TWO]        = 0,
 
     [SPECIES_EGG]         = 1
 };

@@ -5,7 +5,7 @@
 const struct SpeciesInfo gSpeciesInfo[] =
 {
     [SPECIES_NONE] = {0},
-    [SPECIES_TEST] =
+    [${SPECIES_PLACEHOLDER}] =
     {
         .baseHP = 100,
         .baseAttack = 100,
@@ -34,7 +34,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = FALSE,
     },
-    [SPECIES_TESTTWO] =
+    [${SPECIES_PLACEHOLDER}TWO] =
     {
         .baseHP = 100,
         .baseAttack = 100,

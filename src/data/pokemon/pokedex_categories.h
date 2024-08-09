@@ -1,816 +1,816 @@
 static const u16 sDexCategory_GrasslandPkmn_Page1[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page2[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page3[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page4[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page5[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page6[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page7[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page8[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page9[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page10[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page11[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page12[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page13[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page14[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page15[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page16[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page17[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page18[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page19[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page20[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page21[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page22[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page23[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page24[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page25[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page26[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page27[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page1[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page2[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page3[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page4[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page5[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page6[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page7[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page8[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page9[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page10[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page11[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page12[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page13[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page14[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page15[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page16[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page17[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page18[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page19[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page20[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page21[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page22[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page23[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page24[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page25[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_ForestPkmn_Page26[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page1[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page2[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page3[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page4[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page5[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page6[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page7[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page8[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page9[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page10[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page11[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page12[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page13[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page14[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page15[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page16[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page1[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page2[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page3[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page4[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page5[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page6[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page7[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page8[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page9[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page10[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page11[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page12[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page13[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page14[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page15[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_SeaPkmn_Page16[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_CavePkmn_Page1[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_CavePkmn_Page2[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_CavePkmn_Page3[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_CavePkmn_Page4[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_CavePkmn_Page5[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_CavePkmn_Page6[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_CavePkmn_Page7[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_CavePkmn_Page8[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_CavePkmn_Page9[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_CavePkmn_Page10[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page1[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page2[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page3[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page4[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page5[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page6[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page7[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page8[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page9[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page10[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page11[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page12[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page13[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page14[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page15[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page16[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_MountainPkmn_Page17[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page1[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page2[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page3[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page4[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page5[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page6[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page7[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page8[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page9[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page10[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page11[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page1[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page2[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page3[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page4[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page5[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page6[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page7[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page8[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page9[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page10[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page11[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page12[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RarePkmn_Page1[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RarePkmn_Page2[] = {
-    SPECIES_TEST,
-    SPECIES_TEST,
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RarePkmn_Page3[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RarePkmn_Page4[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RarePkmn_Page5[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RarePkmn_Page6[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RarePkmn_Page7[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 static const u16 sDexCategory_RarePkmn_Page8[] = {
-    SPECIES_TEST,
+    ${SPECIES_PLACEHOLDER},
 };
 
 #define DEX_CATEGORY(name){sDexCategory_##name, NELEMS(sDexCategory_##name)}
