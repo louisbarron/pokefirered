@@ -79,11 +79,11 @@ BirthIsland_Exterior_EventScript_Deoxys::
 	applymovement LOCALID_DEOXYS, Movement_DeoxysApproach
 	waitmovement 0
 	waitse
-	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_ENCOUNTER
+	playmoncry SPECIES_VINTRUB, CRY_MODE_ENCOUNTER
 	delay 40
 	waitmoncry
 	setvar VAR_LAST_TALKED, LOCALID_DEOXYS
-	seteventmon ${SPECIES_PLACEHOLDER}, 30
+	seteventmon SPECIES_ARTHYS, 30
 	setflag FLAG_SYS_SPECIAL_WILD_BATTLE
 	special StartLegendaryBattle
 	waitstate
@@ -98,12 +98,12 @@ BirthIsland_Exterior_EventScript_Deoxys::
 
 BirthIsland_Exterior_EventScript_DefeatedDeoxys::
 	setflag FLAG_DEOXYS_FLEW_AWAY
-	setvar VAR_0x8004, ${SPECIES_PLACEHOLDER}
+	setvar VAR_0x8004, SPECIES_TINSTRY
 	goto EventScript_MonFlewAway
 	end
 
 BirthIsland_Exterior_EventScript_RanFromDeoxys::
-	setvar VAR_0x8004, ${SPECIES_PLACEHOLDER}
+	setvar VAR_0x8004, SPECIES_GLIMMOR
 	goto EventScript_MonFlewAway
 	end
 

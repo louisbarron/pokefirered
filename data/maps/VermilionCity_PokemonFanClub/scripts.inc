@@ -97,7 +97,7 @@ VermilionCity_PokemonFanClub_EventScript_Pikachu::
 	lock
 	faceplayer
 	waitse
-	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_NORMAL
+	playmoncry SPECIES_EMBRIS, CRY_MODE_NORMAL
 	msgbox VermilionCity_PokemonFanClub_Text_Pikachu
 	waitmoncry
 	release
@@ -107,7 +107,7 @@ VermilionCity_PokemonFanClub_EventScript_Seel::
 	lock
 	faceplayer
 	waitse
-	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_NORMAL
+	playmoncry SPECIES_TENEBRA, CRY_MODE_NORMAL
 	msgbox VermilionCity_PokemonFanClub_Text_Seel
 	waitmoncry
 	release

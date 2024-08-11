@@ -13,7 +13,7 @@ SaffronCity_House_EventScript_Pidgey::
 	lock
 	faceplayer
 	waitse
-	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_NORMAL
+	playmoncry SPECIES_BRONZIX, CRY_MODE_NORMAL
 	msgbox SaffronCity_House_Text_Pidgey
 	waitmoncry
 	release

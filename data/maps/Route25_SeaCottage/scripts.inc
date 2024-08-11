@@ -246,37 +246,37 @@ Route25_SeaCottage_EventScript_BillsMonList::
 	end
 
 Route25_SeaCottage_EventScript_ViewEevee::
-	showmonpic ${SPECIES_PLACEHOLDER}, 10, 3
+	showmonpic SPECIES_GRUMM, 10, 3
 	waitbuttonpress
 	hidemonpic
-	setvar VAR_0x8004, ${SPECIES_PLACEHOLDER}
+	setvar VAR_0x8004, SPECIES_TENEKROF
 	special SetSeenMon
 	goto Route25_SeaCottage_EventScript_BillsMonList
 	end
 
 Route25_SeaCottage_EventScript_ViewFlareon::
-	showmonpic ${SPECIES_PLACEHOLDER}, 10, 3
+	showmonpic SPECIES_CRAGNOS, 10, 3
 	waitbuttonpress
 	hidemonpic
-	setvar VAR_0x8004, ${SPECIES_PLACEHOLDER}
+	setvar VAR_0x8004, SPECIES_AEROLUT
 	special SetSeenMon
 	goto Route25_SeaCottage_EventScript_BillsMonList
 	end
 
 Route25_SeaCottage_EventScript_ViewJolteon::
-	showmonpic ${SPECIES_PLACEHOLDER}, 10, 3
+	showmonpic SPECIES_TENEBROUS, 10, 3
 	waitbuttonpress
 	hidemonpic
-	setvar VAR_0x8004, ${SPECIES_PLACEHOLDER}
+	setvar VAR_0x8004, SPECIES_FUMARA
 	special SetSeenMon
 	goto Route25_SeaCottage_EventScript_BillsMonList
 	end
 
 Route25_SeaCottage_EventScript_ViewVaporeon::
-	showmonpic ${SPECIES_PLACEHOLDER}, 10, 3
+	showmonpic SPECIES_SEALEIRA, 10, 3
 	waitbuttonpress
 	hidemonpic
-	setvar VAR_0x8004, ${SPECIES_PLACEHOLDER}
+	setvar VAR_0x8004, SPECIES_PUPATOR
 	special SetSeenMon
 	goto Route25_SeaCottage_EventScript_BillsMonList
 	end

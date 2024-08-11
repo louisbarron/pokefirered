@@ -1517,9 +1517,9 @@ void ForcePlayerToStartSurfing(void)
 }
 
 static const u16 sStarterSpecies[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER}
+    SPECIES_SCROLIA,
+    SPECIES_IGNIFERT,
+    SPECIES_RIVILE
 };
 
 static u16 GetStarterSpeciesById(u16 idx)
@@ -2211,9 +2211,9 @@ void StopPokemonLeagueLightingEffectTask(void)
 }
 
 static const u8 sCapeBrinkCompatibleSpecies[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER}
+    SPECIES_AETHRI,
+    SPECIES_KORVISA,
+    SPECIES_MIXER
 };
 
 bool8 CapeBrinkGetMoveToTeachLeadPokemon(void)

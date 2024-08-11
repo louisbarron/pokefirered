@@ -31,7 +31,7 @@ CeladonCity_Condominiums_1F_EventScript_Meowth::
 	lock
 	faceplayer
 	waitse
-	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_NORMAL
+	playmoncry SPECIES_LEVIORA, CRY_MODE_NORMAL
 	msgbox CeladonCity_Condominiums_1F_Text_Meowth
 	waitmoncry
 	release
@@ -41,7 +41,7 @@ CeladonCity_Condominiums_1F_EventScript_Clefairy::
 	lock
 	faceplayer
 	waitse
-	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_NORMAL
+	playmoncry SPECIES_CRAGNOS, CRY_MODE_NORMAL
 	msgbox CeladonCity_Condominiums_1F_Text_Clefairy
 	waitmoncry
 	release
@@ -51,7 +51,7 @@ CeladonCity_Condominiums_1F_EventScript_Nidoran::
 	lock
 	faceplayer
 	waitse
-	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_NORMAL
+	playmoncry SPECIES_SORILI, CRY_MODE_NORMAL
 	msgbox CeladonCity_Condominiums_1F_Text_Nidoran
 	waitmoncry
 	release
