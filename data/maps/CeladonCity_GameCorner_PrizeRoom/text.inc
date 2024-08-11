@@ -1,37 +1,35 @@
 CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygon::
-    .string "I sure do fancy that PORYGON!\n"
-    .string "But, it's hard to win at slots!$"
+    .string "Lucky spin: 30 CLOCK HOURS$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_RakedItInToday::
-    .string "Gahaha! I raked it in today!\n"
-    .string "If only every day were like this…$"
+    .string "'MONDAY'S GOLD: 10,000 GEMS'$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_CoinCaseRequired::
-    .string "A COIN CASE is required…$"
+    .string "'Acquire the Coin Case from the\p"
+    .string "Shopkeeper in town for 500 gold\n"
+    .string "coins.'$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_WeExchangeCoinsForPrizes::
-    .string "We exchange your COINS for prizes.$"
+    .string "'Prize Box: 50 COINS'$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_WhichPrize::
-    .string "Which prize would you like?$"
+    .string "Golden Power-Up Token$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_HereYouGo::
-    .string "はい どうぞ$"
+    .string "LOCKED DOOR: FIND KEY$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_YouWantPrize::
-    .string "So, you want the {STR_VAR_1}?$"
+    .string "'We found yours!'$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_YouWantTM::
-    .string "Okay, a TM of {STR_VAR_2}\n"
-    .string "is what you want?$"
+    .string "YES$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_NeedMoreCoins::
-    .string "Sorry, you'll need more COINS\n"
-    .string "than that.$"
+    .string "JUST 50 LEFT TO GO!$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_OopsNotEnoughRoom::
-    .string "おきゃくさん もう もてないよ$"
+    .string "Your customer's tapped out!$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_OhFineThen::
-    .string "あっ そう$"
+    .string "'Ah ha! Gotcha!'$"
 

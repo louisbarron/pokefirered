@@ -1,3 +1,4 @@
 CeladonCity_Condominiums_Roof_Text_IKnowEverything::
-    .string "I KNOW EVERYTHING!$"
+    .string "MIND CONTROL DEVICE\p"
+    .string "MALFUNCTIONING!$"
 

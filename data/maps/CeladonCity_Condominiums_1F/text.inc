@@ -1,37 +1,28 @@
 CeladonCity_Condominiums_1F_Text_Meowth::
-    .string "MEOWTH: Meow!$"
+    .string "'Ah, a sneaky Meowth! Watch out,\p"
+    .string "adventurer!'$"
 
 CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
-    .string "You shouldn't spend all your money\n"
-    .string "on drinks.\p"
-    .string "Try this instead.$"
+    .string "BARTENDER SAYS: 'SIP ON THIS: 5\p"
+    .string "GOLD COINS'.$"
 
 CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
-    .string "Nothing beats thirst like some hot\n"
-    .string "TEA.\p"
-    .string "It really is the best.$"
+    .string "'TESSEL'S TEA: RESTORES THIRST'$"
 
 CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
-    .string "My dear POKéMON keep me company.\n"
-    .string "MEOWTH even brings money home!$"
+    .string "MEOWTH'S PURR-FECT CATCH: 500\p"
+    .string "JULIES$"
 
 CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
-    .string "Oh, hello, dearie.\n"
-    .string "Did you enjoy my TEA?\p"
-    .string "By the way, dear. Are you, by any\n"
-    .string "chance, from PALLET TOWN?\p"
-    .string "A girl from PALLET TOWN, DAISY,\n"
-    .string "she enjoys TEA every day.\p"
-    .string "She visits the CELADON DEPT. STORE\n"
-    .string "to buy some TEA.$"
+    .string "'A PALLET TOWN native, eh?'$"
 
 CeladonCity_Condominiums_1F_Text_Clefairy::
-    .string "CLEFAIRY: Pi pippippi!$"
+    .string "Catching a Poke Ball!$"
 
 CeladonCity_Condominiums_1F_Text_Nidoran::
-    .string "NIDORAN♀: Kya kyaoo!$"
+    .string "'Gleaming Scale Rush!'$"
 
 CeladonCity_Condominiums_1F_Text_ManagersSuite::
-    .string "CELADON MANSION\n"
-    .string "Manager's Suite$"
+    .string "You've made it to the top floor.\p"
+    .string "The door creaks open.$"
 
