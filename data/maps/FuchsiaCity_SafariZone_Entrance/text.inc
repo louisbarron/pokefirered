@@ -1,73 +1,49 @@
 FuchsiaCity_SafariZone_Entrance_Text_WelcomeToSafariZone::
-    .string "Welcome to the SAFARI ZONE!$"
+    .string "'Gorilla spotted in proximity.\p"
+    .string "Danger level: Medium!'$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500::
-    .string "For just ¥500, you can play the\n"
-    .string "SAFARI GAME.\p"
-    .string "You can roam the wide-open safari\n"
-    .string "and catch what you like.\p"
-    .string "Would you like to play?$"
+    .string "YES$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls::
-    .string "That'll be ¥500, please!\p"
-    .string "We only use a special kind of \n"
-    .string "POKé BALLS here.$"
+    .string "Sorry, mate!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
-    .string "{PLAYER} received 30 SAFARI BALLS\n"
-    .string "from the attendant.$"
+    .string "BALL CHAIN NOW 30$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
-    .string "We'll call you on the PA when you\n"
-    .string "run out of time or SAFARI BALLS.\p"
-    .string "Well, I'll wish you the best of\n"
-    .string "luck!$"
+    .string "Timer's ticking!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OkayPleaseComeAgain::
-    .string "Okay.\n"
-    .string "Please come again!$"
+    .string "You're Trapped!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OopsNotEnoughMoney::
-    .string "Oops!\n"
-    .string "Not enough money!$"
+    .string "NOT ENOUGH GP!603 GULDEN NEEDED$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoingToLeaveSafariZoneEarly::
-    .string "Are you going to leave the\n"
-    .string "SAFARI ZONE early?$"
+    .string "'Definitely, giant mutant crocs\p"
+    .string "aren'tn worth the T-shirt...'$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PleaseReturnSafariBalls::
-    .string "Please return any SAFARI BALLS\n"
-    .string "you may have left.$"
+    .string "You found 3 SAFARI BALLS.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoodLuck::
-    .string "Good luck!$"
+    .string "You're first objective is to\p"
+    .string "rescue the village from the\n"
+    .string "clutches of evil.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CatchFairShareComeAgain::
-    .string "Did you catch your fair share?\n"
-    .string "Come again!$"
+    .string "15 fish, 20 shells, and a rare\p"
+    .string "pearl!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_FirstTimeAtSafariZone::
-    .string "Hi! Is it your first time here at\n"
-    .string "the SAFARI ZONE?$"
+    .string "BEWARE! HOSTILES AMONG US!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
-    .string "The SAFARI ZONE actually has\n"
-    .string "four zones in it.\p"
-    .string "Each zone has different kinds of\n"
-    .string "POKéMON, even some rare ones.\p"
-    .string "Use the supplied SAFARI BALLS to\n"
-    .string "catch them.\p"
-    .string "You can also throw BAIT or ROCKS\n"
-    .string "besides the SAFARI BALLS.\p"
-    .string "If you throw BAIT, the POKéMON\n"
-    .string "becomes less likely to flee, but\l"
-    .string "harder to catch.\p"
-    .string "If you throw ROCKS, the POKéMON\n"
-    .string "becomes more likely to flee, but\l"
-    .string "easier to catch.\p"
-    .string "When you run out of time or SAFARI\n"
-    .string "BALLS, it's game over for you!$"
+    .string "Enter Safari Zone..Num Safari\p"
+    .string "Balls: 5. Time Limit: 10 minutes.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_SorryYoureARegularHere::
-    .string "Sorry, you're a regular here!$"
+    .string "YOU'VE ENTERED A SEEDY UNDERGROUND\p"
+    .string "CLUB$"
 

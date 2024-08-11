@@ -1,93 +1,79 @@
 FiveIsland_ResortGorgeous_Text_DaisyIntro::
-    .string "With these hands, I will create\n"
-    .string "my victory!$"
+    .string "'ART OF THE WARRIOR UNLEASHED!'$"
 
 FiveIsland_ResortGorgeous_Text_DaisyDefeat::
-    .string "The shame of this…\n"
-    .string "I'm red-faced…$"
+    .string "'YOU'VE BEEN DEFEATED BY THE DARK\p"
+    .string "LORD!'$"
 
 FiveIsland_ResortGorgeous_Text_DaisyPostBattle::
-    .string "Uh-oh, my paint tubes have\n"
-    .string "scattered everywhere!$"
+    .string "'Get the Colors!' Collect 'em all!$"
 
 FiveIsland_ResortGorgeous_Text_CelinaIntro::
-    .string "Excuse me!\n"
-    .string "I'm trying to paint.\l"
-    .string "Please keep out of my sight!$"
+    .string "Demands 'Go away, I'm creative!'$"
 
 FiveIsland_ResortGorgeous_Text_CelinaDefeat::
-    .string "This loss…\n"
-    .string "I feel like I'm whiting out…$"
+    .string "WARNING: ENERGY LEVEL CRITICAL$"
 
 FiveIsland_ResortGorgeous_Text_CelinaPostBattle::
-    .string "GILLIAN?\n"
-    .string "Please tilt your head slightly…\l"
-    .string "There! That's the look I want!$"
+    .string "' PERFECT! NOW, LET'S GET BACK TO\p"
+    .string "WORK!'$"
 
 FiveIsland_ResortGorgeous_Text_RaynaIntro::
-    .string "Hmm…\n"
-    .string "The angle, it is not quite there…$"
+    .string "ADJUST SIGHT 3 DEGREES CLOCKWISE$"
 
 FiveIsland_ResortGorgeous_Text_RaynaDefeat::
-    .string "Oh…\n"
-    .string "My feelings, they are blue…$"
+    .string "ERROR: SYSTEM FAILURE: EMOTIONAL\p"
+    .string "MALFUNCTION$"
 
 FiveIsland_ResortGorgeous_Text_RaynaPostBattle::
-    .string "The sky and the sea…\n"
-    .string "They are so fickle.\p"
-    .string "Their changing expressions make\n"
-    .string "them difficult to capture.$"
+    .string "CATCH THE WHIM OF THE WIND!$"
 
 FiveIsland_ResortGorgeous_Text_JackiIntro::
-    .string "I am visiting my friend's retreat,\n"
-    .string "if you must know.$"
+    .string "'SECRET MEETING. INSTRUCTORS\p"
+    .string "WAIT.'$"
 
 FiveIsland_ResortGorgeous_Text_JackiDefeat::
-    .string "Oh, my, so strong.$"
+    .string "'FELINE FURY: Opponent Peril\p"
+    .string "Rating: X'$"
 
 FiveIsland_ResortGorgeous_Text_JackiPostBattle::
-    .string "I find it pleasurable to leisurely\n"
-    .string "battle in the gentle sea breeze.$"
+    .string "'Ahoy, Captain Courage!$"
 
 FiveIsland_ResortGorgeous_Text_GillianIntro::
-    .string "I'm thinking of having a pool\n"
-    .string "made specially for POKéMON.$"
+    .string "POKEWAVE RISINGAdministrator\p"
+    .string "Approves Construction$"
 
 FiveIsland_ResortGorgeous_Text_GillianDefeat::
-    .string "Oh, my goodness gracious!$"
+    .string "' Warning: Undead hordes\p"
+    .string "approaching!'$"
 
 FiveIsland_ResortGorgeous_Text_GillianPostBattle::
-    .string "A pool would be nice, but I must\n"
-    .string "say, a sun-room may be sublime.$"
+    .string "'Your aim is set... Poolside\p"
+    .string "Paradise?'$"
 
 FiveIsland_ResortGorgeous_Text_DestinIntro::
-    .string "I'm a good runner.\n"
-    .string "I'm really fast!$"
+    .string "Boosting at full speed!$"
 
 FiveIsland_ResortGorgeous_Text_DestinDefeat::
-    .string "Oops!\n"
-    .string "I rushed things!$"
+    .string "Too hasty, adventurer!$"
 
 FiveIsland_ResortGorgeous_Text_DestinPostBattle::
-    .string "When I run with the wind, it feels\n"
-    .string "like I could fly!$"
+    .string "WHOOOSH! YOU'RE FLYING!$"
 
 FiveIsland_ResortGorgeous_Text_TobyIntro::
-    .string "I say, this marine life here at\n"
-    .string "this resort agrees with me.$"
+    .string "'Breathe easy, buddy.'$"
 
 FiveIsland_ResortGorgeous_Text_TobyDefeat::
-    .string "That's a shocker!\n"
-    .string "You must be joking.$"
+    .string "'RUTHLESS ROBOT REDNECK ROAMING\p"
+    .string "LOOSE!'$"
 
 FiveIsland_ResortGorgeous_Text_TobyPostBattle::
-    .string "Getting so serious over this…\n"
-    .string "How nonsensical.$"
+    .string "WHATCHA GONNA DO, BRO?$"
 
 FiveIsland_ResortGorgeous_Text_SelphyThanksYouMayGoNow::
-    .string "SELPHY: Thank you.\p"
-    .string "You may go now.$"
+    .string "YOU ESCAPE FROM THE TEMPLE.$"
 
 FiveIsland_ResortGorgeous_Text_SelphysHouse::
-    .string "SELPHY'S HOUSE$"
+    .string "'Welcome, Adventurer! Selphy's\p"
+    .string "humble abode appears before you.'$"
 

@@ -1,53 +1,52 @@
 RocketHideout_B1F_Text_Grunt1Intro::
-    .string "Who are you?\n"
-    .string "How did you get here?$"
+    .string "Stranded Survivor of the Last\p"
+    .string "Upturned Earthly Realm. Washed\n"
+    .string "Ashore by Turbulent Storms of\p"
+    .string "Cryptic Energies.$"
 
 RocketHideout_B1F_Text_Grunt1Defeat::
-    .string "Oww!\n"
-    .string "Beaten!$"
+    .string "'YOUR INJURIES ARE SERIOUS. SEEK\p"
+    .string "MEDICAL ATTENTION.'$"
 
 RocketHideout_B1F_Text_Grunt1PostBattle::
-    .string "Blast it… You're dissing TEAM\n"
-    .string "ROCKET, aren't you?$"
+    .string "'BRING IT ON, CHUMP!'$"
 
 RocketHideout_B1F_Text_Grunt2Intro::
-    .string "You broke into TEAM ROCKET's\n"
-    .string "operation? What nerve!$"
+    .string "Take cover, we're surrounded!$"
 
 RocketHideout_B1F_Text_Grunt2Defeat::
-    .string "Boom!$"
+    .string "EXPLOSION INVOLVED!$"
 
 RocketHideout_B1F_Text_Grunt2PostBattle::
-    .string "You're not going to get away with\n"
-    .string "this, brat!$"
+    .string "YOU'RE UNDER ARREST, SCUM!$"
 
 RocketHideout_B1F_Text_Grunt3Intro::
-    .string "Intruder alert!$"
+    .string "'INtruder DETECTED! FLEE FOR\p"
+    .string "COVERR!'$"
 
 RocketHideout_B1F_Text_Grunt3Defeat::
-    .string "I can't do it!$"
+    .string "YOUR TIME IS RUNNING OUT!$"
 
 RocketHideout_B1F_Text_Grunt3PostBattle::
-    .string "SILPH SCOPE? Humph!\n"
-    .string "I don't know where it is.$"
+    .string "'IN CASTLE TOWN, TRY OLD MAN'r$"
 
 RocketHideout_B1F_Text_Grunt4Intro::
-    .string "Why did you come here?$"
+    .string "'Seeking ancient artifacts,\p"
+    .string "Luminous ruins beckon you.'$"
 
 RocketHideout_B1F_Text_Grunt4Defeat::
-    .string "This won't do!$"
+    .string "ERROR: POWER FAILURE DETECTED.$"
 
 RocketHideout_B1F_Text_Grunt4PostBattle::
-    .string "Okay, I'll talk…\n"
-    .string "Take the elevator to see my BOSS.$"
+    .string "' templateUrl: loading... sorry,\p"
+    .string "BROKE AGAIN.'$"
 
 RocketHideout_B1F_Text_Grunt5Intro::
-    .string "Are you lost, you little mouse?$"
+    .string "'Exit Village?'$"
 
 RocketHideout_B1F_Text_Grunt5Defeat::
-    .string "Why…?$"
+    .string "'LOST IN LABYRINTHINE RUINS...'$"
 
 RocketHideout_B1F_Text_Grunt5PostBattle::
-    .string "Uh-oh, that ruckus somehow opened\n"
-    .string "the door!$"
+    .string "-dire creatures emerge!$"
 

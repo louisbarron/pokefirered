@@ -1,154 +1,100 @@
 Text_DreamEaterTeach::
-    .string "Yawn!\n"
-    .string "I must have dozed off in the sun.\p"
-    .string "I had this weird dream about\n"
-    .string "a DROWZEE eating my dream.\p"
-    .string "And…\n"
-    .string "I learned how to eat dreams…\p"
-    .string "Oogh, this is too spooky!\p"
-    .string "Let me teach it to a POKéMON so\n"
-    .string "I can forget about it!$"
+    .string "'Fed up with dreams? Try TEACH\p"
+    .string "DAYDREAM to your POKEMON!'$"
 
 Text_DreamEaterDeclined::
-    .string "…Snore…$"
+    .string "'Dragon's Den Ahead'$"
 
 Text_DreamEaterWhichMon::
-    .string "Which POKéMON wants to learn\n"
-    .string "DREAM EATER?$"
+    .string "Your HAUNTER knows DREAM EATER.$"
 
 Text_DreamEaterTaught::
-    .string "…ZZZ…\n"
-    .string "I…can't eat…anymore…$"
+    .string "Rations Expired!$"
 
 PewterCity_Text_ClefairyCameFromMoon::
-    .string "CLEFAIRY came from the moon.\n"
-    .string "That's what the rumor is.\p"
-    .string "They appeared after MOON STONES\n"
-    .string "fell on MT. MOON.$"
+    .string "MOON STONES FELL ON MT. MOON?$"
 
 PewterCity_Text_BrockOnlySeriousTrainerHere::
-    .string "There aren't many serious POKéMON\n"
-    .string "TRAINERS here.\p"
-    .string "They're all like BUG CATCHERS,\n"
-    .string "you know, just hobbyists.\p"
-    .string "But PEWTER GYM's BROCK isn't like\n"
-    .string "that, not one bit.$"
+    .string "WANT TO JOIN BROCK'S TEAM?$"
 
 PewterCity_Text_DidYouCheckOutMuseum::
-    .string "Did you check out the MUSEUM?$"
+    .string "NO...they're still LOCKED away.$"
 
 PewterCity_Text_WerentThoseFossilsAmazing::
-    .string "Weren't those fossils from MT. MOON\n"
-    .string "amazing?$"
+    .string "'Legendary Discovery! Fossilized\p"
+    .string "Dino Remains Uncovered!'$"
 
 PewterCity_Text_ReallyYouHaveToGo::
-    .string "Really?\n"
-    .string "You absolutely have to go!$"
+    .string "'NOT TODAY!'$"
 
 PewterCity_Text_ThisIsTheMuseum::
-    .string "This is it, the MUSEUM.\p"
-    .string "You have to pay to get in, but it's\n"
-    .string "worth it. See you around!$"
+    .string "ENTRY FEE: 50 CREDITS$"
 
 PewterCity_Text_DoYouKnowWhatImDoing::
-    .string "Psssst!\n"
-    .string "Do you know what I'm doing?$"
+    .string "Snoopin' around for treasure!$"
 
 PewterCity_Text_ThatsRightItsHardWork::
-    .string "That's right!\n"
-    .string "It's hard work!$"
+    .string "'Nice job, adventurer!'$"
 
 PewterCity_Text_SprayingRepelToKeepWildMonsOut::
-    .string "I'm spraying REPEL to keep wild\n"
-    .string "POKéMON out of my garden!$"
+    .string "Wild PIDGEY fleeing in terror!$"
 
 PewterCity_Text_BrocksLookingForChallengersFollowMe::
-    .string "You're a TRAINER, right?\p"
-    .string "BROCK's looking for new\n"
-    .string "challengers. Follow me!$"
+    .string "ROCKY TUNNEL AHEAD!$"
 
 PewterCity_Text_GoTakeOnBrock::
-    .string "If you have the right stuff,\n"
-    .string "go take on BROCK!$"
+    .string "BROCK: Give me a fight!$"
 
 PewterCity_Text_TrainerTipsEarningEXP::
-    .string "TRAINER TIPS\p"
-    .string "All POKéMON that appear in battle,\n"
-    .string "however briefly, earn EXP Points.$"
+    .string "BATTLE ON TO LEVEL UP YOUR\p"
+    .string "POKEMON!$"
 
 PewterCity_Text_CallPoliceIfInfoOnThieves::
-    .string "NOTICE!\p"
-    .string "Thieves have been stealing POKéMON\n"
-    .string "fossils from MT. MOON.\p"
-    .string "Please call the PEWTER POLICE if\n"
-    .string "you have any information.$"
+    .string "LOOK SHARP, TRAINER!p Pikachu\p"
+    .string "caught!$"
 
 PewterCity_Text_MuseumOfScience::
-    .string "PEWTER MUSEUM OF SCIENCE$"
+    .string "WELCOME, ADVENTURER! ENTER AT YOUR\p"
+    .string "OWN RISK.$"
 
 PewterCity_Text_GymSign::
-    .string "PEWTER CITY POKéMON GYM\n"
-    .string "LEADER: BROCK\l"
-    .string "The Rock-Solid POKéMON TRAINER!$"
+    .string "'Bring it on, young Trainer!'$"
 
 PewterCity_Text_CitySign::
-    .string "PEWTER CITY\n"
-    .string "A Stone Gray City$"
+    .string "'WELCOME-stranger'in Pewter City$"
 
 @ The below 3 JP texts are unused. Possibly a cut NPC meant to give the player the Berry Pouch
 PewterCity_Text_DefeatedBrockYouCanHaveTreasure::
-    .string "あッれー！\n"
-    .string "その　ジムバッジ‥‥\l"
-    .string "すげえな　タケシに　かったのかよ！\p"
-    .string "かんどう　したから\n"
-    .string "おれの　たからもの　やるよ！$"
+    .string "THAT'S THE JIM BACKEST!$"
 
 PewterCity_Text_BerriesInsideUseCarefully::
-    .string "なかには　きのみが　はいってるぜ\p"
-    .string "やくに　たつ　きのみも\n"
-    .string "はいって　いるから\l"
-    .string "だいじに　つかって　くれよ！$"
+    .string "TREE'S juiciEST FRUIT awaits!$"
 
 PewterCity_Text_MonsWillUseHeldBerriesOnTheirOwn::
-    .string "ポケモンに　きのみを\n"
-    .string "もたせて　おけば\l"
-    .string "たたかっている　ときに\l"
-    .string "かってに　つかって　くれるんだ\p"
-    .string "キズぐすり　とか　どくけし　より\n"
-    .string "てがるで　べんり　だろ？$"
+    .string "Heal Pokemon with berries, then\p"
+    .string "battle boon!$"
 
 PewterCity_Text_OhPlayer::
-    .string "Oh, {PLAYER}{KUN}!$"
+    .string "'River dungeon ahead. Prepare\p"
+    .string "thyself!'$"
 
 PewterCity_Text_AskedToDeliverThis::
-    .string "I'm glad I caught up to you.\n"
-    .string "I'm PROF. OAK's AIDE.\p"
-    .string "I've been asked to deliver this,\n"
-    .string "so here you go.$"
+    .string "You received a Pokedex!$"
 
 PewterCity_Text_ReceivedRunningShoesFromAide::
-    .string "{PLAYER} received the\n"
-    .string "RUNNING SHOES from the AIDE.$"
+    .string "'Boosting speed just got a whole\p"
+    .string "lot easier!'$"
 
 PewterCity_Text_SwitchedShoesWithRunningShoes::
-    .string "{PLAYER} switched shoes with the\n"
-    .string "RUNNING SHOES.$"
+    .string "You now run 30 faster!$"
 
 PewterCity_Text_ExplainRunningShoes::
-    .string "Press the B Button to run.\n"
-    .string "But only where there's room to run!$"
+    .string "Beware the Snagglethorn Gorge!$"
 
 PewterCity_Text_MustBeGoingBackToLab::
-    .string "Well, I must be going back to\n"
-    .string "the LAB.\p"
-    .string "Bye-bye!$"
+    .string "LAB EAST CORRIDOR$"
 
 PewterCity_Text_RunningShoesLetterFromMom::
-    .string "There's a letter attached…\p"
-    .string "Dear {PLAYER},\p"
-    .string "Here is a pair of RUNNING SHOES\n"
-    .string "for my beloved challenger.\p"
-    .string "Remember, I'll always cheer for\n"
-    .string "you! Don't ever give up!\p"
-    .string "From Mom$"
+    .string "What a sweet surprise! You\p"
+    .string "received a letter from Mom!$"
 

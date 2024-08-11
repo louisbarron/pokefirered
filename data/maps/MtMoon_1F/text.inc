@@ -1,92 +1,75 @@
 MtMoon_1F_Text_MarcosIntro::
-    .string "WHOA!\n"
-    .string "You shocked me!\l"
-    .string "…Oh, you're just a kid!$"
+    .string "'Who ya lookin' for, little\p"
+    .string "whippersnapper?'$"
 
 MtMoon_1F_Text_MarcosDefeat::
-    .string "Wow!\n"
-    .string "Shocked again!$"
+    .string "UNBELIEVABLE!$"
 
 MtMoon_1F_Text_MarcosPostBattle::
-    .string "Kids like you shouldn't be\n"
-    .string "wandering around here in the dark.$"
+    .string "What are you looking for?$"
 
 MtMoon_1F_Text_JoshIntro::
-    .string "Did you come to explore the cave,\n"
-    .string "too?$"
+    .string "You approach the dark entrance.$"
 
 MtMoon_1F_Text_JoshDefeat::
-    .string "Losing stinks!\n"
-    .string "It's so uncool.$"
+    .string "'Oh no, game over!'$"
 
 MtMoon_1F_Text_JoshPostBattle::
-    .string "I came all the way down here to\n"
-    .string "show off to girls.$"
+    .string "'OOOH, HEY LASSES! LOOK AT ME!'$"
 
 MtMoon_1F_Text_MiriamIntro::
-    .string "Wow! It's way bigger in here than\n"
-    .string "I thought!$"
+    .string "'Cavern ahead!629 ft deep'$"
 
 MtMoon_1F_Text_MiriamDefeat::
-    .string "Oh!\n"
-    .string "I lost it!$"
+    .string "You have dropped your Backpack.\p"
+    .string "What do you do?$"
 
 MtMoon_1F_Text_MiriamPostBattle::
-    .string "How do you get out of here?\n"
-    .string "It's so big, I may get lost.$"
+    .string "'SEEK MIRAGE MOUNTAIN PATH'$"
 
 MtMoon_1F_Text_JovanIntro::
-    .string "What!\n"
-    .string "Don't sneak up on me!$"
+    .string "WHOOSH!$"
 
 MtMoon_1F_Text_JovanDefeat::
-    .string "My POKéMON won't do!$"
+    .string "YOUR PIKACHU LOOKS SICK!$"
 
 MtMoon_1F_Text_JovanPostBattle::
-    .string "I have to find stronger POKéMON.\n"
-    .string "Where might they be?$"
+    .string "'Try the Dark Cave, they say...'$"
 
 MtMoon_1F_Text_IrisIntro::
-    .string "What?\n"
-    .string "I'm waiting for my friends to find\l"
-    .string "me here.$"
+    .string "'Lost in the Wastes...'$"
 
 MtMoon_1F_Text_IrisDefeat::
-    .string "I lost?$"
+    .string "'Game Over: 'Achilles Heel'\p"
+    .string "defeated by 'Dark Invader'!'$"
 
 MtMoon_1F_Text_IrisPostBattle::
-    .string "I came because I heard there are\n"
-    .string "some very rare fossils here.$"
+    .string "'Rare Claws of Relic Wyrm Found: 3\p"
+    .string "remaining'$"
 
 MtMoon_1F_Text_KentIntro::
-    .string "Suspicious men are in the cave.\n"
-    .string "What about you?$"
+    .string "Stranger appears, eyeing you\p"
+    .string "coolly.$"
 
 MtMoon_1F_Text_KentDefeat::
-    .string "You got me!$"
+    .string "YOU'RE IN MY TRAP!$"
 
 MtMoon_1F_Text_KentPostBattle::
-    .string "I saw them!\n"
-    .string "I'm sure they're from TEAM ROCKET!$"
+    .string "ROCKETS ON THE LOOSE!$"
 
 MtMoon_1F_Text_RobbyIntro::
-    .string "You need to go through this cave\n"
-    .string "to get to CERULEAN CITY.$"
+    .string "Bright lights! Danger lurks ahead!$"
 
 MtMoon_1F_Text_RobbyDefeat::
-    .string "I lost.$"
+    .string "50 GOLD COINS$"
 
 MtMoon_1F_Text_RobbyPostBattle::
-    .string "ZUBAT is tough!\n"
-    .string "But if you can catch one, you'll\l"
-    .string "be able to count on it.$"
+    .string "'You got it! Good luck!'$"
 
 MtMoon_1F_Text_ZubatIsABloodsucker::
-    .string "Beware!\n"
-    .string "ZUBAT is a bloodsucker!$"
+    .string "WITCH CREST AHEAD$"
 
 MtMoon_1F_Text_BrockHelpsExcavateFossils::
-    .string "Hi, I'm excavating for fossils here\n"
-    .string "under MT. MOON.\p"
-    .string "Sometimes, BROCK of PEWTER GYM\n"
-    .string "lends me a hand.$"
+    .string "'Whoa! Got something big here,\p"
+    .string "CHZZT!'$"
+

@@ -1,86 +1,68 @@
 Route10_Text_MarkIntro::
-    .string "Wow, you came all the way here?\n"
-    .string "Maybe you're a POKéMANIAC, too?\l"
-    .string "Want to see my collection?$"
+    .string "'Show me dat Pokemon!'$"
 
 Route10_Text_MarkDefeat::
-    .string "Humph.\n"
-    .string "I'm not angry!$"
+    .string "WHAT'S GOT YOUR GOAT?$"
 
 Route10_Text_MarkPostBattle::
-    .string "I have more rare POKéMON at home!$"
+    .string "'Back to Pallet Town, then?'$"
 
 Route10_Text_ClarkIntro::
-    .string "Ha-hahah-ah-ha!$"
+    .string "LAUGHING MADNESS DESCENDS UPON\p"
+    .string "YOU!$"
 
 Route10_Text_ClarkDefeat::
-    .string "Ha-haha!\n"
-    .string "Not laughing!\l"
-    .string "Ha-hay fever! Haha-ha-choo!$"
+    .string "You're sneezing uncontrollably!$"
 
 Route10_Text_ClarkPostBattle::
-    .string "Haha-ha-choo!\n"
-    .string "Ha-choo!\l"
-    .string "Snort! Snivel!$"
+    .string "'scriber sneezes, sending scrolls\p"
+    .string "scattering!'$"
 
 Route10_Text_HermanIntro::
-    .string "Hi, kid!\n"
-    .string "Want to see my POKéMON?$"
+    .string "Gotta catch 'em all! Get a peek!$"
 
 Route10_Text_HermanDefeat::
-    .string "Oh, no!\n"
-    .string "My POKéMON!$"
+    .string "'.RUN!'$"
 
 Route10_Text_HermanPostBattle::
-    .string "I don't like you.\n"
-    .string "I don't like anyone better than me!$"
+    .string "YOU DARE CHALLENGE MY DOMINION?$"
 
 Route10_Text_HeidiIntro::
-    .string "I've been out at a POKéMON GYM\n"
-    .string "a few times.\p"
-    .string "…But I always lose.$"
+    .string "'Perhaps you just need a stronger\p"
+    .string "team...?'$"
 
 Route10_Text_HeidiDefeat::
-    .string "Ohh!\n"
-    .string "After all my training!$"
+    .string "'UNLEASH THE FURY!'$"
 
 Route10_Text_HeidiPostBattle::
-    .string "I noticed some POKéMANIACS\n"
-    .string "prowling around.\p"
-    .string "Can you imagine? Them?\n"
-    .string "Up here in the mountains?$"
+    .string "INCOMING POKEMON SQUAD!$"
 
 Route10_Text_TrentIntro::
-    .string "Ah!\n"
-    .string "This mountain air is delicious!$"
+    .string "Fresh mountain springs ahead!$"
 
 Route10_Text_TrentDefeat::
-    .string "That cleared my head!$"
+    .string "NO TIME TO DAWdle, ENEMY SPOTTED!$"
 
 Route10_Text_TrentPostBattle::
-    .string "I feel bloated on mountain air!$"
+    .string "'Your lungs ache for relief,\p"
+    .string "descend carefully'$"
 
 Route10_Text_CarolIntro::
-    .string "I'm feeling a bit faint.\n"
-    .string "I haven't hiked in some time.$"
+    .string "CLIMBING BECOMES LABORIOUS$"
 
 Route10_Text_CarolDefeat::
-    .string "I'm too tired.\n"
-    .string "I wasn't up for it.$"
+    .string "WAKE UP, SLAYER!$"
 
 Route10_Text_CarolPostBattle::
-    .string "The POKéMON here in the mountains\n"
-    .string "are so chunky…\p"
-    .string "I wish there were pink POKéMON\n"
-    .string "with a floral pattern!$"
+    .string "You found a FEATHER SEGMENT!$"
 
 Route10_Text_RockTunnelDetourToLavender::
-    .string "ROCK TUNNEL\n"
-    .string "Detour to LAVENDER TOWN$"
+    .string "BOOM! TUNNEL COLLAPSED!$"
 
 Route10_Text_RockTunnel::
-    .string "ROCK TUNNEL$"
+    .string "'Watch out for falling rocks!'$"
 
 Route10_Text_PowerPlant::
-    .string "POWER PLANT$"
+    .string "' Warning: Reactors critical!\p"
+    .string "System failure imminent!'$"
 

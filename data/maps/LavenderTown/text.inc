@@ -1,40 +1,31 @@
 LavenderTown_Text_DoYouBelieveInGhosts::
-    .string "Do you believe in ghosts?$"
+    .string "RUMOR HAS IT, MAVILLE FOREST IS\p"
+    .string "HAUNTED BY restless spirits.$"
 
 LavenderTown_Text_SoThereAreBelievers::
-    .string "Really?\n"
-    .string "So there are believers…$"
+    .string "'Whispers spread darkness within'$"
 
 LavenderTown_Text_JustImaginingWhiteHand::
-    .string "Hahaha, I guess not.\p"
-    .string "That white hand on your shoulder…\n"
-    .string "I'm just imagining it.$"
+    .string "'FEAR THE SHADOW'$"
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
-    .string "This town is known as the grave\n"
-    .string "site of POKéMON.\p"
-    .string "Memorial services are held in\n"
-    .string "POKéMON TOWER.$"
+    .string "RUINS OF THE TOWER AHEAD$"
 
 LavenderTown_Text_GhostsAppearedInTower::
-    .string "Ghosts appeared in POKéMON TOWER.\p"
-    .string "I think they're the spirits of\n"
-    .string "POKéMON that the ROCKETS killed.$"
+    .string "'Beware the malevolent aura'$"
 
 LavenderTown_Text_TownSign::
-    .string "LAVENDER TOWN\n"
-    .string "The Noble Purple Town$"
+    .string "You've arrived in Lavender Town.$"
 
 LavenderTown_Text_SilphScopeNotice::
-    .string "New SILPH SCOPE!\n"
-    .string "Make the Invisible Plain to See!\p"
-    .string "SILPH CO.$"
+    .string "'Activated! Invisible Plains now\p"
+    .string "visible.'$"
 
 LavenderTown_Text_VolunteerPokemonHouse::
-    .string "LAVENDER VOLUNTEER\n"
-    .string "POKéMON HOUSE$"
+    .string "Welcome Volunteer!$"
 
 LavenderTown_Text_PokemonTowerSign::
-    .string "POKéMON TOWER\n"
-    .string "Becalm the Spirits of POKéMON$"
+    .string "'Greetings, Trainer! The mystical\p"
+    .string "energies of POKeMON Tower stir.\n"
+    .string "What secrets will you unravel?'$"
 

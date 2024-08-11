@@ -1,83 +1,74 @@
 RockTunnel_1F_Text_LennyIntro::
-    .string "This tunnel goes a long way, kid!$"
+    .string "'Get ready for the darkest stretch\p"
+    .string "of Underground Pass'$"
 
 RockTunnel_1F_Text_LennyDefeat::
-    .string "Doh!\n"
-    .string "You win!$"
+    .string "CONGRATULATIONS YOU ACED IT!$"
 
 RockTunnel_1F_Text_LennyPostBattle::
-    .string "Watch for ONIX.\n"
-    .string "They appear only occasionally.\p"
-    .string "High-level ones can put the\n"
-    .string "squeeze on you!$"
+    .string " Beware Onix's deadly gaze!$"
 
 RockTunnel_1F_Text_OliverIntro::
-    .string "Hmm.\n"
-    .string "Maybe I'm lost in here…$"
+    .string "Dunno which way to go.$"
 
 RockTunnel_1F_Text_OliverDefeat::
-    .string "Ease up!\n"
-    .string "What am I doing?\l"
-    .string "Which way is out?$"
+    .string "You're in a tight spot. North\p"
+    .string "passage looks like a bad idea.$"
 
 RockTunnel_1F_Text_OliverPostBattle::
-    .string "That sleeping POKéMON on ROUTE 12\n"
-    .string "forced me to take this detour.$"
+    .string "Detour! Current location: WARP\p"
+    .string "POINTALKAFOREST$"
 
 RockTunnel_1F_Text_LucasIntro::
-    .string "Outsiders like you need to show me\n"
-    .string "some respect!$"
+    .string "'BURN, FURRY!'$"
 
 RockTunnel_1F_Text_LucasDefeat::
-    .string "I give!$"
+    .string "'YOUR WALLET IS EMPTY'$"
 
 RockTunnel_1F_Text_LucasPostBattle::
-    .string "You're talented enough to hike!$"
+    .string "'Hike steep ridge. Occtasional\p"
+    .string "mist.'$"
 
 RockTunnel_1F_Text_AshtonIntro::
-    .string "POKéMON fight!\n"
-    .string "Ready, go!$"
+    .string "Charmander uses Ember!$"
 
 RockTunnel_1F_Text_AshtonDefeat::
-    .string "Game over!$"
+    .string "'Press Enter to continue'$"
 
 RockTunnel_1F_Text_AshtonPostBattle::
-    .string "Oh well, I'll get a ZUBAT as I go!$"
+    .string "GRAAAGH!$"
 
 RockTunnel_1F_Text_LeahIntro::
-    .string "Eek!\p"
-    .string "Don't try anything funny in the\n"
-    .string "dark!$"
+    .string "Beware the Shadows$"
 
 RockTunnel_1F_Text_LeahDefeat::
-    .string "It was too dark…$"
+    .string "Can't see a thing...$"
 
 RockTunnel_1F_Text_LeahPostBattle::
-    .string "I saw a MACHOP in this tunnel.$"
+    .string "WATERY DARKNESS AHEAD!!!$"
 
 RockTunnel_1F_Text_DanaIntro::
-    .string "I came this far looking for wild\n"
-    .string "POKéMON.$"
+    .string "You see a dense forest ahead, the\p"
+    .string "trees tall and menacing. Suddenly,\n"
+    .string "a wild Pidgey appears before you!$"
 
 RockTunnel_1F_Text_DanaDefeat::
-    .string "I'm out of POKéMON!$"
+    .string "'PSST! WANT TO BUY A POKE BALL?'$"
 
 RockTunnel_1F_Text_DanaPostBattle::
-    .string "You looked cute and harmless.\n"
-    .string "Was I ever wrong!$"
+    .string "'Giant Spiky Behemoth Ahead!'$"
 
 RockTunnel_1F_Text_ArianaIntro::
-    .string "You have POKéMON!\n"
-    .string "Let's start!$"
+    .string "Wild Pidgey appears!$"
 
 RockTunnel_1F_Text_ArianaDefeat::
-    .string "You play hard!$"
+    .string "BRUTAL DISMISSAL: Your feeble\p"
+    .string "attack is deflected by the enemy's\n"
+    .string "stalwart shield!$"
 
 RockTunnel_1F_Text_ArianaPostBattle::
-    .string "Whew!\n"
-    .string "I'm all sweaty now.$"
+    .string "'I think I need a drink...'$"
 
 RockTunnel_1F_Text_RouteSign::
-    .string "ROCK TUNNEL\n"
-    .string "CERULEAN CITY - LAVENDER TOWN$"
+    .string "Watch out for stalactites!$"
 

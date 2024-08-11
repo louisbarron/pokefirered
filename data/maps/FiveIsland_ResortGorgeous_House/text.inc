@@ -1,68 +1,41 @@
 FiveIsland_ResortGorgeous_House_Text_PleaseHearMyWish::
-    .string "SELPHY: Oh?\n"
-    .string "Do I know you from somewhere?\p"
-    .string "Oh, but that doesn't matter.\p"
-    .string "I am exquisitely bored.\n"
-    .string "Please, hear my wish.$"
+    .string "Speak quickly, adventurer! What is\p"
+    .string "my heart's desire?$"
 
 FiveIsland_ResortGorgeous_House_Text_WishToSeeMonPlease::
-    .string "I wish to see a POKéMON.\n"
-    .string "A darling {STR_VAR_1}.\p"
-    .string "I want to see one right away.\n"
-    .string "Please, make my wish come true.$"
+    .string "A lovely Omanyte has appeared!$"
 
 FiveIsland_ResortGorgeous_House_Text_OhImTiredOfWaiting::
-    .string "SELPHY: Oh, I'm tired of this.\n"
-    .string "I'm tired of waiting for you.\p"
-    .string "I'll forgive you this time, but\n"
-    .string "please don't fail me next time.$"
+    .string "'Energy's low. I must rest.'$"
 
 FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou::
-    .string "SELPHY: Oh, hello, there.\p"
-    .string "Oh, my gracious. That must be the\n"
-    .string "{STR_VAR_1} you caught for me.\p"
-    .string "Giggle…\n"
-    .string "I see a resemblance to you.\p"
-    .string "Thank you so kindly.\p"
-    .string "… …  … …  … …\n"
-    .string "Is something the matter?\p"
-    .string "You may leave.\p"
-    .string "… …  … …  … …\n"
-    .string "Oh, fine. I understand now.\p"
-    .string "SEBASTIAN!\n"
-    .string "I need you here this instant!$"
+    .string "MEET MY NEW PET: CATCH OF THE DAY!$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerYesMyLady::
-    .string "Butler: Yes, my lady.$"
+    .string "'Your highness, the scoundrel has\p"
+    .string "escaped.'$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyGiveTokenOfAppreciation::
-    .string "SELPHY: See to it that this person\n"
-    .string "is given a token of appreciation.$"
+    .string "You found the Selphy!$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerIShallDoAsYouBid::
-    .string "Butler: I shall do as you bid,\n"
-    .string "my lady.$"
+    .string "DOGEAR GUARDS PATROLLING THE HALL$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerPleaseAcceptThisAsHerThanks::
-    .string "Butler: I sincerely thank you for\n"
-    .string "pleasing Lady SELPHY.\p"
-    .string "Please accept this as her thanks…$"
+    .string "You receive: A Golden Pocket Watch$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerBagAppearsToBeFull::
-    .string "Butler: Your BAG appears to be\n"
-    .string "unfortunately full.$"
+    .string "'It's already bursting!'$"
 
 FiveIsland_ResortGorgeous_House_Text_OhHowDisappointing::
-    .string "Oh…\n"
-    .string "How disappointing.$"
+    .string "'Ahk, cursed portal haults thy\p"
+    .string "journey./'$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyWishYouBestOfLuck::
-    .string "SELPHY: I wish you the best of\n"
-    .string "luck.$"
+    .string "'Face danger ahead! Dash to\p"
+    .string "escape!'$"
 
 FiveIsland_ResortGorgeous_House_Text_LadySelphySmileHasBrillianceOfSun::
-    .string "Butler: The smile of Lady SELPHY\n"
-    .string "has the brilliance of the sun.\p"
-    .string "Please, I beg you to bring joy\n"
-    .string "to Lady SELPHY.$"
+    .string "Find Lady SELFY in the manor's\p"
+    .string "east wing.$"
 

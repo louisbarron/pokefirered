@@ -1,33 +1,30 @@
 PokemonTower_4F_Text_PaulaIntro::
-    .string "Ghost! No!\n"
-    .string "Kwaaah!$"
+    .string "You scream as the ghostly\p"
+    .string "apparition disappears!$"
 
 PokemonTower_4F_Text_PaulaDefeat::
-    .string "Where is the ghost?$"
+    .string "'Haunting the Basement'$"
 
 PokemonTower_4F_Text_PaulaPostBattle::
-    .string "I must have been dreaming…$"
+    .string "Suddenly, a figure looms ahead...$"
 
 PokemonTower_4F_Text_LaurelIntro::
-    .string "Be cursed with me!\n"
-    .string "Kwaaah!$"
+    .string "FATE IS SEALED!$"
 
 PokemonTower_4F_Text_LaurelDefeat::
-    .string "What!$"
+    .string "'GRAIL UNDER ATTACK!'$"
 
 PokemonTower_4F_Text_LaurelPostBattle::
-    .string "We can't determine the identity of\n"
-    .string "the ghosts…$"
+    .string "'Mystery aeros'$"
 
 PokemonTower_4F_Text_JodyIntro::
-    .string "Huhuhu…\n"
-    .string "Beat me not!$"
+    .string "KOING TO HELL!$"
 
 PokemonTower_4F_Text_JodyDefeat::
-    .string "Huh?\n"
-    .string "Who? What?$"
+    .string "'WELCOME, TRAVELER'$"
 
 PokemonTower_4F_Text_JodyPostBattle::
-    .string "May the departed POKéMON rest in\n"
-    .string "peace…$"
+    .string "'In perpetual slumber, their\p"
+    .string "essencesn bound to these dread\n"
+    .string "waters.'$"
 

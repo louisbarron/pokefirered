@@ -1,28 +1,24 @@
 PokemonMansion_B1F_Text_LewisIntro::
-    .string "Uh-oh…\n"
-    .string "Where am I now?$"
+    .string "UNKNOWN REALM$"
 
 PokemonMansion_B1F_Text_LewisDefeat::
-    .string "Awooh!$"
+    .string "WANTED: GOLDEN CHICKEN$"
 
 PokemonMansion_B1F_Text_LewisPostBattle::
-    .string "You can find stuff lying around.\n"
-    .string "The residents must've left them.$"
+    .string "'Old Lunchbox'$"
 
 PokemonMansion_B1F_Text_IvanIntro::
-    .string "This place is ideal for a lab.\n"
-    .string "Look at all this space.$"
+    .string "LAB FACILITIES FOUND$"
 
 PokemonMansion_B1F_Text_IvanDefeat::
-    .string "What was that for?$"
+    .string "'Strange energy signature\p"
+    .string "discovered!'$"
 
 PokemonMansion_B1F_Text_IvanPostBattle::
-    .string "I like it here.\n"
-    .string "It's conducive to my studies.$"
+    .string "You've found the Abandoned\p"
+    .string "Monastery Library.$"
 
 PokemonMansion_B1F_Text_MewtwoIsFarTooPowerful::
-    .string "Diary: Sept. 1\n"
-    .string "MEWTWO is far too powerful.\p"
-    .string "We have failed to curb its vicious\n"
-    .string "tendencies…$"
+    .string "Experiment Containment Breach\p"
+    .string "Imminent$"
 

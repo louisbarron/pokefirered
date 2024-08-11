@@ -1,65 +1,40 @@
 FuchsiaCity_WardensHouse_Text_HifFuffHefifoo::
-    .string "WARDEN: Hif fuff hefifoo!\p"
-    .string "Ha lof ha feef ee hafahi ho.\n"
-    .string "Heff hee fwee!$"
+    .string "Here is a snippet of text to be\p"
+    .string "used in the given context:  '\n"
+    .string "Warning: Approach with caution!'$"
 
 FuchsiaCity_WardensHouse_Text_AhHowheeHoHoo::
-    .string "Ah howhee ho hoo!\n"
-    .string "Eef ee hafahi ho!$"
+    .string "'Moonlight gnomes lurk near\p"
+    .string "ancient shrine'$"
 
 FuchsiaCity_WardensHouse_Text_HeOhayHeHaHoo::
-    .string "Ha?\n"
-    .string "He ohay heh ha hoo ee haheh!$"
+    .string "MY PRECIOUS BOSS BAAB!$"
 
 FuchsiaCity_WardensHouse_Text_GaveGoldTeethToWarden::
-    .string "{PLAYER} gave the GOLD TEETH\n"
-    .string "to the WARDEN.$"
+    .string "Keys collected: 5$"
 
 FuchsiaCity_WardensHouse_Text_WardenPoppedInHisTeeth::
-    .string "The WARDEN popped in his teeth!$"
+    .string "'You're goin' down, jailbird!'$"
 
 FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomething::
-    .string "WARDEN: Thanks, son!\n"
-    .string "You're a real lifesaver!\p"
-    .string "No one could understand a word\n"
-    .string "that I said, not a one!\p"
-    .string "I was too ashamed to show my face\n"
-    .string "around the OFFICE, even.\p"
-    .string "Let me give you something for your\n"
-    .string "trouble.$"
+    .string "You receive 50 Galleon Reward$"
 
 FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
-    .string "WARDEN: Thank you, lassie!\n"
-    .string "You're a real lifesaver!\p"
-    .string "No one could understand a word\n"
-    .string "that I said, not a one!\p"
-    .string "I was too ashamed to show my face\n"
-    .string "around the OFFICE, even.\p"
-    .string "Let me give you something for your\n"
-    .string "trouble.$"
+    .string "You receive: 10 Shins$"
 
 FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWarden::
-    .string "{PLAYER} received HM04\n"
-    .string "from the WARDEN.$"
+    .string "'Controller abilities unlocked!'$"
 
 FuchsiaCity_WardensHouse_Text_ExplainStrength::
-    .string "WARDEN: Inside HM04 you'll find\n"
-    .string "STRENGTH.\p"
-    .string "It lets POKéMON move boulders when\n"
-    .string "you're outside of battle.\p"
-    .string "Oh yes, did you find the SECRET\n"
-    .string "HOUSE in the SAFARI ZONE?$"
+    .string "Find HM04, discover STRENGTH!$"
 
 @ Unused
 FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff::
-    .string "なんや　にもつ\n"
-    .string "いっぱいやんけ！$"
+    .string "GET READY FOR A FIGHT!$"
 
 FuchsiaCity_WardensHouse_Text_MonPhotosFossilsOnDisplay::
-    .string "POKéMON photos and fossils are on\n"
-    .string "display.$"
+    .string "'A TREASURE TROVE AWAITS!'$"
 
 FuchsiaCity_WardensHouse_Text_OldMonMerchandiseOnDisplay::
-    .string "Old POKéMON merchandise is on\n"
-    .string "display.$"
+    .string " Rare finds await!$"
 

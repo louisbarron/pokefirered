@@ -1,113 +1,101 @@
 Route11_Text_HugoIntro::
-    .string "Win, lose, or draw!$"
+    .string "'The Crowd is On the Edge!'$"
 
 Route11_Text_HugoDefeat::
-    .string "Atcha!\n"
-    .string "Didn't go my way!$"
+    .string "'Curse ye, fate!'$"
 
 Route11_Text_HugoPostBattle::
-    .string "POKéMON is life!\n"
-    .string "And to live is to play games!$"
+    .string "'Enter BIOS to init Pokedex...'$"
 
 Route11_Text_JasperIntro::
-    .string "Competition!\n"
-    .string "I can't get enough!$"
+    .string "'GET READY TO RUMBLLLL'$"
 
 Route11_Text_JasperDefeat::
-    .string "I had a chance!$"
+    .string "'Gotcha!'$"
 
 Route11_Text_JasperPostBattle::
-    .string "You can't be a coward in the world\n"
-    .string "of POKéMON!$"
+    .string "BOLDLY FORTH, TRAINER!$"
 
 Route11_Text_EddieIntro::
-    .string "Let's go, but don't cheat!$"
+    .string "'Ye olde map clue: Thar be\p"
+    .string "treasure in da nearby caves!'$"
 
 Route11_Text_EddieDefeat::
-    .string "Huh?\n"
-    .string "That's not right!$"
+    .string "Wut? U hed it wrng!$"
 
 Route11_Text_EddiePostBattle::
-    .string "I did my best.\n"
-    .string "I have no regrets.$"
+    .string "YOUR SPIRIT ENDS WITH A SIGH...$"
 
 Route11_Text_BraxtonIntro::
-    .string "Careful!\n"
-    .string "I'm laying down some cables!$"
+    .string "Laying down cables, eh?$"
 
 Route11_Text_BraxtonDefeat::
-    .string "That was electric!$"
+    .string "ZAPPED BY ENERGY SURGE!$"
 
 Route11_Text_BraxtonPostBattle::
-    .string "Spread the word to save energy!$"
+    .string "'Power Grid Alert: Conservation\p"
+    .string "Critical!'$"
 
 Route11_Text_DillonIntro::
-    .string "I just became a TRAINER.\n"
-    .string "But, I think I can win.$"
+    .string "FIGHT START! GO, CHOOSE YOUR PATH!$"
 
 Route11_Text_DillonDefeat::
-    .string "My POKéMON couldn't win…\n"
-    .string "Haven't they grown enough?$"
+    .string "'Try reviving one, Trainer!'$"
 
 Route11_Text_DillonPostBattle::
-    .string "What now?\n"
-    .string "Leave me alone!$"
+    .string "'GRAH! FEEBLE OLE FARTHER!'$"
 
 Route11_Text_DirkIntro::
-    .string "Fwahaha!\n"
-    .string "I have never lost!$"
+    .string "'I shall crush you like the\p"
+    .string "insignificant insect you are!'$"
 
 Route11_Text_DirkDefeat::
-    .string "My first loss!$"
+    .string "'FELL TO DARKNESS'$"
 
 Route11_Text_DirkPostBattle::
-    .string "You were just lucky, that's all.$"
+    .string "'Not going to rely on luck to win\p"
+    .string "this war!'$"
 
 Route11_Text_DarianIntro::
-    .string "I have never won before…$"
+    .string "'LAUNCH CHANCE. WHAT ARE YOU\p"
+    .string "WAITING FOR?'$"
 
 Route11_Text_DarianDefeat::
-    .string "I saw this coming…$"
+    .string "'FATE IS COMING...'$"
 
 Route11_Text_DarianPostBattle::
-    .string "I was unlucky, as always.$"
+    .string "'Rolling a gutter ball... AGAIN!'$"
 
 Route11_Text_YasuIntro::
-    .string "I'm the best in my class.\n"
-    .string "I train every morning.$"
+    .string "FITNESS LEVEL: 80$"
 
 Route11_Text_YasuDefeat::
-    .string "Darn!\n"
-    .string "My POKéMON need to be stronger!$"
+    .string "Visit Professor Oak's Lab for\p"
+    .string "training tips!$"
 
 Route11_Text_YasuPostBattle::
-    .string "There's a fat POKéMON that comes\n"
-    .string "down from the mountains.\p"
-    .string "I bet it'd be strong if you can\n"
-    .string "catch it.$"
+    .string "'A JOLT CATCH!'$"
 
 Route11_Text_BernieIntro::
-    .string "Watch out for live wires!$"
+    .string "'FUSE BOX DAMAGED! CAREFUL\p"
+    .string "NodeList: 3'$"
 
 Route11_Text_BernieDefeat::
-    .string "Whoa!\n"
-    .string "You spark plug!$"
+    .string "CAUTION: Fuel Leak Ahead!$"
 
 Route11_Text_BerniePostBattle::
-    .string "Well, better get back to work.$"
+    .string "TIME'S A-WASTIN'!$"
 
 Route11_Text_DaveIntro::
-    .string "I raised my POKéMON carefully.\n"
-    .string "They should be ready by now!$"
+    .string "Your Pokemon are ready!$"
 
 Route11_Text_DaveDefeat::
-    .string "Bye-bye!\n"
-    .string "Thank you, and good-bye!$"
+    .string "GAME OVER$"
 
 Route11_Text_DavePostBattle::
-    .string "Tch…\n"
-    .string "I better go find stronger ones!$"
+    .string "WAND WITH 3 MP STRUK$"
 
 Route11_Text_DiglettsCave::
-    .string "DIGLETT'S CAVE$"
+    .string " Rochelle trapped. Diggleton's\p"
+    .string "rare crystals stolen!$"
 

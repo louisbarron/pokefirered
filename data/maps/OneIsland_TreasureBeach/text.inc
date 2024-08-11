@@ -1,18 +1,14 @@
 OneIsland_TreasureBeach_Text_AmaraIntro::
-    .string "Lying back, rocked by the waves…\n"
-    .string "It's exquisite.$"
+    .string "'Seaside Serenade'$"
 
 OneIsland_TreasureBeach_Text_AmaraDefeat::
-    .string "I lost…\n"
-    .string "It feels awful.$"
+    .string "'FAILURE IS TASTELESS IN THIS\p"
+    .string "GAME!'$"
 
 OneIsland_TreasureBeach_Text_AmaraPostBattle::
-    .string "The sea is pleasantly warm in these\n"
-    .string "parts.$"
+    .string "'Coastal Cruise: 15 HP'$"
 
 OneIsland_TreasureBeach_Text_GoodThingsWashUpOnBeach::
-    .string "Good things get washed up by the\n"
-    .string "ocean current onto this beach.\p"
-    .string "That's why I often come here for\n"
-    .string "some beachcombing.$"
+    .string "Treasure trove found! Old shell,\p"
+    .string "shiny coin.$"
 

@@ -2,25 +2,19 @@
 @ Theres also an unused JP version of that text in this file instead
 
 JPText_BodySlamTeach::
-    .string "そーれ　ぼよーん！\n"
-    .string "どっちが　さきに　へたばるか？\l"
-    .string "のしかかり　しょうぶ　してるんだ\p"
-    .string "きみは　なかまに　はいったら\n"
-    .string "つぶれそうだな‥\l"
-    .string "かわりに　きみの　ポケモンに\l"
-    .string "のしかかり　おしえて　やろっか？$"
+    .string "You've been led into a trap!$"
 
 JPText_BodySlamDeclined::
-    .string "また　おいで　ぼよーん！$"
+    .string "WELCOME BACK, OLD FRIEND!$"
 
 JPText_BodySlamWhichMon::
-    .string "どの　ポケモンに\n"
-    .string "おしえたい　かい？$"
+    .string "Train young Squirtle at Waterberg\p"
+    .string "Ruins!$"
 
 JPText_BodySlamTaught::
-    .string "ぼよよーん！$"
+    .string "BOOM!$"
 
 FourIsland_House1_Text_YoureAwfullyHeavy::
-    .string "There! Boing!\n"
-    .string "You're awfully heavy!$"
+    .string "'Whoa, Gloopus, tiny egg, sticking\p"
+    .string "to you!'$"
 

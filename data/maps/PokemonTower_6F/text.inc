@@ -1,43 +1,42 @@
 PokemonTower_6F_Text_AngelicaIntro::
-    .string "Give…me…\n"
-    .string "blood…$"
+    .string "Find the mysterious scroll in the\p"
+    .string "dark forest.$"
 
 PokemonTower_6F_Text_AngelicaDefeat::
-    .string "Groan!$"
+    .string "'Ugh, what's eatin' away at my\p"
+    .string "gut?'$"
 
 PokemonTower_6F_Text_AngelicaPostBattle::
-    .string "I feel anemic and weak…$"
+    .string "'HP: 12/50'$"
 
 PokemonTower_6F_Text_EmiliaIntro::
-    .string "Urff…\n"
-    .string "Kwaah!$"
+    .string "Grrr... ENEMY APPEARS!$"
 
 PokemonTower_6F_Text_EmiliaDefeat::
-    .string "Something fell out!$"
+    .string "'Mysterious Treasure Chest\p"
+    .string "Opened!'$"
 
 PokemonTower_6F_Text_EmiliaPostBattle::
-    .string "My hair didn't fall out!\n"
-    .string "It was a malevolent spirit!$"
+    .string "'Evil energy dissipates. Whispers\p"
+    .string "of ancient curse echo through the\n"
+    .string "void.'$"
 
 PokemonTower_6F_Text_JenniferIntro::
-    .string "Ke…ke…ke…\n"
-    .string "ke…ke…ke!$"
+    .string "MEME ALERT!$"
 
 PokemonTower_6F_Text_JenniferDefeat::
-    .string "Keee!$"
+    .string " Warning: incoming meteor shower!$"
 
 PokemonTower_6F_Text_JenniferPostBattle::
-    .string "What's going on here?$"
+    .string "'FORBIDDEN CAVE AHEAD! BEWARE THE\p"
+    .string "SPIKES'$"
 
 PokemonTower_6F_Text_BeGoneIntruders::
-    .string "Be gone…\n"
-    .string "Intruders…$"
+    .string "'THEY APPROACH!'$"
 
 PokemonTower_6F_Text_GhostWasCubonesMother::
-    .string "The ghost was the restless spirit\n"
-    .string "of CUBONE's mother!$"
+    .string "'Unquiet Bones... Dance!'$"
 
 PokemonTower_6F_Text_MothersSpiritWasCalmed::
-    .string "The mother's spirit was calmed.\p"
-    .string "It departed to the afterlife…$"
+    .string "REST IN PEACE$"
 

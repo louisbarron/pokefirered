@@ -1,95 +1,76 @@
 RockTunnel_B1F_Text_SofiaIntro::
-    .string "Do you know how you can avoid\n"
-    .string "getting lost in the mountains?\p"
-    .string "You can bend twigs as trail\n"
-    .string "markers.$"
+    .string "'BEND TWIGS FOR TRAIL MARKER'$"
 
 RockTunnel_B1F_Text_SofiaDefeat::
-    .string "Ohhh!\n"
-    .string "I did my best!$"
+    .string ".Standard.Standard Allowance\p"
+    .string "Acquired!$"
 
 RockTunnel_B1F_Text_SofiaPostBattle::
-    .string "I want to go home!$"
+    .string "HOME IS WEST OF HERE$"
 
 RockTunnel_B1F_Text_DudleyIntro::
-    .string "Hahaha!\n"
-    .string "Can you beat my power?$"
+    .string "CHRGR UNLESHED!$"
 
 RockTunnel_B1F_Text_DudleyDefeat::
-    .string "Oops!\n"
-    .string "Outmuscled!$"
+    .string "YOU MUST STRENGTHEN YOUR MUSCLES!$"
 
 RockTunnel_B1F_Text_DudleyPostBattle::
-    .string "I go for power because I hate\n"
-    .string "thinking.$"
+    .string "You've chosen POWER OVER WISDOM.$"
 
 RockTunnel_B1F_Text_CooperIntro::
-    .string "You have a POKéDEX?\n"
-    .string "I want one, too.$"
+    .string "Acquiring POKeDEX in progress...$"
 
 RockTunnel_B1F_Text_CooperDefeat::
-    .string "Shoot!\n"
-    .string "I am so jealous!$"
+    .string "'source code security breach!\p"
+    .string "seeking new access codes'$"
 
 RockTunnel_B1F_Text_CooperPostBattle::
-    .string "When you finish your POKéDEX,\n"
-    .string "can I have it?$"
+    .string "'GRAA! MY LIFE'S WORK!'$"
 
 RockTunnel_B1F_Text_SteveIntro::
-    .string "Um… Do you know about POKéMON\n"
-    .string "cosplay?$"
+    .string "Pikachu's Power Surged!$"
 
 RockTunnel_B1F_Text_SteveDefeat::
-    .string "Well, that's that.$"
+    .string "'CONTINUE?'$"
 
 RockTunnel_B1F_Text_StevePostBattle::
-    .string "POKéMON cosplay is dressing up as\n"
-    .string "POKéMON for fun.\p"
-    .string "CLEFAIRY is a favorite.$"
+    .string "You're a fashionista Fairy, eh?$"
 
 RockTunnel_B1F_Text_AllenIntro::
-    .string "My POKéMON techniques will leave\n"
-    .string "you crying!$"
+    .string "GALVANTINE: 100 DAMAGE!$"
 
 RockTunnel_B1F_Text_AllenDefeat::
-    .string "I give!\n"
-    .string "You're a better technician!$"
+    .string "'System Reboot Initializing...'$"
 
 RockTunnel_B1F_Text_AllenPostBattle::
-    .string "In mountains, you'll often find\n"
-    .string "ROCK-type POKéMON.$"
+    .string "'Traversing the rocky terrain, you\p"
+    .string "spot a GRONPEA!'$"
 
 RockTunnel_B1F_Text_MarthaIntro::
-    .string "I don't often come here, but I will\n"
-    .string "battle you.$"
+    .string "THE SNOWY MOUNTAINS AWAIT!$"
 
 RockTunnel_B1F_Text_MarthaDefeat::
-    .string "Oh!\n"
-    .string "I lost!$"
+    .string "GAME OVER!$"
 
 RockTunnel_B1F_Text_MarthaPostBattle::
-    .string "I like tiny POKéMON.\n"
-    .string "Big ones are too scary!$"
+    .string "FOUND: Pidgey!$"
 
 RockTunnel_B1F_Text_EricIntro::
-    .string "Hit me with your best shot!$"
+    .string "'ENEMY ALIEN APPROACHING!'$"
 
 RockTunnel_B1F_Text_EricDefeat::
-    .string "Fired away!$"
+    .string "Explosion 20/20 Crit hitsguards!$"
 
 RockTunnel_B1F_Text_EricPostBattle::
-    .string "I'll raise my POKéMON to beat\n"
-    .string "yours, kid.$"
+    .string "Bring it on!$"
 
 RockTunnel_B1F_Text_WinstonIntro::
-    .string "I draw illustrations of POKéMON\n"
-    .string "when I'm home.$"
+    .string "You've been doodling Pikachu all\p"
+    .string "evening...$"
 
 RockTunnel_B1F_Text_WinstonDefeat::
-    .string "Whew…\n"
-    .string "I'm exhausted…$"
+    .string "Resting...$"
 
 RockTunnel_B1F_Text_WinstonPostBattle::
-    .string "I'm an artist, not a fighter.\n"
-    .string "I'll go home to draw.$"
+    .string "'Returning to humble abode'$"
 

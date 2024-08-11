@@ -1,12 +1,10 @@
 RocketHideout_B2F_Text_GruntIntro::
-    .string "BOSS said you can see ghosts with\n"
-    .string "the SILPH SCOPE.$"
+    .string "BEEP BOOP Ghost Energy detected!$"
 
 RocketHideout_B2F_Text_GruntDefeat::
-    .string "I surrender!$"
+    .string "Foe Defeated!$"
 
 RocketHideout_B2F_Text_GruntPostBattle::
-    .string "The TEAM ROCKET HQ has four\n"
-    .string "underground floors.\p"
-    .string "Think you can reach the BOSS?$"
+    .string "'First floor: LAB   Storage rooms\p"
+    .string "and old experiment equipment.'$"
 

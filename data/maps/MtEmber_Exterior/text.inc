@@ -1,144 +1,100 @@
 Text_ExplosionTeach::
-    .string "Can you imagine?\n"
-    .string "If this volcano were to erupt?\p"
-    .string "The explosion would be the end of\n"
-    .string "us. How terrifying is that?\p"
-    .string "While we're terrified, would you\n"
-    .string "like me to teach EXPLOSION?$"
+    .string "TEACH EXPLOSION? Y/N$"
 
 Text_ExplosionDeclined::
-    .string "Yeah, you're right.\n"
-    .string "It is too terrifying.$"
+    .string "'BEHOLD THE TERRIFYING SHADOW!'$"
 
 Text_ExplosionWhichMon::
-    .string "You're terribly brave!\p"
-    .string "Which POKéMON should I teach\n"
-    .string "EXPLOSION?$"
+    .string "'Choose wisely, trainer...'$"
 
 Text_ExplosionTaught::
-    .string "Using EXPLOSION while on this\n"
-    .string "volcano…\p"
-    .string "What a terrifying thrill!$"
+    .string "WOOHOO!$"
 
 @ Below 4 are unused JP versions of the above texts
 Text_ExplosionTeachJP::
-    .string "こ　この　かざんが\n"
-    .string "もし　だいばくはつ　したら\l"
-    .string "お　おれら　ひとたまりも\l"
-    .string "ないなあ　‥ブルブル！\p"
-    .string "こ　こわい　ついでに\n"
-    .string "だいばくはつ　でも　おぼえてみる？$"
+    .string "'Brimstone Peak looms ahead!'$"
 
 Text_ExplosionDeclinedJP::
-    .string "や　やっぱ　こわいもんな\n"
-    .string "ブルブル$"
+    .string "-you're right, those noises are\p"
+    .string "terrifying-$"
 
 Text_ExplosionWhichMonJP::
-    .string "つ　つよきだね！\n"
-    .string "じゃあ　どの　ポケモンに　する？$"
+    .string "CHOOSE: POKEMON$"
 
 Text_ExplosionTaughtJP::
-    .string "かざんで　だいばくはつを‥\n"
-    .string "す　すごい　スリル！$"
+    .string "'THRILLING ADVENTURE AWAITS!'$"
 
 MtEmber_Exterior_Text_WellTryDiggingHere::
-    .string "Over here.\n"
-    .string "We'll try digging here.\p"
-    .string "That treasure the ADMINS've been\n"
-    .string "talking about should be here.$"
+    .string "Digging...found something! clink$"
 
 MtEmber_Exterior_Text_YoureInTheWayGetLost::
-    .string "What the…?\n"
-    .string "You're in the way. Get lost.$"
+    .string "'Cnd ppr u r?!'$"
 
 MtEmber_Exterior_Text_PunchedThroughAtLast::
-    .string "Whew, punched through at last.\n"
-    .string "Let's go treasure hunting!$"
+    .string "Treasure ahead! X marks spot.$"
 
 MtEmber_Exterior_Text_WhatsPasswordAgain::
-    .string "Any treasure we find, we haul back\n"
-    .string "to the WAREHOUSE, understood?\p"
-    .string "…Oh, and what're the passwords?\n"
-    .string "At the ROCKET WAREHOUSE, I mean.$"
+    .string "'Cartridge codes, Old Glory'$"
 
 MtEmber_Exterior_Text_FirstPasswordGoldeen::
-    .string "What, you forgot the password?\n"
-    .string "There're actually two.\p"
-    .string "The first one's “GOLDEEN need\n"
-    .string "log.”\p"
-    .string "And the second one is…$"
+    .string " Password Needed...$"
 
 MtEmber_Exterior_Text_SnoopsBeenListeningIn::
-    .string "Hey!\n"
-    .string "This snoop's been listening in!$"
+    .string "'Enemy undercover agent detected!'$"
 
 MtEmber_Exterior_Text_Grunt1Intro::
-    .string "You've been eavesdropping on us,\n"
-    .string "haven't you?$"
+    .string "'Shhh! Let's get outta here, I\p"
+    .string "heard the Sheriff's on his way!'$"
 
 MtEmber_Exterior_Text_Grunt1Defeat::
-    .string "Huh, what?$"
+    .string "'Objects in mirror are closer than\p"
+    .string "they appear.'$"
 
 MtEmber_Exterior_Text_Grunt1PostBattle::
-    .string "Why'd you have to win?$"
+    .string "FOUL DEED! WIZARD STOLE YOUR\p"
+    .string "PRECIOUS AMULET!$"
 
 MtEmber_Exterior_Text_Grunt2Intro::
-    .string "Trying to horn in on our treasure?\n"
-    .string "Don't bet on it!$"
+    .string "You're no match for our gear!$"
 
 MtEmber_Exterior_Text_Grunt2Defeat::
-    .string "Wait!\n"
-    .string "But how?$"
+    .string "USE KEYCARD NOW?!$"
 
 MtEmber_Exterior_Text_Grunt2PostBattle::
-    .string "Develop amnesia conveniently and\n"
-    .string "forget everything you heard!$"
+    .string "Memory Lost!$"
 
 MtEmber_Exterior_Text_WellRegroupDontStepInsideThere::
-    .string "What a setback…\n"
-    .string "We'll have to regroup.\p"
-    .string "You! Don't even think about taking\n"
-    .string "a step inside here!\p"
-    .string "If you know what's good for you,\n"
-    .string "don't even think about this!$"
+    .string "'Turn back now, while you still\p"
+    .string "can...'$"
 
 MtEmber_Exterior_Text_LoganIntro::
-    .string "An active volcano is one that's\n"
-    .string "erupting, or about to.$"
+    .string "VOLCANIC ERUPTION IMMINENT!$"
 
 MtEmber_Exterior_Text_LoganDefeat::
-    .string "Whew… That was hot!\n"
-    .string "Sweat's erupting from me!$"
+    .string "TRAPTEMPERED$"
 
 MtEmber_Exterior_Text_LoganPostBattle::
-    .string "They say there're over 1,500\n"
-    .string "active volcanoes in the world.\p"
-    .string "Just thinking about them makes me\n"
-    .string "feel all hot and gooey inside!$"
+    .string "INFERNAL WARNING: 'Beware the\p"
+    .string "Fiery Furnace!'$"
 
 MtEmber_Exterior_Text_BethIntro::
-    .string "Do you know how caves form inside\n"
-    .string "volcanoes?$"
+    .string "Magma chambers beneath ancient\p"
+    .string "volcanoes cooled, depositing\n"
+    .string "minerals  igneous rocks.$"
 
 MtEmber_Exterior_Text_BethDefeat::
-    .string "Atchah!\n"
-    .string "You're shockingly good!$"
+    .string "'YOU'RE ON A ROLL!'$"
 
 MtEmber_Exterior_Text_BethPostBattle::
-    .string "When lava at the surface of magma\n"
-    .string "hardens, and the magma inside flows\l"
-    .string "out, caverns are left behind.$"
+    .string "'Geysers of ancient underworlds\p"
+    .string "discovered...'$"
 
 MtEmber_Exterior_Text_JocelynIntro::
-    .string "I've been in training so I can mend\n"
-    .string "my broken heart…\p"
-    .string "It toughened me up physically at\n"
-    .string "least! Hi-yah!$"
+    .string "HEARTBEAT RHYTHMsage okido!$"
 
 MtEmber_Exterior_Text_JocelynDefeat::
-    .string "I think I tried to overdo it…$"
+    .string "WARNING: LOW HEALTH$"
 
 MtEmber_Exterior_Text_JocelynPostBattle::
-    .string "The way you battle, it reminds me\n"
-    .string "of the guy who dumped me…$"
+    .string "'REALLY?!'$"
 

@@ -1,164 +1,144 @@
 OneIsland_KindleRoad_Text_MariaIntro::
-    .string "The weather's gorgeous!\n"
-    .string "Perfect for a battle!$"
+    .string "Clear skies ahead! Ready for\p"
+    .string "takeoff!$"
 
 OneIsland_KindleRoad_Text_MariaDefeat::
-    .string "Aiyeeeeh!$"
+    .string "' ';  ;$"
 
 OneIsland_KindleRoad_Text_MariaPostBattle::
-    .string "Please don't splash my face!\n"
-    .string "You'll ruin the makeup.$"
+    .string "'BABE'S CAREFULLY PREPARED FACE\p"
+    .string "UNDER THREAT!'$"
 
 OneIsland_KindleRoad_Text_AbigailIntro::
-    .string "I'm beginning to get a sunburn…$"
+    .string "'Ouch! Shade is a luxury, not a\p"
+    .string "right!'$"
 
 OneIsland_KindleRoad_Text_AbigailDefeat::
-    .string "Oh, you're so awful.$"
+    .string "'GET IT TOGETHER, WARRIOR!'$"
 
 OneIsland_KindleRoad_Text_AbigailPostBattle::
-    .string "I like that cap you have.\n"
-    .string "Maybe I should wear one, too…$"
+    .string "'' Try one on, i dare ya!$"
 
 OneIsland_KindleRoad_Text_FinnIntro::
-    .string "Seen from here, MT. EMBER towers\n"
-    .string "into the sky.$"
+    .string "Climb slow, burning winds strong!$"
 
 OneIsland_KindleRoad_Text_FinnDefeat::
-    .string "Well, aren't you tough?$"
+    .string "'BRING IT ON, GRUDGE!'$"
 
 OneIsland_KindleRoad_Text_FinnPostBattle::
-    .string "The sky is immense around these\n"
-    .string "parts.$"
+    .string "You See Nothing But Endless Blue$"
 
 OneIsland_KindleRoad_Text_GarrettIntro::
-    .string "I took a break from swimming,\n"
-    .string "only to have you challenge me?$"
+    .string "'Ready for some relaxation? Think\p"
+    .string "again!'$"
 
 OneIsland_KindleRoad_Text_GarrettDefeat::
-    .string "Hey, what the…\n"
-    .string "You're good, you!$"
+    .string "'Congrats, JOATnik! You survive\p"
+    .string "initial blast wave!'$"
 
 OneIsland_KindleRoad_Text_GarrettPostBattle::
-    .string "Instead of using SURF all the time,\n"
-    .string "you should swim some.$"
+    .string "'DIVE INTO ACTION!'$"
 
 OneIsland_KindleRoad_Text_TommyIntro::
-    .string "Wait! Wait a second!\n"
-    .string "I think I've hooked a big one!$"
+    .string "GIT IT IN, FISH!$"
 
 OneIsland_KindleRoad_Text_TommyDefeat::
-    .string "I've lost it all again…$"
+    .string "'GOLDEN CHIPS: 0, LIVES: 3'$"
 
 OneIsland_KindleRoad_Text_TommyPostBattle::
-    .string "Not only did I lose, the big one\n"
-    .string "got away from me, too!$"
+    .string "'AH! FISH 'N' RAGE!'$"
 
 OneIsland_KindleRoad_Text_SharonIntro::
-    .string "Could you help me out with my\n"
-    .string "training?$"
+    .string "Potions available: HP 5, STR 2$"
 
 OneIsland_KindleRoad_Text_SharonDefeat::
-    .string "You were a cut above me.$"
+    .string "'Ha! You think you can take me\p"
+    .string "down?'$"
 
 OneIsland_KindleRoad_Text_SharonPostBattle::
-    .string "It's clear that you're skilled.\n"
-    .string "I like you!$"
+    .string "'Wise words from the elderly\p"
+    .string "sage!'$"
 
 OneIsland_KindleRoad_Text_TanyaIntro::
-    .string "There isn't a day in which we don't\n"
-    .string "train!$"
+    .string "Train regimen updated.$"
 
 OneIsland_KindleRoad_Text_TanyaDefeat::
-    .string "I'm such a fool!$"
+    .string "'RUN! THE MONSTER CHASES THEE!'$"
 
 OneIsland_KindleRoad_Text_TanyaPostBattle::
-    .string "I'll train even harder from now on!$"
+    .string "' THE PATH TO GLORY AWAITS!'$"
 
 OneIsland_KindleRoad_Text_SheaIntro::
-    .string "Every morning, before breakfast,\n"
-    .string "I swim around this island.$"
+    .string "'WARM SAND BETWEEN TOES... COCONUT\p"
+    .string "TREES SWAYING GENTLY'$"
 
 OneIsland_KindleRoad_Text_SheaDefeat::
-    .string "Gasp…\n"
-    .string "Gasp…$"
+    .string "'Whispers echo through the\p"
+    .string "void...'$"
 
 OneIsland_KindleRoad_Text_SheaPostBattle::
-    .string "I lost because I'm pooped from all\n"
-    .string "the running I did…$"
+    .string "You're feeling a bit worn out...\p"
+    .string "Zzz...$"
 
 OneIsland_KindleRoad_Text_HughIntro::
-    .string "Dress appropriately for battle!\n"
-    .string "Lose that frivolous outfit!$"
+    .string "Equip Warrior Garb$"
 
 OneIsland_KindleRoad_Text_HughDefeat::
-    .string "Why me?!$"
+    .string "'ANCHOR'S AWAY! THE ISLAND'S CURSE\p"
+    .string "HOUNDS YOU.'$"
 
 OneIsland_KindleRoad_Text_HughPostBattle::
-    .string "Even martial artists are becoming\n"
-    .string "fashion conscious these days…$"
+    .string "Kimono Shop: 'New arrivals!$"
 
 OneIsland_KindleRoad_Text_BryceIntro::
-    .string "You know, everything tastes great\n"
-    .string "when you're out in the wild.$"
+    .string "'TIME TO GRILL!'$"
 
 OneIsland_KindleRoad_Text_BryceDefeat::
-    .string "Awww, blown!$"
+    .string "Karma! Your ship's outta fuel!\p"
+    .string "Grab some at nearest outpost!$"
 
 OneIsland_KindleRoad_Text_BrycePostBattle::
-    .string "The water in volcanic regions is\n"
-    .string "delicious.$"
+    .string "WARNING: Toxins Ahead!$"
 
 OneIsland_KindleRoad_Text_ClaireIntro::
-    .string "My lunch filled us up, so will you\n"
-    .string "battle us for some exercise?$"
+    .string "'GOT 'EM! CHALLENGE ACCEPTED!'$"
 
 OneIsland_KindleRoad_Text_ClaireDefeat::
-    .string "That made me all sweaty.$"
+    .string "'YOU FINALLY SUMMONED THE COURAGE\p"
+    .string "TO ENTER THE CAVE'$"
 
 OneIsland_KindleRoad_Text_ClairePostBattle::
-    .string "What should I do?\n"
-    .string "I feel famished again.$"
+    .string "'Food Urizen: NEARBY CABIN'$"
 
 OneIsland_KindleRoad_Text_KiaIntro::
-    .string "KIA: My big brother and I make\n"
-    .string "an awesome combination!$"
+    .string "'Unstoppable duo awakens!'$"
 
 OneIsland_KindleRoad_Text_KiaDefeat::
-    .string "KIA: Huh?!\n"
-    .string "I can't believe it!$"
+    .string "'WHAT IN THE WORLD...?!'$"
 
 OneIsland_KindleRoad_Text_KiaPostBattle::
-    .string "KIA: How could there be anyone\n"
-    .string "better than my big brother?$"
+    .string "'WAIT TILL YOU SEE THEODORE IN\p"
+    .string "ACTION!'$"
 
 OneIsland_KindleRoad_Text_KiaNotEnoughMons::
-    .string "KIA: If you want to battle with\n"
-    .string "us, you have to bring at least two\l"
-    .string "POKéMON with you.$"
+    .string "'The challenge awaits, trainer!'$"
 
 OneIsland_KindleRoad_Text_MikIntro::
-    .string "MIK: Together with KIA, I'm afraid\n"
-    .string "of nothing!$"
+    .string "'Bring it on, punks!'$"
 
 OneIsland_KindleRoad_Text_MikDefeat::
-    .string "MIK: Whoa!\n"
-    .string "That's too much!$"
+    .string "'TOO HOT!'$"
 
 OneIsland_KindleRoad_Text_MikPostBattle::
-    .string "MIK: How could my combination\n"
-    .string "with KIA fail?$"
+    .string "'Impossible! Your partnership is\p"
+    .string "DOOMED!'$"
 
 OneIsland_KindleRoad_Text_MikNotEnoughMons::
-    .string "MIK: Hey, do you want to battle\n"
-    .string "with us two?\p"
-    .string "Bring two or more POKéMON with\n"
-    .string "you, then.$"
+    .string "Yeah, bring it on!$"
 
 OneIsland_KindleRoad_Text_RouteSign::
-    .string "This is KINDLE ROAD.\p"
-    .string "Go straight for MT. EMBER.$"
+    .string "Descend into the Canyon!$"
 
 OneIsland_KindleRoad_Text_EmberSpaSign::
-    .string "Light the Fire in Your Heart!\n"
-    .string "EMBER SPA$"
+    .string "INTEGERITY TEST: PREPARE THYSELF!$"
 

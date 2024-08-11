@@ -1,54 +1,39 @@
 Text_SeismicTossTeach::
-    .string "The secrets of space…\n"
-    .string "The mysteries of earth…\p"
-    .string "There are so many things about\n"
-    .string "which we know so little.\p"
-    .string "But that should spur us to study\n"
-    .string "harder, not toss in the towel.\p"
-    .string "The only thing you should toss…\p"
-    .string "Well, how about SEISMIC TOSS?\n"
-    .string "Should I teach that to a POKéMON?$"
+    .string "STAUNCHLY PREPARE FOR SEISMIC\p"
+    .string "TOSS!$"
 
 Text_SeismicTossDeclined::
-    .string "Is that so?\n"
-    .string "I'm sure you'll be back for it.$"
+    .string "You bet your life it is!$"
 
 Text_SeismicTossWhichMon::
-    .string "Which POKéMON wants to learn\n"
-    .string "SEISMIC TOSS?$"
+    .string "Snivy$"
 
 Text_SeismicTossTaught::
-    .string "I hope you won't toss in the towel.\n"
-    .string "Keep it up.$"
+    .string "'YOU'VE GOT THIS! STAY FOCUSED!'$"
 
 PewterCity_Museum_1F_Text_WhatsSpecialAboutMoonStone::
-    .string "MOON STONE, huh?\p"
-    .string "What's so special about it?\n"
-    .string "Looks like an ordinary rock to me.$"
+    .string "'Power of Nature: Adds 5 HP'$"
 
 PewterCity_Museum_1F_Text_BoughtColorTVForMoonLanding::
-    .string "July 20, 1969!\p"
-    .string "Humankind first set foot on the\n"
-    .string "moon that day.\p"
-    .string "I bought a color TV just so I\n"
-    .string "could watch that news.$"
+    .string "'YOUR MISSION: DECODE THE MESSAGE\p"
+    .string "OF THE MUMBLING HOST'$"
 
 PewterCity_Museum_1F_Text_RunningSpaceExhibitThisMonth::
-    .string "This month, we're running a space\n"
-    .string "exhibit.$"
+    .string "'BLAST OFF  EXPLORE THE COSMOS!'$"
 
 PewterCity_Museum_1F_Text_AskedDaddyToCatchPikachu::
-    .string "I want a PIKACHU!\n"
-    .string "It's so cute!\p"
-    .string "I asked my daddy to catch me one!$"
+    .string " DATABASE malfunc   ERR:\p"
+    .string "UNEXPECTED Wildlife Encounter!\n"
+    .string "CATCH: PIKACHU SURFER!$"
 
 PewterCity_Museum_1F_Text_PikachuSoonIPromise::
-    .string "Yeah, a PIKACHU soon, I promise!$"
+    .string "'RUMBLINGS OF A HIDDEN POKEMON\p"
+    .string "DETECTED'$"
 
 PewterCity_Museum_1F_Text_SpaceShuttle::
-    .string "Space Shuttle$"
+    .string "'Approach the Shuttle... Critical\p"
+    .string "Systems Online'$"
 
 PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoon::
-    .string "A meteorite that fell on MT. MOON.\n"
-    .string "It is thought to be a MOON STONE.$"
+    .string "MOON STONE FOUND ON MT. MOON!$"
 

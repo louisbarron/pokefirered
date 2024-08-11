@@ -1,36 +1,30 @@
 PokemonTower_3F_Text_HopeIntro::
-    .string "Urrg… Awaa…\n"
-    .string "Huhu… Graa…$"
+    .string "' Warning: Abandoned Mine Ahead'$"
 
 PokemonTower_3F_Text_HopeDefeat::
-    .string "Hwa!\n"
-    .string "I'm saved!$"
+    .string "Rescued by brave adventurer, Hwa!$"
 
 PokemonTower_3F_Text_HopePostBattle::
-    .string "The ghosts can be identified by\n"
-    .string "the SILPH SCOPE.$"
+    .string "'Scope detected: Slim initiate\p"
+    .string "latent phantom hologram SILPH'$"
 
 PokemonTower_3F_Text_CarlyIntro::
-    .string "Kekeke…\n"
-    .string "Kwaaah!$"
+    .string "'Save teh Princess!'$"
 
 PokemonTower_3F_Text_CarlyDefeat::
-    .string "Hmm?\n"
-    .string "What am I doing?$"
+    .string "STUCK IN TIME LOOP, APPARENTLY.$"
 
 PokemonTower_3F_Text_CarlyPostBattle::
-    .string "Sorry!\n"
-    .string "I was possessed!$"
+    .string "SAVE ME!$"
 
 PokemonTower_3F_Text_PatriciaIntro::
-    .string "Be gone!\n"
-    .string "Malevolent spirit!$"
+    .string "YOU VANISH INTO THIN AIR!$"
 
 PokemonTower_3F_Text_PatriciaDefeat::
-    .string "Whew!\n"
-    .string "The spirit left!$"
+    .string "'Escape successful, but\p"
+    .string "beware...others lurk.'$"
 
 PokemonTower_3F_Text_PatriciaPostBattle::
-    .string "The others above…\n"
-    .string "They must have been possessed.$"
+    .string "'EVIL DITZ AND ZIPPERSEEN fulfill\p"
+    .string "dark prophecy'$"
 

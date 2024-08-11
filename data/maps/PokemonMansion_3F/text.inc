@@ -1,35 +1,35 @@
 PokemonMansion_Text_PressSecretSwitchJP::
-    .string "ひみつの　スイッチが　ある！\p"
-    .string "おして　みますか？$"
+    .string "Do ye dare activate the mysterious\p"
+    .string "switch?$"
 
 PokemonMansion_Text_LetsTryIt::
-    .string "おしてみよう！　‥ポチッとな$"
+    .string "READY TO ROCK THE TRIGGER!$"
 
 PokemonMansion_Text_GaveUpOnPressingSwitch::
-    .string "おすのは　あきらめた$"
+    .string "YOUR PATH IS FORgiven!$"
 
 PokemonMansion_1F_Text_SimonIntro::
-    .string "This place is, like, huge!$"
+    .string "WELCOME TO CYGNUSryan's MAZE OF\p"
+    .string "WONDERS$"
 
 PokemonMansion_1F_Text_SimonDefeat::
-    .string "Ayah!$"
+    .string "The Temple of the Ancients Lies\p"
+    .string "Ahead$"
 
 PokemonMansion_1F_Text_SimonPostBattle::
-    .string "I wonder where my partner went.$"
+    .string "REENACTING INTERIOR ROOM...$"
 
 PokemonMansion_1F_Text_BraydonIntro::
-    .string "My mentor once lived here.$"
+    .string "'Welcome to the Abandoned Temple\p"
+    .string "of the Ancients'$"
 
 PokemonMansion_1F_Text_BraydonDefeat::
-    .string "Whew!\n"
-    .string "Overwhelming!$"
+    .string "OKAY, CHASER! YOU'VE MADE IT OUT\p"
+    .string "ALIVE!$"
 
 PokemonMansion_1F_Text_BraydonPostBattle::
-    .string "So, you're stuck?\n"
-    .string "Try jumping off over there!$"
+    .string "JUMP TO SAVEDistance: 5 Feet$"
 
 PokemonMansion_1F_Text_MewGaveBirthToMewtwo::
-    .string "Diary: Feb. 6\n"
-    .string "MEW gave birth.\p"
-    .string "We named the newborn MEWTWO.$"
+    .string "New family addition found!$"
 

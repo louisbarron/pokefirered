@@ -1,51 +1,49 @@
 PokemonTower_5F_Text_RestHereInPurifiedSpace::
-    .string "Come, child!\n"
-    .string "I have purified this space.\l"
-    .string "You can rest here.$"
+    .string "'Welcome to Serenity's Haven!'$"
 
 PokemonTower_5F_Text_TammyIntro::
-    .string "Give…me…\n"
-    .string "your…all…$"
+    .string "USE CARD: ALAKAZAM$"
 
 PokemonTower_5F_Text_TammyDefeat::
-    .string "Gasp!$"
+    .string " stalwart hero, beware the\p"
+    .string "treacherous swamp of darkness\n"
+    .string "ahead!$"
 
 PokemonTower_5F_Text_TammyPostBattle::
-    .string "I was under possession.$"
+    .string "'MIND CONTROL ACTIVATED!'$"
 
 PokemonTower_5F_Text_RuthIntro::
-    .string "You…shall…\n"
-    .string "join…us…$"
+    .string "The adventure begins...$"
 
 PokemonTower_5F_Text_RuthDefeat::
-    .string "What a nightmare!$"
+    .string "ZOMBIES AHEAD!$"
 
 PokemonTower_5F_Text_RuthPostBattle::
-    .string "I was possessed.$"
+    .string "'You've been consumed by the dark\p"
+    .string "force...'$"
 
 PokemonTower_5F_Text_KarinaIntro::
-    .string "Zombies!$"
+    .string "' warning: undead horde\p"
+    .string "approaching!'$"
 
 PokemonTower_5F_Text_KarinaDefeat::
-    .string "Ha?$"
+    .string "'Stats Boost Ahead!'$"
 
 PokemonTower_5F_Text_KarinaPostBattle::
-    .string "I regained my senses.$"
+    .string "You find yourself in the Forsaken\p"
+    .string "Cave, the eerie silence broken\n"
+    .string "only by the distant sound of\p"
+    .string "dripping water.$"
 
 PokemonTower_5F_Text_JanaeIntro::
-    .string "Urgah…\n"
-    .string "Urff…$"
+    .string "onga Warning System Malfunction$"
 
 PokemonTower_5F_Text_JanaeDefeat::
-    .string "Whoo!$"
+    .string "'WELCOME TO ADVENTURE ISLAND!'$"
 
 PokemonTower_5F_Text_JanaePostBattle::
-    .string "I fell to evil spirits despite my\n"
-    .string "training in the mountains…$"
+    .string "Curses consumed my soul.$"
 
 PokemonTower_5F_Text_PurifiedZoneMonsFullyHealed::
-    .string "Entered the purified and protected\n"
-    .string "zone.\p"
-    .string "{PLAYER}'s POKéMON were fully\n"
-    .string "healed.$"
+    .string "Congratulations!$"
 

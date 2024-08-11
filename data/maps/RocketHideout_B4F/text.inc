@@ -1,56 +1,42 @@
 RocketHideout_B4F_Text_GiovanniIntro::
-    .string "So! I must say, I am impressed you\n"
-    .string "got here.\p"
-    .string "TEAM ROCKET captures POKéMON from\n"
-    .string "around the world.\p"
-    .string "They're important tools for keeping\n"
-    .string "our criminal enterprise going.\p"
-    .string "I am the leader, GIOVANNI!\p"
-    .string "For your insolence, you will feel a\n"
-    .string "world of pain!$"
+    .string "'You sank MY POKEMON SHIP!'$"
 
 RocketHideout_B4F_Text_GiovanniDefeat::
-    .string "WHAT!\n"
-    .string "This can't be!$"
+    .string "'FEDERAL BUILDING IN RUINS'$"
 
 RocketHideout_B4F_Text_GiovanniPostBattle::
-    .string "I see that you raise POKéMON with\n"
-    .string "utmost care.\p"
-    .string "A child like you would never\n"
-    .string "understand what I hope to achieve.\p"
-    .string "I shall step aside this time!\p"
-    .string "I hope we meet again…$"
+    .string "You've got SCHOOL SPIRIT!$"
 
 RocketHideout_B4F_Text_Grunt2Intro::
-    .string "I know you!\n"
-    .string "You ruined our plans at MT. MOON!$"
+    .string "IT'S ABOUT TIME WE FLEW INTO\p"
+    .string "ACTION AGAINST YOU!$"
 
 RocketHideout_B4F_Text_Grunt2Defeat::
-    .string "Burned again!$"
+    .string "'Dirty flames engulf your boots.\p"
+    .string "Do you drink from nearby pond?'$"
 
 RocketHideout_B4F_Text_Grunt2PostBattle::
-    .string "Do you have something against TEAM\n"
-    .string "ROCKET?$"
+    .string "'BEWARE: Enemy Lair Ahead!'$"
 
 RocketHideout_B4F_Text_Grunt3Intro::
-    .string "How can you not see the beauty of\n"
-    .string "our evil?$"
+    .string "'Ahahahaha, The darkness reveals\p"
+    .string "itself.'$"
 
 RocketHideout_B4F_Text_Grunt3Defeat::
-    .string "Ayaya!$"
+    .string "'Explore the mystical ruins!'$"
 
 RocketHideout_B4F_Text_Grunt3PostBattle::
-    .string "BOSS!\n"
-    .string "I'm sorry I failed you!$"
+    .string "'Don't apologize, comrade! Next\p"
+    .string "time we strike back!'$"
 
 RocketHideout_B4F_Text_Grunt1Intro::
-    .string "The elevator doesn't work?\n"
-    .string "Who has the LIFT KEY?$"
+    .string "Security Guard found key in\p"
+    .string "Evidence Locker.$"
 
 RocketHideout_B4F_Text_Grunt1Defeat::
-    .string "No!$"
+    .string "Explosion Goes BOOM!$"
 
 RocketHideout_B4F_Text_Grunt1PostBattle::
-    .string "Oh, no!\n"
-    .string "I dropped the LIFT KEY!$"
+    .string "'KEY LOST! TRYING OTHER\p"
+    .string "SERVICES...'$"
 

@@ -1,144 +1,122 @@
 Route12_Text_MonSprawledOutInSlumber::
-    .string "A POKéMON is sprawled out in\n"
-    .string "a deep and comfortable slumber.$"
+    .string "Sleepy Purrloin: zf... zzz...$"
 
 Text_SnorlaxWokeUp::
-    .string "SNORLAX woke up!\p"
-    .string "It attacked in a grumpy rage!$"
+    .string "YOU'VE BEEN DEFEATED BY SNORLAX'S\p"
+    .string "MASSIVE POWERSLAM!$"
 
 Text_SnorlaxReturnedToMountains::
-    .string "SNORLAX calmed down.\n"
-    .string "It gave a huge yawn…\l"
-    .string "And returned to the mountains.$"
+    .string "LEEP TIME OVER!$"
 
 Text_WantToUsePokeFlute::
-    .string "Want to use the POKé FLUTE?$"
+    .string "Y/N?$"
 
 Text_PlayedPokeFlute::
-    .string "{PLAYER} played the POKé FLUTE.$"
+    .string "'The legendary melody has calmed\p"
+    .string "the POKeMON!'$"
 
 Route12_Text_NedIntro::
-    .string "Yeah!\n"
-    .string "I got a bite here!$"
+    .string "BITING FURY!$"
 
 Route12_Text_NedDefeat::
-    .string "Tch!\n"
-    .string "Just a small fry…$"
+    .string "'OHOHO, TIME TO FINISH YOU OFF!'$"
 
 Route12_Text_NedPostBattle::
-    .string "Hang on!\n"
-    .string "My line's snagged!$"
+    .string "FREEING!$"
 
 Route12_Text_ChipIntro::
-    .string "Be patient.\n"
-    .string "Fishing is a waiting game.$"
+    .string "PLEASE WAIT...$"
 
 Route12_Text_ChipDefeat::
-    .string "That one got away!$"
+    .string "' Escaped Beast: 1, Hero: 0 '$"
 
 Route12_Text_ChipPostBattle::
-    .string "With a better ROD, I could catch\n"
-    .string "better POKéMON…$"
+    .string "' Upgrade ROD now?'$"
 
 Route12_Text_JustinIntro::
-    .string "I'm searching for a MOON STONE.\n"
-    .string "Have you found one?$"
+    .string "You've profaned a dusty tongue!n\p"
+    .string "Proximally, a Moon Stone lies\n"
+    .string "beneath the Bellows Boulder.$"
 
 Route12_Text_JustinDefeat::
-    .string "Oww!$"
+    .string "'Oww... your leg is broke!'$"
 
 Route12_Text_JustinPostBattle::
-    .string "I could have made my POKéMON\n"
-    .string "evolve with a MOON STONE.\p"
-    .string "I would have won then, I bet.$"
+    .string "'Gotta catch 'em all, now!'$"
 
 Route12_Text_LucaIntro::
-    .string "Electricity is my specialty.\p"
-    .string "I don't know a thing about POKéMON\n"
-    .string "of the sea, though.$"
+    .string "Gotta catch 'em all, pal!$"
 
 Route12_Text_LucaDefeat::
-    .string "Unplugged!$"
+    .string "'Power drained. Restart in 3...\p"
+    .string "2... 1...'$"
 
 Route12_Text_LucaPostBattle::
-    .string "Water conducts electricity, so you\n"
-    .string "should zap sea POKéMON.$"
+    .string "Zap those sea creatures carefully!$"
 
 Route12_Text_HankIntro::
-    .string "The FISHING FOOL versus POKéMON\n"
-    .string "KID!$"
+    .string "'Cast line for Sneasel'$"
 
 Route12_Text_HankDefeat::
-    .string "Touch too much!$"
+    .string "' Warning: Hand Sanitizer\p"
+    .string "Required'$"
 
 Route12_Text_HankPostBattle::
-    .string "I guess you get to be good at\n"
-    .string "what you like.\p"
-    .string "Well, you beat me at POKéMON,\n"
-    .string "but you can't top me at fishing.$"
+    .string "I'll never give up the rod!$"
 
 Route12_Text_ElliotIntro::
-    .string "I love fishing, don't get me wrong.\p"
-    .string "But it'd be best if I also had more\n"
-    .string "work.$"
+    .string "'FISHING LICENSE: 500 GOLD CoinS'$"
 
 Route12_Text_ElliotDefeat::
-    .string "It's not easy…$"
+    .string "'But It's The Only Way.'$"
 
 Route12_Text_ElliotPostBattle::
-    .string "It's all right.\n"
-    .string "Losing doesn't bug me anymore.$"
+    .string "'Time to focus on the next\p"
+    .string "match...'$"
 
 Route12_Text_AndrewIntro::
-    .string "What's catching?\p"
-    .string "You never know what you could\n"
-    .string "catch!$"
+    .string "'Take a chance, young angler!300\p"
+    .string "gold pieces for the lure.'$"
 
 Route12_Text_AndrewDefeat::
-    .string "Lost it!$"
+    .string "'MAGIC WAND LOST!'$"
 
 Route12_Text_AndrewPostBattle::
-    .string "What, MAGIKARP?\p"
-    .string "I catch them all the time, sure.\n"
-    .string "But, boy are they wimpy.$"
+    .string "Those fish are no match for my\p"
+    .string "trusty Poke Ball!$"
 
 Route12_Text_RouteSign::
-    .string "ROUTE 12 \n"
-    .string "North to LAVENDER$"
+    .string "Given petrol 300L.$"
 
 Route12_Text_SportfishingArea::
-    .string "SPORTFISHING AREA$"
+    .string "You enter the calm waters of Lure\p"
+    .string "Lake, known for its bounty of Bass\n"
+    .string "and Trout. A school of hungry fish\p"
+    .string "swim nearby...$"
 
 Route12_Text_JesIntro::
-    .string "JES: If I win, I'm going to\n"
-    .string "propose to GIA.$"
+    .string "Yours for eternity?$"
 
 Route12_Text_JesDefeat::
-    .string "JES: Oh, please, why couldn't you\n"
-    .string "let us win?$"
+    .string "'THE MASTER'S GAZE BURNS WITH\p"
+    .string "FURY'$"
 
 Route12_Text_JesPostBattle::
-    .string "JES: Oh, GIA, forgive me,\n"
-    .string "my love!$"
+    .string "'PARDON ME, LADY?!'$"
 
 Route12_Text_JesNotEnoughMons::
-    .string "JES: GIA and I, we'll be\n"
-    .string "together forever.\p"
-    .string "We won't battle unless you have\n"
-    .string "two POKéMON of your own.$"
+    .string "'GIA, by your side, I'm complete!'$"
 
 Route12_Text_GiaIntro::
-    .string "GIA: Hey, JES…\p"
-    .string "If we win, I'll marry you!$"
+    .string "'HOLD THAT THOUGHT, GAL!'$"
 
 Route12_Text_GiaDefeat::
-    .string "GIA: Oh, but why?$"
+    .string "'DEFIANCE WILL COST YOU DEARLY'$"
 
 Route12_Text_GiaPostBattle::
-    .string "GIA: JES, you silly!\n"
-    .string "You ruined this!$"
+    .string "YOU'VE WRECKED THE BASEikki\p"
+    .string "ENTRANCE BLOCKED$"
 
 Route12_Text_GiaNotEnoughMons::
-    .string "GIA: I can't bear to battle\n"
-    .string "without my JES!\p"
-    .string "Don't you have one more POKéMON?$"
+    .string "'Sorry, not a MON yet'$"
+
