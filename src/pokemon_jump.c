@@ -765,7 +765,7 @@ static const struct PokemonJumpMons
     u16 jumpType;
 } sPokeJumpMons[] =
 {
-    { .species = ${SPECIES_PLACEHOLDER},  .jumpType = JUMP_TYPE_SLOW },
+    { .species = SPECIES_AGRAKA,  .jumpType = JUMP_TYPE_SLOW },
 };
 
 void StartPokemonJump(u16 partyId, MainCallback exitCallback)

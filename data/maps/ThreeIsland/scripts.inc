@@ -381,7 +381,7 @@ ThreeIsland_EventScript_Doduo::
 	lock
 	faceplayer
 	waitse
-	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_NORMAL
+	playmoncry SPECIES_FUMINDO, CRY_MODE_NORMAL
 	msgbox ThreeIsland_Text_Doduo
 	waitmoncry
 	release

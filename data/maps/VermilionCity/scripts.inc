@@ -237,7 +237,7 @@ VermilionCity_EventScript_Machop::
 	lock
 	faceplayer
 	waitse
-	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_NORMAL
+	playmoncry SPECIES_NURIMAR, CRY_MODE_NORMAL
 	msgbox VermilionCity_Text_Machop
 	waitmoncry
 	msgbox VermilionCity_Text_MachopStompingLandFlat

@@ -1517,9 +1517,9 @@ void ForcePlayerToStartSurfing(void)
 }
 
 static const u16 sStarterSpecies[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER}
+    SPECIES_CRYSTALUX,
+    SPECIES_TERRACAEL,
+    SPECIES_AERAXIS
 };
 
 static u16 GetStarterSpeciesById(u16 idx)
@@ -2211,9 +2211,9 @@ void StopPokemonLeagueLightingEffectTask(void)
 }
 
 static const u8 sCapeBrinkCompatibleSpecies[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER}
+    SPECIES_VEIRAN,
+    SPECIES_CALLISTA,
+    SPECIES_URAGON
 };
 
 bool8 CapeBrinkGetMoveToTeachLeadPokemon(void)

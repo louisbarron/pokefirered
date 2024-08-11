@@ -37,9 +37,9 @@ PowerPlant_EventScript_Zapdos::
 	special QuestLog_CutRecording
 	lock
 	faceplayer
-	setwildbattle ${SPECIES_PLACEHOLDER}, 50
+	setwildbattle SPECIES_MISTILE, 50
 	waitse
-	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_ENCOUNTER
+	playmoncry SPECIES_TERROBE, CRY_MODE_ENCOUNTER
 	message Text_Gyaoo
 	waitmessage
 	waitmoncry
@@ -64,7 +64,7 @@ PowerPlant_EventScript_DefeatedZapdos::
 	end
 
 PowerPlant_EventScript_RanFromZapdos::
-	setvar VAR_0x8004, ${SPECIES_PLACEHOLDER}
+	setvar VAR_0x8004, SPECIES_TENEBRA
 	goto EventScript_MonFlewAway
 	end
 
@@ -72,9 +72,9 @@ PowerPlant_EventScript_Electrode1::
 	goto_if_questlog EventScript_ReleaseEnd
 	lock
 	faceplayer
-	setwildbattle ${SPECIES_PLACEHOLDER}, 34
+	setwildbattle SPECIES_MOMOZA, 34
 	waitse
-	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_ENCOUNTER
+	playmoncry SPECIES_AGATORA, CRY_MODE_ENCOUNTER
 	delay 40
 	waitmoncry
 	setflag FLAG_SYS_SPECIAL_WILD_BATTLE
@@ -98,9 +98,9 @@ PowerPlant_EventScript_Electrode2::
 	goto_if_questlog EventScript_ReleaseEnd
 	lock
 	faceplayer
-	setwildbattle ${SPECIES_PLACEHOLDER}, 34
+	setwildbattle SPECIES_SEALEIRA, 34
 	waitse
-	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_ENCOUNTER
+	playmoncry SPECIES_MISTILE, CRY_MODE_ENCOUNTER
 	delay 40
 	waitmoncry
 	setflag FLAG_SYS_SPECIAL_WILD_BATTLE

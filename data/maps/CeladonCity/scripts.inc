@@ -45,7 +45,7 @@ CeladonCity_EventScript_Poliwrath::
 	lock
 	faceplayer
 	waitse
-	playmoncry ${SPECIES_PLACEHOLDER}, CRY_MODE_NORMAL
+	playmoncry SPECIES_VERDUUS, CRY_MODE_NORMAL
 	msgbox CeladonCity_Text_Poliwrath
 	closemessage
 	waitmoncry

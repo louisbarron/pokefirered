@@ -6,11 +6,11 @@ Route15_WestEntrance_2F_MapScripts::
 Route15_WestEntrance_2F_EventScript_LeftBinoculars::
 	lockall
 	msgbox Route15_WestEntrance_2F_Text_LargeShiningBird
-	showmonpic ${SPECIES_PLACEHOLDER}, 10, 3
+	showmonpic SPECIES_AURARA, 10, 3
 	delay 20
 	waitbuttonpress
 	hidemonpic
-	setvar VAR_0x8004, ${SPECIES_PLACEHOLDER}
+	setvar VAR_0x8004, SPECIES_TINNEK
 	special SetSeenMon
 	releaseall
 	end

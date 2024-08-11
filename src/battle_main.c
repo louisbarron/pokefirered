@@ -1949,20 +1949,20 @@ void SpriteCB_FaintOpponentMon(struct Sprite *sprite)
 
     GetMonData(&gEnemyParty[gBattlerPartyIndexes[battler]], MON_DATA_PERSONALITY);  // Unused return value.
 
-    if (species == ${SPECIES_PLACEHOLDER})
+    if (species == SPECIES_TURMAG)
     {
         u32 personalityValue = GetMonData(&gEnemyParty[gBattlerPartyIndexes[battler]], MON_DATA_PERSONALITY);
         u16 unownForm = GET_UNOWN_LETTER(personalityValue);
         u16 unownSpecies;
 
         if (unownForm == 0)
-            unownSpecies = ${SPECIES_PLACEHOLDER};  // Use the A Unown form.
+            unownSpecies = SPECIES_TURMADE;  // Use the A Unown form.
         else
             unownSpecies = NUM_SPECIES + unownForm;  // Use one of the other Unown letters.
 
         yOffset = gMonFrontPicCoords[unownSpecies].y_offset;
     }
-    else if (species == ${SPECIES_PLACEHOLDER})
+    else if (species == SPECIES_AURIVORE)
     {
         yOffset = gCastformFrontSpriteCoords[gBattleMonForms[battler]].y_offset;
     }

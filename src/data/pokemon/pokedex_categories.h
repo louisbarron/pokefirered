@@ -1,816 +1,816 @@
 static const u16 sDexCategory_GrasslandPkmn_Page1[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_MIXER,
+    SPECIES_IGNINTO,
+    SPECIES_FLARIX,
+    SPECIES_STELARUS,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page2[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_KORVISA,
+    SPECIES_ALKON,
+    SPECIES_TERRAGUL,
+    SPECIES_VINEKOR,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page3[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_SEALORA,
+    SPECIES_IGNINTO,
+    SPECIES_ONYRIX,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page4[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_FURIX,
+    SPECIES_ONYRIX,
+    SPECIES_SORILI,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page5[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_CHRONIS,
+    SPECIES_AEROPE,
+    SPECIES_KOROBI,
+    SPECIES_PUPATOR,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page6[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_FLARIX,
+    SPECIES_TECHURA,
+    SPECIES_GLIMION,
+    SPECIES_FUMINIA,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page7[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_YUREKI,
+    SPECIES_TINNION,
+    SPECIES_IGNINTO,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page8[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_NURIMAR,
+    SPECIES_IGNINTO,
+    SPECIES_GYROP,
+    SPECIES_AKVORA,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page9[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_VERDURA,
+    SPECIES_STELLAL,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page10[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AETHERON,
+    SPECIES_MOMORAI,
+    SPECIES_YUMIRA,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page11[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_FUMIGA,
+    SPECIES_CULMOTH,
+    SPECIES_GLIMVIR,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page12[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_VERALIS,
+    SPECIES_KLODION,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page13[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AEROLUT,
+    SPECIES_TINNION,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page14[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_ROCKPIN,
+    SPECIES_VERDURA,
+    SPECIES_KORVISA,
+    SPECIES_KARASHY,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page15[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_KOROBI,
+    SPECIES_LIGNANT,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page16[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_KORVAX,
+    SPECIES_LUMINUXE,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page17[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_VERMEA,
+    SPECIES_CHRONIS,
+    SPECIES_YUKIMI,
+    SPECIES_TERRO,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page18[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TERRAKO,
+    SPECIES_SPIRA,
+    SPECIES_LURIOS,
+    SPECIES_TERRO,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page19[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_GRUMM,
+    SPECIES_LUMINUXE,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page20[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TERRAKO,
+    SPECIES_BOUNDIERE,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page21[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_FANGOR,
+    SPECIES_AGARIKS,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page22[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_PUPATOR,
+    SPECIES_SORVOL,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page23[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AURSURF,
+    SPECIES_ROCKPIN,
+    SPECIES_FURIX,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page24[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TURMAG,
+    SPECIES_AURSURF,
+    SPECIES_DUSTOR,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page25[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_FUMIGA,
+    SPECIES_KORVISA,
+    SPECIES_QILINI,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page26[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_QILINI,
+    SPECIES_AQUAVOLE,
+    SPECIES_POJEKT,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page27[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LEVAXON,
+    SPECIES_AEROPEX,
+    SPECIES_AQUAVOLE,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page1[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AGARIKS,
+    SPECIES_CALLISTA,
+    SPECIES_CULMOTH,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page2[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_ROCKPIN,
+    SPECIES_AURIVORE,
+    SPECIES_KARASHY,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page3[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_SERINAX,
+    SPECIES_TARNEX,
+    SPECIES_CALLIGO,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page4[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_ASTRUX,
+    SPECIES_NURVIS,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page5[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TINSTRY,
+    SPECIES_VESPAS,
+    SPECIES_GRUMM,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page6[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_VINTRUB,
+    SPECIES_AURIVORE,
+    SPECIES_GRUMM,
+    SPECIES_FUMIX,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page7[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_YUREKI,
+    SPECIES_AERODIX,
+    SPECIES_AERAXIS,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page8[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TINSTRY,
+    SPECIES_SORVOL,
+    SPECIES_AEROPE,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page9[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LUMINE,
+    SPECIES_CRYSTA,
+    SPECIES_GLIMION,
+    SPECIES_LUMINON,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page10[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TURMADE,
+    SPECIES_CHRONIS,
+    SPECIES_AERODIX,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page11[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_POCHETLIN,
+    SPECIES_VESPERA,
+    SPECIES_DUSTOS,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page12[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TERRAZO,
+    SPECIES_FUMINIA,
+    SPECIES_GELRAID,
+    SPECIES_FUMARIN,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page13[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LUMIN,
+    SPECIES_VINEKOR,
+    SPECIES_URAGI,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page14[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_EXCAVA,
+    SPECIES_FANGOR,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page15[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LUMINOR,
+    SPECIES_SERINAX,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page16[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TURMAG,
+    SPECIES_LUMINANT,
+    SPECIES_AQUAVOLE,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page17[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_DUNRAH,
+    SPECIES_SERENITE,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page18[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_YUKIMI,
+    SPECIES_NURIMAR,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page19[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_KOROBI,
+    SPECIES_CALLIGO,
+    SPECIES_CELESTUS,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page20[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AKVORA,
+    SPECIES_GRAPHSIM,
+    SPECIES_YUKIMI,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page21[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_SEALEIRA,
+    SPECIES_TERRAZO,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page22[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LURAS,
+    SPECIES_GLIMION,
+    SPECIES_AGATORA,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page23[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AGRAKA,
+    SPECIES_ROCKPIN,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page24[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_MOMOZOA,
+    SPECIES_URAGON,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page25[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LUMINOR,
+    SPECIES_KLOUDA,
+    SPECIES_CRYSTA,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page26[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_GELRAID,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page1[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AQUAVOLE,
+    SPECIES_KRYPTA,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page2[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LURIOS,
+    SPECIES_TENEBROUS,
+    SPECIES_YUMIRA,
+    SPECIES_FLORENA,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page3[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_SORVOL,
+    SPECIES_TERRACAEL,
+    SPECIES_SORVOL,
+    SPECIES_VERDUUS,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page4[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AKVORA,
+    SPECIES_AEROLUT,
+    SPECIES_CRYPTOR,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page5[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_KLOUDA,
+    SPECIES_VIRELIA,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page6[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_KAELOS,
+    SPECIES_LEVIORA,
+    SPECIES_TERRO,
+    SPECIES_GELRATH,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page7[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TERRO,
+    SPECIES_GLITAS,
+    SPECIES_SEALEIRA,
+    SPECIES_FURIX,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page8[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LUMINE,
+    SPECIES_FLENURA,
+    SPECIES_DUNARE,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page9[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_RIVILE,
+    SPECIES_GELRATH,
+    SPECIES_GLIMION,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page10[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LEVORA,
+    SPECIES_CRYPTOR,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page11[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_ELECTORO,
+    SPECIES_AETHERON,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page12[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_FURIX,
+    SPECIES_LUMIN,
+    SPECIES_RHINOKS,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page13[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_ELECTORO,
+    SPECIES_GLITAS,
+    SPECIES_KHILRIN,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page14[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_PULSX,
+    SPECIES_GRUMM,
+    SPECIES_MIXER,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page15[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TENEKROF,
+    SPECIES_BOUNDIERE,
+    SPECIES_URAGI,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page16[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_KORVISA,
+    SPECIES_FLARION,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page1[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TECHURA,
+    SPECIES_DUNARE,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page2[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_IGNIFERT,
+    SPECIES_VESPAS,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page3[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_CRYSTALUX,
+    SPECIES_DOXON,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page4[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_POJEKT,
+    SPECIES_KAIDIKO,
+    SPECIES_NURIMAR,
+    SPECIES_VERDIGO,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page5[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_RIVAGER,
+    SPECIES_TERRO,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page6[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_SEALORA,
+    SPECIES_KAIDIKO,
+    SPECIES_BOUNDI,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page7[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LEVIORA,
+    SPECIES_FLARION,
+    SPECIES_DUNRAH,
+    SPECIES_FLENIXA,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page8[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_CRYSTA,
+    SPECIES_FUMARIN,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page9[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_SORILI,
+    SPECIES_ROCKPIN,
+    SPECIES_KAELOS,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page10[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_KAIDIKO,
+    SPECIES_YUKIMI,
+    SPECIES_TERRIGON,
+    SPECIES_LUMIN,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page11[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AQUAVOLE,
+    SPECIES_PRANJORA,
+    SPECIES_GLIMMOR,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page12[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_MOMORAI,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page13[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_ALKON,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page14[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_POCHET,
+    SPECIES_FLORENA,
+    SPECIES_LUMINOR,
+    SPECIES_CELESTIS,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page15[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AERFER,
+    SPECIES_VERALIS,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page16[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_CUIMOS,
 };
 
 static const u16 sDexCategory_CavePkmn_Page1[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AETHERON,
+    SPECIES_MOMOZA,
+    SPECIES_AETHERON,
 };
 
 static const u16 sDexCategory_CavePkmn_Page2[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_ALKON,
+    SPECIES_CRYSTA,
+    SPECIES_RHINOKS,
+    SPECIES_TURMADE,
 };
 
 static const u16 sDexCategory_CavePkmn_Page3[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_DUNRAH,
+    SPECIES_ROKITU,
+    SPECIES_AERODIX,
+    SPECIES_LUMIN,
 };
 
 static const u16 sDexCategory_CavePkmn_Page4[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LURAS,
+    SPECIES_SCROLLUX,
+    SPECIES_FUMIX,
 };
 
 static const u16 sDexCategory_CavePkmn_Page5[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_SERINAX,
+    SPECIES_SCROLIA,
+    SPECIES_TURMADE,
 };
 
 static const u16 sDexCategory_CavePkmn_Page6[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_ROCKPIN,
+    SPECIES_KAIDIKO,
 };
 
 static const u16 sDexCategory_CavePkmn_Page7[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_KOROBI,
+    SPECIES_VERALIS,
+    SPECIES_POCHETLIN,
 };
 
 static const u16 sDexCategory_CavePkmn_Page8[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TINNEK,
+    SPECIES_TORVIA,
 };
 
 static const u16 sDexCategory_CavePkmn_Page9[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LURIOS,
+    SPECIES_KAELOS,
 };
 
 static const u16 sDexCategory_CavePkmn_Page10[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AGRAKA,
+    SPECIES_SEALEIRA,
+    SPECIES_CULMOTH,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page1[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_FLARION,
+    SPECIES_CRYSTA,
+    SPECIES_NURVIO,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page2[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_UROBOR,
+    SPECIES_MOMOZA,
+    SPECIES_SEALEIRA,
+    SPECIES_FUMINIA,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page3[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_MOMORAI,
+    SPECIES_UROBOR,
+    SPECIES_FUMIX,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page4[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_ASTARVE,
+    SPECIES_CALCIMONK,
+    SPECIES_EMBLAZE,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page5[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_CALCIMONK,
+    SPECIES_AEROPE,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page6[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_STELLAL,
+    SPECIES_NURVIS,
+    SPECIES_LURAS,
+    SPECIES_CELIGRA,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page7[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_CRAGS,
+    SPECIES_MISTILE,
+    SPECIES_ASTARVE,
+    SPECIES_SERENITE,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page8[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_GLITRON,
+    SPECIES_FLENURA,
+    SPECIES_YUREKI,
+    SPECIES_AERODIX,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page9[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TERRACAEL,
+    SPECIES_CALLIGO,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page10[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LUMINANT,
+    SPECIES_FUMARA,
+    SPECIES_KAIDIKO,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page11[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_GRUMM,
+    SPECIES_ELECTORO,
+    SPECIES_AERTHYS,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page12[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LEVIORA,
+    SPECIES_IGNITOR,
+    SPECIES_ELECTRON,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page13[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LURAS,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page14[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_POCHETLIN,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page15[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_KARASHY,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page16[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_VINEKOR,
+    SPECIES_AERFER,
+    SPECIES_ASTRUX,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page17[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_VIRELIA,
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page1[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_SERILI,
+    SPECIES_AURARA,
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page2[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_SEALORA,
+    SPECIES_SORVUS,
+    SPECIES_ROCKPIN,
+    SPECIES_CALLISTA,
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page3[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_CRYPTIN,
+    SPECIES_FLENURA,
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page4[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_SCROLIA,
+    SPECIES_VERDUUS,
+    SPECIES_CUIMOS,
+    SPECIES_AQUAVOLE,
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page5[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_FLARION,
+    SPECIES_CRYPTOR,
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page6[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_FLORENA,
+    SPECIES_FUMARIN,
+    SPECIES_TURBIN,
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page7[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TENEBROUS,
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page8[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AKMIDA,
+    SPECIES_PULSAR,
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page9[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_POJEKT,
+    SPECIES_AEROPEX,
+    SPECIES_CELUMI,
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page10[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_VERMEA,
+    SPECIES_LUMINANT,
+    SPECIES_GLITRON,
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page11[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_DUNRAH,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page1[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_ROKITU,
+    SPECIES_MIRAK,
+    SPECIES_LUMINOR,
+    SPECIES_GLITAS,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page2[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_YUREKI,
+    SPECIES_ONYXYS,
+    SPECIES_TECHURA,
+    SPECIES_GLIMPIN,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page3[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_LURIOS,
+    SPECIES_PULSX,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page4[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_MOMOZA,
+    SPECIES_TARNEX,
+    SPECIES_VERDURA,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page5[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AGRAKA,
+    SPECIES_FUMIGA,
+    SPECIES_EMBRIS,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page6[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TERRAKO,
+    SPECIES_LEVAXON,
+    SPECIES_CELIGRA,
+    SPECIES_PULSITE,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page7[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TENEBRA,
+    SPECIES_AEROPEX,
+    SPECIES_RIVAGER,
+    SPECIES_STELARUS,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page8[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_NURVIO,
+    SPECIES_GELRATH,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page9[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_FANGOR,
+    SPECIES_DOXON,
+    SPECIES_TURMAG,
+    SPECIES_KORVAX,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page10[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AQUAVOLE,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page11[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_YUKIMI,
+    SPECIES_GLIMVIR,
+    SPECIES_ALKON,
+    SPECIES_AGARIKS,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page12[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_VEIRAN,
+    SPECIES_TURMAG,
 };
 
 static const u16 sDexCategory_RarePkmn_Page1[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AURARA,
 };
 
 static const u16 sDexCategory_RarePkmn_Page2[] = {
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AKVORA,
+    SPECIES_MISTILE,
+    SPECIES_SORVUS,
 };
 
 static const u16 sDexCategory_RarePkmn_Page3[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_RUSTHOR,
 };
 
 static const u16 sDexCategory_RarePkmn_Page4[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_AEROPE,
 };
 
 static const u16 sDexCategory_RarePkmn_Page5[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_TERRAGUL,
 };
 
 static const u16 sDexCategory_RarePkmn_Page6[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_SERILI,
 };
 
 static const u16 sDexCategory_RarePkmn_Page7[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_VINTRUB,
 };
 
 static const u16 sDexCategory_RarePkmn_Page8[] = {
-    ${SPECIES_PLACEHOLDER},
+    SPECIES_MOMOZOA,
 };
 
 #define DEX_CATEGORY(name){sDexCategory_##name, NELEMS(sDexCategory_##name)}
