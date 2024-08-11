@@ -1,40 +1,36 @@
 Route18_Text_WiltonIntro::
-    .string "I always check every grassy area\n"
-    .string "for new POKéMON.$"
+    .string "You spot a wild Rabbit Pokemon!$"
 
 Route18_Text_WiltonDefeat::
-    .string "Tch!$"
+    .string "'ARGH! SHARP ROCK AHEAD!'$"
 
 Route18_Text_WiltonPostBattle::
-    .string "I wish I had a BIKE!$"
+    .string "CRUMPLED FRAME LIES IN RUINS$"
 
 Route18_Text_RamiroIntro::
-    .string "Kurukkoo!\n"
-    .string "How do you like my birdcall?$"
+    .string "'HONK HONK! Flooblopx gets\p"
+    .string "restless!'$"
 
 Route18_Text_RamiroDefeat::
-    .string "I had to bug you!$"
+    .string "LIKE A BEE IN YOUR BONNET?!$"
 
 Route18_Text_RamiroPostBattle::
-    .string "I collect sea POKéMON on weekends\n"
-    .string "because the sea is so close.$"
+    .string "'Diving near the coast, found a\p"
+    .string "MAGIKARP!'$"
 
 Route18_Text_JacobIntro::
-    .string "This is my turf!\n"
-    .string "Get out of here!$"
+    .string "YOU DONT BELONG HERE$"
 
 Route18_Text_JacobDefeat::
-    .string "Darn!$"
+    .string "'Game Over!'$"
 
 Route18_Text_JacobPostBattle::
-    .string "This is my fave area for catching\n"
-    .string "POKéMON.$"
+    .string "Shiny magikarp, but careful!$"
 
 Route18_Text_RouteSign::
-    .string "ROUTE 18\n"
-    .string "CELADON CITY - FUCHSIA CITY$"
+    .string "'Turn left at the first fork!'$"
 
 Route18_Text_CyclingRoadSign::
-    .string "CYCLING ROAD\n"
-    .string "No pedestrians permitted!$"
+    .string "WARNING: cyclists beware of\p"
+    .string "oncoming traffic!$"
 

@@ -1,4 +1,3 @@
 Route7_Text_UndergroundPathSign::
-    .string "UNDERGROUND PATH\n"
-    .string "CELADON CITY - LAVENDER TOWN$"
+    .string "'Continue north to Lavender Town?'$"
 

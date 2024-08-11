@@ -1,11 +1,10 @@
 Route18_EastEntrance_1F_Text_NeedBicycleForCyclingRoad::
-    .string "You need a BICYCLE to go out on\n"
-    .string "CYCLING ROAD!$"
+    .string "'Ain't got a bike?'$"
 
 Route18_EastEntrance_1F_Text_CyclingRoadAllUphillFromHere::
-    .string "CYCLING ROAD is all uphill from\n"
-    .string "here.$"
+    .string "BETTER HEALED FOR THE CLIMB Ahead!$"
 
 Route18_EastEntrance_1F_Text_ExcuseMe::
-    .string "Excuse me!$"
+    .string "'Warning: Ancient ruins ahead.\p"
+    .string "Approach with caution.'$"
 

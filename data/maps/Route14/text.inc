@@ -1,156 +1,130 @@
 Route14_Text_CarterIntro::
-    .string "You need to use TMs to teach good\n"
-    .string "moves to POKéMON.$"
+    .string "USE TM20 Ridley Bike$"
 
 Route14_Text_CarterDefeat::
-    .string "Not good enough quite yet.$"
+    .string "YOU'VE FOUND A getKey!$"
 
 Route14_Text_CarterPostBattle::
-    .string "You have some HMs, right? POKéMON\n"
-    .string "can't forget those moves easily.$"
+    .string "You got it!$"
 
 Route14_Text_MitchIntro::
-    .string "My bird POKéMON should be ready\n"
-    .string "for battle.$"
+    .string "Charlie, yours is too!$"
 
 Route14_Text_MitchDefeat::
-    .string "Not ready yet!$"
+    .string "TRY AGAIN LATER!$"
 
 Route14_Text_MitchPostBattle::
-    .string "My bird POKéMON need to learn\n"
-    .string "better moves.$"
+    .string "'Visit Professor Rowan's Lab\p"
+    .string "Ahead!'$"
 
 Route14_Text_BeckIntro::
-    .string "They have TMs on sale at the\n"
-    .string "CELADON DEPT. STORE.\p"
-    .string "TMs aren't really rare, but not\n"
-    .string "many people have HMs.$"
+    .string "TMs ON SALE!$"
 
 Route14_Text_BeckDefeat::
-    .string "Aww, bummer!$"
+    .string "OUT OF AMMO$"
 
 Route14_Text_BeckPostBattle::
-    .string "Try teaching POKéMON a move that's\n"
-    .string "the same type as it.\p"
-    .string "That apparently boosts the power\n"
-    .string "of the move.$"
+    .string "Training successful! Taught\p"
+    .string "'Ember' to Charmeleon.$"
 
 Route14_Text_MarlonIntro::
-    .string "Have you taught your bird POKéMON\n"
-    .string "how to FLY?\p"
-    .string "You'll be able to soar with it into\n"
-    .string "the sky!$"
+    .string "Try: FLUTTER BY SEEDS!$"
 
 Route14_Text_MarlonDefeat::
-    .string "Shot down in flames!$"
+    .string "Exploding in mid-air...$"
 
 Route14_Text_MarlonPostBattle::
-    .string "Bird POKéMON are my one true love.\n"
-    .string "I don't want to raise anything else.$"
+    .string "POKEMON: Pidgey, appears!$"
 
 Route14_Text_DonaldIntro::
-    .string "Have you heard the legend of the\n"
-    .string "winged mirages?$"
+    .string "'Rumors whisper they haunt then\p"
+    .string "Scorching Dunes of Fallen\n"
+    .string "Oasis...'$"
 
 Route14_Text_DonaldDefeat::
-    .string "Why?\n"
-    .string "Why'd I lose?$"
+    .string "Lucky Shot From Goomba Costs You\p"
+    .string "Lives$"
 
 Route14_Text_DonaldPostBattle::
-    .string "Well, the winged mirages are the\n"
-    .string "legendary bird POKéMON.\p"
-    .string "There are three of them: ARTICUNO,\n"
-    .string "ZAPDOS, and MOLTRES.$"
+    .string "'Obtain all 3 Winged Mirages:\p"
+    .string "ARTICUNO, ZAPDOS, MOLTRES'$"
 
 Route14_Text_BennyIntro::
-    .string "I'm not into it, but okay.\n"
-    .string "Let's go!$"
+    .string "You: NOT INTERESTED$"
 
 Route14_Text_BennyDefeat::
-    .string "I knew it!$"
+    .string "'...the ancient Scroll of Doom was\p"
+    .string "hidden here all along!'$"
 
 Route14_Text_BennyPostBattle::
-    .string "Winning, losing… It's insignificant\n"
-    .string "under this huge sky.$"
+    .string "'The thrum of the world's pulse\p"
+    .string "endures.'$"
 
 Route14_Text_LukasIntro::
-    .string "C'mon, c'mon.\n"
-    .string "Let's go, let's go, let's go!$"
+    .string " GO, GO, GO!$"
 
 Route14_Text_LukasDefeat::
-    .string "Arrg!\n"
-    .string "Lost! Get lost!$"
+    .string "'Stuck on cursed Isle o' Doom!'$"
 
 Route14_Text_LukasPostBattle::
-    .string "What, what, what?\n"
-    .string "What do you want still?$"
+    .string "'Leave... now, before it's too\p"
+    .string "late!'$"
 
 Route14_Text_IsaacIntro::
-    .string "I need to burn some time.\n"
-    .string "Shut up and battle.$"
+    .string "ENEMY ENCOUNTER!  Groggi: 20 HP$"
 
 Route14_Text_IsaacDefeat::
-    .string "What?\n"
-    .string "You!?$"
+    .string "STRANGER IN TOWN$"
 
 Route14_Text_IsaacPostBattle::
-    .string "Raising POKéMON is a drag, man.$"
+    .string "Need more Berries, dude?$"
 
 Route14_Text_GeraldIntro::
-    .string "We ride out here because of the\n"
-    .string "wide-open spaces.$"
+    .string "'Holdin' steady, partner?'$"
 
 Route14_Text_GeraldDefeat::
-    .string "Wipeout!$"
+    .string "ENEMIES WIPED OUT!$"
 
 Route14_Text_GeraldPostBattle::
-    .string "It's cool you made your POKéMON so\n"
-    .string "strong.\p"
-    .string "Might is right!\n"
-    .string "And you know it!$"
+    .string "Ha! computation of stats shows\p"
+    .string "your team's edges ahead!$"
 
 Route14_Text_MalikIntro::
-    .string "POKéMON battle?\n"
-    .string "Cool! Rumble!$"
+    .string "'Pick your 'Mon wisely, trainer!'$"
 
 Route14_Text_MalikDefeat::
-    .string "Blown away!$"
+    .string "CRASHING TO THE GROUND!$"
 
 Route14_Text_MalikPostBattle::
-    .string "You know who'd win, you and me\n"
-    .string "one-on-one!$"
+    .string "BRING IT ON, CHUMP! BETTER BE\p"
+    .string "READY!$"
 
 Route14_Text_RouteSign::
-    .string "ROUTE 14\n"
-    .string "West to FUCHSIA CITY$"
+    .string "'The city of neon dreams beckons,\p"
+    .string "stranger...'$"
 
 Route14_Text_KiriIntro::
-    .string "KIRI: JAN, let's try really,\n"
-    .string "really hard together.$"
+    .string "'UNITE, WE FALL!'$"
 
 Route14_Text_KiriDefeat::
-    .string "KIRI: Whimper…\n"
-    .string "We lost, didn't we?$"
+    .string "'Fool's errand...'$"
 
 Route14_Text_KiriPostBattle::
-    .string "KIRI: Did we lose because of me?$"
+    .string "'NO WAY, KIRI! YOU FOUGHT WELL!'$"
 
 Route14_Text_KiriNotEnoughMons::
-    .string "KIRI: We can battle if you have\n"
-    .string "two POKéMON.$"
+    .string "WANT TO CHALLENGE?$"
 
 Route14_Text_JanIntro::
-    .string "JAN: KIRI, here we go!\n"
-    .string "We have to try hard!$"
+    .string "'BURNING FLAMES OF DETERMINATION\p"
+    .string "FLARE UP!'$"
 
 Route14_Text_JanDefeat::
-    .string "JAN: Eeeeh!\n"
-    .string "No fair!$"
+    .string "'YOU CHEATED, LARS! NOW IT'S ON!'$"
 
 Route14_Text_JanPostBattle::
-    .string "JAN: KIRI, don't cry!\n"
-    .string "We'll just try harder next time.$"
+    .string "KIRI: sniffles Y-yes, brother...$"
 
 Route14_Text_JanNotEnoughMons::
-    .string "JAN: You want to battle?\n"
-    .string "You don't have enough POKéMON.$"
+    .string "SELECT A POKeMON TO FIGHT!$"
+

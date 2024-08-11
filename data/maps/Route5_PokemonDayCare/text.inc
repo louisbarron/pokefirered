@@ -1,68 +1,59 @@
 Route5_PokemonDayCare_Text_WantMeToRaiseMon::
-	.string "I run the DAY-CARE service.\p"
-	.string "Would you like me to raise one of\n"
-	.string "your POKéMON?$"
+    .string "Yes/No$"
 
 Route5_PokemonDayCare_Text_ComeAgain::
-	.string "Come again.$"
+    .string "You can't go back now!$"
 
 Route5_PokemonDayCare_Text_WhichMonShouldIRaise::
-	.string "Which POKéMON should I raise?$"
+    .string "'Consider Power Wing's swift speed\p"
+    .string "Thunder Fist's electrifying\n"
+    .string "attacks.'$"
 
 Route5_PokemonDayCare_Text_ComeAnytimeYouLike::
-	.string "Fine.\n"
-	.string "Come anytime you like.$"
+    .string "'Open Door Ahead!'$"
 
 Route5_PokemonDayCare_Text_LookAfterMonForAWhile::
-	.string "Fine, I'll look after your\n"
-	.string "{STR_VAR_1} for a while.$"
+    .string "You've got a curious one on your\p"
+    .string "hands, eh?$"
 
 Route5_PokemonDayCare_Text_ComeSeeMeInAWhile::
-	.string "Come see me in a while.$"
+    .string "'See ya, partner!'$"
 
 Route5_PokemonDayCare_Text_MonNeedsToSpendMoreTime::
-	.string "You're back already?\p"
-	.string "Your {STR_VAR_1} needs to spend\n"
-	.string "some more time with me.$"
+    .string "'You're so impatient, aren't you?'$"
 
 Route5_PokemonDayCare_Text_OweMeXForMonsReturn::
-	.string "You owe me ¥{STR_VAR_2} for the return\n"
-	.string "of this POKéMON.$"
+    .string "'Hey, PAL! You gotta pay me\p"
+    .string "STRVAR2 yen for thatledigi!'$"
 
 Route5_PokemonDayCare_Text_ThankYouHeresMon::
-	.string "Thank you!\n"
-	.string "Here's your POKéMON.$"
+    .string "Pikachu  HP: 65$"
 
 Route5_PokemonDayCare_Text_PlayerGotMonBack::
-	.string "{PLAYER} got {STR_VAR_1} back\n"
-	.string "from the DAY-CARE MAN.$"
+    .string "Bella got 500 gold back$"
 
 Route5_PokemonDayCare_Text_OnlyHaveOneMonWithYou::
-	.string "Oh? You only have one POKéMON\n"
-	.string "with you.$"
+    .string "YOU SHOULD BRING MORE!$"
 
 Route5_PokemonDayCare_Text_WhatWillYouBattleWith::
-	.string "If you leave me that POKéMON,\n"
-	.string "what will you battle with?$"
+    .string "MY PIKACHU$"
 
 Route5_PokemonDayCare_Text_MonHasGrownByXLevels::
-	.string "Your {STR_VAR_1} has grown a lot.\n"
-	.string "Yes, quite a lot, I'd say.\p"
-	.string "Let me see…\n"
-	.string "By level, it's grown by {STR_VAR_2}.\p"
-	.string "Aren't I great?$"
+    .string "Your HP has grown a lot. Yes,\p"
+    .string "quite a lot, I'd say. Let me\n"
+    .string "see... By level, it's grown by 50.\p"
+    .string "Aren't I great?$"
 
 Route5_PokemonDayCare_Text_YouveGotNoRoomForIt::
-	.string "You can't take this POKéMON back\n"
-	.string "if you've got no room for it.$"
+    .string "'NO SPACE'$"
 
 Route5_PokemonDayCare_Text_DontHaveEnoughMoney::
-	.string "You don't have enough money.$"
+    .string "Not enough clams!$"
 
 Route5_PokemonDayCare_Text_WantMeToTakeALookAtYours::
-    .string "きみの\n"
-    .string "みてみるかね？$"
+    .string "ARE YOU WATCHING?$"
 
 Route5_PokemonDayCare_Text_CantAcceptMonWithHM::
-    .string "わるいけど　ひでんのわざを　もった\n"
-    .string "ポケモンは　あずかれないなぁ$"
+    .string "'Bad boy with hidden talent...\p"
+    .string "Eve...'$"
+

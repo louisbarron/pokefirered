@@ -1,120 +1,111 @@
 Route20_Text_BarryIntro::
-    .string "The water is shallow here.\n"
-    .string "There are many people swimming.$"
+    .string "'Warm waters await... Hmmswap'$"
 
 Route20_Text_BarryDefeat::
-    .string "Splash!$"
+    .string "WET FEET!$"
 
 Route20_Text_BarryPostBattle::
-    .string "I wish I could ride my POKéMON.\n"
-    .string "I bet you're not tired.$"
+    .string "You can't ride wild Pokemon,\p"
+    .string "trainer!$"
 
 Route20_Text_ShirleyIntro::
-    .string "SEAFOAM is a quiet getaway.\n"
-    .string "I'm vacationing here.$"
+    .string "'Coastal breeze, salty air,\p"
+    .string "relaxation calls!'$"
 
 Route20_Text_ShirleyDefeat::
-    .string "Quit it!$"
+    .string "click$"
 
 Route20_Text_ShirleyPostBattle::
-    .string "There's a huge cavern underneath\n"
-    .string "this island.$"
+    .string "'BEWARE THE TREADMILL OF DOOM!'$"
 
 Route20_Text_TiffanyIntro::
-    .string "I love floating with the fishes\n"
-    .string "here among the waves.$"
+    .string "DEEP WATER SAFARI BET autistic$"
 
 Route20_Text_TiffanyDefeat::
-    .string "Yowch!$"
+    .string "WARNING: ROCKslides ahead!$"
 
 Route20_Text_TiffanyPostBattle::
-    .string "Want to float with me?$"
+    .string "YOYOBOING$"
 
 Route20_Text_IreneIntro::
-    .string "Are you on vacation, too?$"
+    .string "Error 404: No signal detected.\p"
+    .string "Please report to the nearest\n"
+    .string "Miguel's Quest HQ.$"
 
 Route20_Text_IreneDefeat::
-    .string "No mercy at all!$"
+    .string "'TARGET IN SIGHT. ENGAGE.'$"
 
 Route20_Text_IrenePostBattle::
-    .string "SEAFOAM used to be a single island\n"
-    .string "in the distant past.$"
+    .string "TREACHEROUS SHORELINES NOW CRUMBLE\p"
+    .string "INTO THE BRINE.$"
 
 Route20_Text_DeanIntro::
-    .string "Check out my buff physique!$"
+    .string "You flex your muscular arms,\p"
+    .string "grinning proudly.$"
 
 Route20_Text_DeanDefeat::
-    .string "Wimpy!$"
+    .string "'Your scare is showing!'$"
 
 Route20_Text_DeanPostBattle::
-    .string "I should've been buffing up my\n"
-    .string "POKéMON, not me!$"
+    .string "ANGUISH!$"
 
 Route20_Text_DarrinIntro::
-    .string "Why are you riding a POKéMON?\n"
-    .string "Can't you swim?$"
+    .string "'FOLLOW LANE, CAPTAIN!'$"
 
 Route20_Text_DarrinDefeat::
-    .string "Ouch!\n"
-    .string "Torpedoed!$"
+    .string "ENEMY TORPEDO INCOMING!$"
 
 Route20_Text_DarrinPostBattle::
-    .string "Riding a POKéMON sure looks fun!$"
+    .string "HOP ON RIDA'S SQUIRTLE!$"
 
 Route20_Text_RogerIntro::
-    .string "I rode my bird POKéMON here.$"
+    .string "Terrain: Volcano$"
 
 Route20_Text_RogerDefeat::
-    .string "Oh, no!\n"
-    .string "Now what am I to do?$"
+    .string "'Main BriggsIMPLANTED BY THE\p"
+    .string "ENEMY! RETURN TO BriggsIMPLANTED\n"
+    .string "BY THE ENEMY! RETURN TO LAB!'$"
 
 Route20_Text_RogerPostBattle::
-    .string "My birds are exhausted.\n"
-    .string "They can't FLY me back!$"
+    .string "'Stranded on distant isle. Search\p"
+    .string "for alternate retreat.'$"
 
 Route20_Text_NoraIntro::
-    .string "My boyfriend gave me big pearls.$"
+    .string "You Received: Pearl Necklace$"
 
 Route20_Text_NoraDefeat::
-    .string "Oh, no!\n"
-    .string "My pearls were in them!$"
+    .string "STOLEN BY THIEF!$"
 
 Route20_Text_NoraPostBattle::
-    .string "Will my pearls grow bigger inside\n"
-    .string "CLOYSTER?$"
+    .string "Collection message 'Pearls already\p"
+    .string "at maximum size.'$"
 
 Route20_Text_MissyIntro::
-    .string "I swam here from CINNABAR ISLAND.\n"
-    .string "It wasn't easy, I tell you.$"
+    .string "'Exhausted from the long journey'$"
 
 Route20_Text_MissyDefeat::
-    .string "I'm so disappointed!$"
+    .string " FAILED Quest Goal: Relic of\p"
+    .string "Ancients$"
 
 Route20_Text_MissyPostBattle::
-    .string "POKéMON have taken over an\n"
-    .string "abandoned mansion on CINNABAR.\p"
-    .string "They call it the POKéMON MANSION\n"
-    .string "now.$"
+    .string "You approach the creaky mansion\p"
+    .string "gates. What do you do?$"
 
 Route20_Text_MelissaIntro::
-    .string "CINNABAR, in the west, has a LAB\n"
-    .string "for POKéMON.\p"
-    .string "My daddy works there.$"
+    .string "'Join me, grandson? Assist daddy\p"
+    .string "in Poke research!'$"
 
 Route20_Text_MelissaDefeat::
-    .string "Wait!\n"
-    .string "You're supposed to wait!$"
+    .string "WAIT...$"
 
 Route20_Text_MelissaPostBattle::
-    .string "CINNABAR is a volcanic island.\p"
-    .string "I heard it rose out of the sea\n"
-    .string "when a volcano erupted.$"
+    .string "Welcome to CINNABAR...$"
 
 Route20_Text_SeafoamIslands::
-    .string "SEAFOAM ISLANDS$"
+    .string "'EXPERIENCING STRANGE ENERGY\p"
+    .string "SIGNATURES'$"
 
 Route20_Text_MistyTrainsHere::
-    .string "Strong TRAINERS and WATER POKéMON\n"
-    .string "are common sights in these parts.\p"
-    .string "They say that MISTY of the\n"
-    .string "CERULEAN GYM trains here.$"
+    .string "'A Trainer with a Squirtle\p"
+    .string "approaches!'$"
+

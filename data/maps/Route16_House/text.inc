@@ -1,21 +1,16 @@
 Route16_House_Text_FoundMySecretRetreat::
-    .string "Oh, dear.\n"
-    .string "You've found my secret retreat.\p"
-    .string "Please don't tell anyone I'm here.\n"
-    .string "I'll make it up to you with this!$"
+    .string "'Treasure of the Ancients: 1000\p"
+    .string "Gold Coins!'$"
 
 Route16_House_Text_ReceivedHM02FromGirl::
-    .string "{PLAYER} received HM02\n"
-    .string "from the girl.$"
+    .string "You got the HM02!$"
 
 Route16_House_Text_ExplainHM02::
-    .string "HM02 is FLY.\n"
-    .string "It's a wonderfully convenient move.\p"
-    .string "Please, put it to good use.$"
+    .string "USE HM02 FLY$"
 
 Route16_House_Text_DontHaveAnyRoomForThis::
-    .string "You don't have any room for this.$"
+    .string "'ROOM FULL - MOVE TO NEXT'$"
 
 Route16_House_Text_Fearow::
-    .string "FEAROW: Kyueen!$"
+    .string "urses and pales at the sight!$"
 

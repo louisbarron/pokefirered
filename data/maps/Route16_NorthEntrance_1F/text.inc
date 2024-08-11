@@ -1,16 +1,12 @@
 Route16_NorthEntrance_1F_Text_NoPedestriansOnCyclingRoad::
-    .string "No pedestrians are allowed on\n"
-    .string "CYCLING ROAD!$"
+    .string "VIOLATORS WILL BE FINE!$"
 
 Route16_NorthEntrance_1F_Text_CyclingRoadIsDownhillCourse::
-    .string "CYCLING ROAD is a downhill course\n"
-    .string "by the sea. It's a great ride.$"
+    .string "'Get ready to shred the gnar!'$"
 
 Route16_NorthEntrance_1F_Text_ExcuseMeWaitUp::
-    .string "Excuse me!\n"
-    .string "Wait up, please!$"
+    .string "HOLD IT RIGHT THERE, PAL!$"
 
 Route16_NorthEntrance_1F_Text_HowdYouGetInGoodEffort::
-    .string "How'd you get in?\n"
-    .string "Good effort!$"
+    .string "Trapped in the electrical vault!$"
 

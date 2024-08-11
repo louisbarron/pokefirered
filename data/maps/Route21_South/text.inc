@@ -1,87 +1,76 @@
 Route21_South_Text_JackIntro::
-	.string "I caught my POKéMON at sea.$"
+    .string "'GOTCHA! MAGIKARP'$"
 
 Route21_South_Text_JackDefeat::
-	.string "Diver!!\n"
-	.string "Down!!$"
+    .string "Warning: Airlock Malfunction$"
 
 Route21_South_Text_JackPostBattle::
-	.string "Where'd you catch your POKéMON?$"
+    .string "WILD PIDGEY SPOTTED!$"
 
 Route21_South_Text_JeromeIntro::
-	.string "Right now, I'm in a triathlon meet.$"
+    .string "SWIM LAP 3 OF 5...$"
 
 Route21_South_Text_JeromeDefeat::
-	.string "Pant…\n"
-	.string "Pant… Pant…$"
+    .string "'Oxygen depleted... dying...'$"
 
 Route21_South_Text_JeromePostBattle::
-	.string "I'm beat! But, I still have the\n"
-	.string "bike race and marathon left!$"
+    .string "YOYO IS WAITIN!$"
 
 Route21_South_Text_RolandIntro::
-	.string "Ahh!\n"
-	.string "Feel the sun and the wind!$"
+    .string "'JOURNEY BEGINS! SET SAIL FOR THE\p"
+    .string "ISLANDS!'$"
 
 Route21_South_Text_RolandDefeat::
-	.string "Yow!\n"
-	.string "I lost!$"
+    .string "GAME OVER!$"
 
 Route21_South_Text_RolandPostBattle::
-	.string "I'm sunburnt to a crisp!$"
+    .string "'Your Skin's on Fire!'$"
 
 Route21_South_Text_ClaudeIntro::
-	.string "Hey, don't scare away the fish!$"
+    .string "FISH FLEE IN FEAR$"
 
 Route21_South_Text_ClaudeDefeat::
-	.string "Sorry! I'm just so frustrated from\n"
-	.string "not catching anything.$"
+    .string "'Fishin' Frenzy: 0/5'$"
 
 Route21_South_Text_ClaudePostBattle::
-	.string "Sheesh, I haven't caught a thing.\n"
-	.string "Could this place actually be a\l"
-	.string "giant pool or something?$"
+    .string "'Wild Tuna nearby!'$"
 
 Route21_South_Text_NolanIntro::
-	.string "Keep me company till I get a hit.$"
+    .string "'Fishing for luck... Come on,\p"
+    .string "buddy!'$"
 
 Route21_South_Text_NolanDefeat::
-	.string "That burned some time.$"
+    .string "FLAMES NICKED BY ROCKET FLYBY$"
 
 Route21_South_Text_NolanPostBattle::
-	.string "Oh wait!\n"
-	.string "I got a bite! Yeah!$"
+    .string "'WONDERFUL CATCH! 10 XP'$"
 
 Route21_North_Text_LilIntro::
-	.string "LIL: Huh? A battle?\n"
-	.string "IAN, can't you do it alone?$"
+    .string "NO WAY! IANA LONER.$"
 
 Route21_North_Text_LilDefeat::
-	.string "LIL: Oh, see?\n"
-	.string "We lost. Happy now?$"
+    .string "'You're tellin' me!'$"
 
 Route21_North_Text_LilPostBattle::
-	.string "LIL: I'm tired.\n"
-	.string "Can't we go home already?$"
+    .string "'Are ye sure ye can't handle a\p"
+    .string "little more adventurin', LIL?'$"
 
 Route21_North_Text_LilNotEnoughMons::
-	.string "LIL: Huh? A battle?\n"
-	.string "I can't be bothered to do it alone.\l"
-	.string "Bring two POKéMON, won't you?$"
+    .string "'Two strong friends, eh? Want me\p"
+    .string "to bring Larry and Lola.'$"
 
 Route21_North_Text_IanIntro::
-	.string "IAN: My sis doesn't get enough\n"
-	.string "exercise, so I made her come.$"
+    .string "You: 'Gotcha! Now she's fit and\p"
+    .string "fierce!'$"
 
 Route21_North_Text_IanDefeat::
-	.string "IAN: Awww, Sis!\n"
-	.string "Get it together!$"
+    .string "'Focus! Not now, Sis!'$"
 
 Route21_North_Text_IanPostBattle::
-	.string "IAN: Come on, Sis!\p"
-	.string "You're not going to lose weight\n"
-	.string "like this!$"
+    .string "'RUN FASTER, IAN! LOSE THE\p"
+    .string "PORKCHOPS!'$"
 
 Route21_North_Text_IanNotEnoughMons::
-	.string "IAN: We want a two-on-two battle.\n"
-	.string "So can you bring two POKéMON?$"
+    .string "ATALATAL! CHOOSE 2 POKEMON,\p"
+    .string "Trainer!$"
+

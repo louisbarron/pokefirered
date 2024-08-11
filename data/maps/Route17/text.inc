@@ -1,131 +1,123 @@
 Route17_Text_RaulIntro::
-    .string "There's no getting rich quick in\n"
-    .string "battling kids.$"
+    .string " Beating the streets will take\p"
+    .string "time.$"
 
 Route17_Text_RaulDefeat::
-    .string "Burned out!$"
+    .string "HEALTH LOW$"
 
 Route17_Text_RaulPostBattle::
-    .string "You can find good stuff lying\n"
-    .string "around on CYCLING ROAD.\p"
-    .string "There's good money in picking them\n"
-    .string "up and selling them.$"
+    .string "'Picked up some scrap metal. Worth\p"
+    .string "500 coins'$"
 
 Route17_Text_IsaiahIntro::
-    .string "I'm mighty proud of my bod, kiddo.\n"
-    .string "Come on!$"
+    .string "'Hey, trainer! This body's a\p"
+    .string "wrestlin' legend in the makin'!'$"
 
 Route17_Text_IsaiahDefeat::
-    .string "Whoo!$"
+    .string "'WELCOME TO ADVENTURE ISLAND!'$"
 
 Route17_Text_IsaiahPostBattle::
-    .string "I could belly-bump you outta\n"
-    .string "here!$"
+    .string "'Watch out, Grug!'$"
 
 Route17_Text_VirgilIntro::
-    .string "You heading to FUCHSIA?$"
+    .string "Watch yer back, stranger. Rumors\p"
+    .string "of treacherous terrain ahead!$"
 
 Route17_Text_VirgilDefeat::
-    .string "Crash and burn!$"
+    .string "ENGINE FAILURE!$"
 
 Route17_Text_VirgilPostBattle::
-    .string "I love racing downhill!$"
+    .string "Buckle up: Maverick Mountain\p"
+    .string "AHEAD!$"
 
 Route17_Text_BillyIntro::
-    .string "We're BIKERS!\n"
-    .string "We rule the roads, man!$"
+    .string "'VROOOOM! Fast Riders Forever!!!'$"
 
 Route17_Text_BillyDefeat::
-    .string "Smoked!$"
+    .string "'ENEMY DOWN!'$"
 
 Route17_Text_BillyPostBattle::
-    .string "Are you looking for adventure?$"
+    .string "Embark on Quest for Golden\p"
+    .string "Chalice!$"
 
 Route17_Text_NikolasIntro::
-    .string "Let VOLTORB electrify you!$"
+    .string "BZZT! TO TYPING!$"
 
 Route17_Text_NikolasDefeat::
-    .string "Grounded out!$"
+    .string "'STUCK! ENEMY ENCLOSURE BLOCKING\p"
+    .string "PROGRESS...'$"
 
 Route17_Text_NikolasPostBattle::
-    .string "I got my VOLTORB at the abandoned\n"
-    .string "POWER PLANT.$"
+    .string "You feel a surge of electricity!$"
 
 Route17_Text_ZeekIntro::
-    .string "I leveled up my POKéMON, but it\n"
-    .string "won't evolve. Why?$"
+    .string "'Evol-shift? Check level, await\p"
+    .string "key item or trade.'$"
 
 Route17_Text_ZeekDefeat::
-    .string "Why, you!$"
+    .string "'BETRAYAL! THE TRUST HAS BEEN\p"
+    .string "SHATTERED!'$"
 
 Route17_Text_ZeekPostBattle::
-    .string "Maybe some POKéMON need element\n"
-    .string "STONES to evolve.$"
+    .string "'PURIFY YOUR POKE BALLS YET?'$"
 
 Route17_Text_JamalIntro::
-    .string "I need a little exercise!$"
+    .string "GET READY TO SWEAT!$"
 
 Route17_Text_JamalDefeat::
-    .string "Whew!\n"
-    .string "Good workout!$"
+    .string "YOU FEEL STRONG$"
 
 Route17_Text_JamalPostBattle::
-    .string "I'm sure I lost weight there!$"
+    .string "You fell off a ledge.$"
 
 Route17_Text_CoreyIntro::
-    .string "Be a rebel!$"
+    .string "'REBELBASE UNDER ATTACK! FLEE FOR\p"
+    .string "YOUR LIFE!'$"
 
 Route17_Text_CoreyDefeat::
-    .string "Aaaargh!$"
+    .string "ATTENTION: PIRATE ANCHORED HOT!$"
 
 Route17_Text_CoreyPostBattle::
-    .string "Be ready to fight for your beliefs!$"
+    .string "'Gorthok, the Unyielding, awaits\p"
+    .string "your challenge.'$"
 
 Route17_Text_JaxonIntro::
-    .string "Nice BIKE!\n"
-    .string "How's it handle?$"
+    .string "Fast, Agile, and Responsive!$"
 
 Route17_Text_JaxonDefeat::
-    .string "Shoot!$"
+    .string "'Target acquired!'$"
 
 Route17_Text_JaxonPostBattle::
-    .string "The slope makes it hard to steer.$"
+    .string "'Careful, mate ye gotta correct\p"
+    .string "yer course!'$"
 
 Route17_Text_WilliamIntro::
-    .string "Get lost, kid!\n"
-    .string "I'm bushed!$"
+    .string "'You ain't takin' me down without\p"
+    .string "a fight!'$"
 
 Route17_Text_WilliamDefeat::
-    .string "Are you satisfied?$"
+    .string "SURE, SORCERESS. WHAT'S YOUR WILL?$"
 
 Route17_Text_WilliamPostBattle::
-    .string "I need to catch a few z's!$"
+    .string "'Sleep Deprivation: -25 HP'$"
 
 Route17_Text_WatchOutForDiscardedItems::
-    .string "It's a notice.\p"
-    .string "Watch out for discarded items.$"
+    .string "'Be cautious of stray trash'$"
 
 Route17_Text_SameSpeciesGrowDifferentRates::
-    .string "TRAINER TIPS\p"
-    .string "All POKéMON are unique.\p"
-    .string "Even POKéMON of the same species\n"
-    .string "and level grow at different rates.$"
+    .string "'Your team's distinct\p"
+    .string "personalities will make all the\n"
+    .string "difference on your quest!'$"
 
 Route17_Text_PressBToStayInPlace::
-    .string "TRAINER TIPS\p"
-    .string "Press the B Button to stay in place\n"
-    .string "while on a slope.$"
+    .string "STAY PUT, B BUTTON!$"
 
 Route17_Text_RouteSign::
-    .string "ROUTE 17\n"
-    .string "CELADON CITY - FUCHSIA CITY$"
+    .string "'Next stop: Fuchsia City!'$"
 
 Route17_Text_DontThrowGameThrowBalls::
-    .string "It's a notice!\p"
-    .string "Don't throw the game, throw POKé\n"
-    .string "BALLS instead!$"
+    .string "'Feel the POKE-emon Power!'$"
 
 Route17_Text_CyclingRoadSign::
-    .string "CYCLING ROAD\n"
-    .string "Slope ends here!$"
+    .string "'WHEW! FLAT ROAD AHEAD!'$"
 

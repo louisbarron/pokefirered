@@ -1,100 +1,75 @@
 Route24_Text_JustEarnedFabulousPrize::
-    .string "Congratulations! You beat our\n"
-    .string "five contest TRAINERS!\p"
-    .string "You just earned a fabulous prize!$"
+    .string "'STORM's SUPER SAVER!'$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
-    .string "{PLAYER} received a NUGGET\n"
-    .string "from the mystery TRAINER!$"
+    .string "'Look out, buddy!'$"
 
 Route24_Text_YouDontHaveAnyRoom::
-    .string "You don't have any room!$"
+    .string "'We need more space!'$"
 
 Route24_Text_JoinTeamRocket::
-    .string "By the way, how would you like to\n"
-    .string "join TEAM ROCKET?\p"
-    .string "We're a group of professional\n"
-    .string "criminals specializing in POKéMON!\p"
-    .string "Want to join?\p"
-    .string "Are you sure?\p"
-    .string "Come on, join us!\p"
-    .string "I'm telling you to join!\p"
-    .string "…Okay, you need convincing!\p"
-    .string "I'll make you an offer you can't\n"
-    .string "refuse!$"
+    .string "'Join TEAM ROCKET? Not by death!'$"
 
 Route24_Text_RocketDefeat::
-    .string "Arrgh!\n"
-    .string "You are good!$"
+    .string "conocono's Cairn Ahead$"
 
 Route24_Text_YoudBecomeTopRocketLeader::
-    .string "With your ability, you'd become\n"
-    .string "a top leader in TEAM ROCKET.\p"
-    .string "Come on, think of the opportunity!\n"
-    .string "Don't let this chance go to waste.$"
+    .string "Join us and rise to power!$"
 
 Route24_Text_ShaneIntro::
-    .string "I saw your feat from the grass!$"
+    .string "'ROGUE ENEMY IN SIGHT! CHARGE AT\p"
+    .string "WILL!'$"
 
 Route24_Text_ShaneDefeat::
-    .string "I thought not!$"
+    .string "'You're not gonna get away that\p"
+    .string "easily!'$"
 
 Route24_Text_ShanePostBattle::
-    .string "I hid because the people on the\n"
-    .string "bridge frightened me.$"
+    .string "You tremble with fear...$"
 
 Route24_Text_EthanIntro::
-    .string "Okay! I'm No. 5!\n"
-    .string "I'll stomp you!$"
+    .string "You're a pesky 3!$"
 
 Route24_Text_EthanDefeat::
-    .string "Whoa!\n"
-    .string "Too much!$"
+    .string "'Game Over: Exceeded Max Energy!'$"
 
 Route24_Text_EthanPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "'YOU FEEL A SENSE OF PRIDE!'$"
 
 Route24_Text_ReliIntro::
-    .string "I'm No. 4!\n"
-    .string "Getting tired?$"
+    .string "RUN FOR COVERAGE!$"
 
 Route24_Text_ReliDefeat::
-    .string "I lost, too!$"
+    .string "Game Over! Better luck next time,\p"
+    .string "Adventurer!$"
 
 Route24_Text_ReliPostBattle::
-    .string "I did my best, so I've no regrets!$"
+    .string "'FEEL THE PRIDE!'$"
 
 Route24_Text_TimmyIntro::
-    .string "Here's No. 3!\n"
-    .string "I won't be easy!$"
+    .string "'BEGONE, WEAKLING!'$"
 
 Route24_Text_TimmyDefeat::
-    .string "Ow!\n"
-    .string "Stomped flat!$"
+    .string "YOU LOST A LIFE!$"
 
 Route24_Text_TimmyPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "'YOU FEEL A SENSE OF PRIDE!'$"
 
 Route24_Text_AliIntro::
-    .string "I'm second!\n"
-    .string "Now it's serious!$"
+    .string "YOU DARE TO CHALLENGE THE LEADER!$"
 
 Route24_Text_AliDefeat::
-    .string "How could I lose?$"
+    .string "'STATS LOW'$"
 
 Route24_Text_AliPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "'YOU FEEL A SENSE OF PRIDE!'$"
 
 Route24_Text_CaleIntro::
-    .string "People call this the NUGGET\n"
-    .string "BRIDGE!\p"
-    .string "Beat us five TRAINERS and win\n"
-    .string "a fabulous prize!\p"
-    .string "Think you got what it takes?$"
+    .string "BEAT THEM ALREADY?!$"
 
 Route24_Text_CaleDefeat::
-    .string "Whoo!\n"
-    .string "Good stuff!$"
+    .string "'WHEEEE! YOU DID IT!'$"
 
 Route24_Text_CalePostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "'YOU FEEL A SENSE OF PRIDE!'$"
+
