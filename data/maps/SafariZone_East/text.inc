@@ -1,12 +1,12 @@
 SafariZone_East_Text_RestHouse::
-    .string "REST HOUSE$"
+    .string "'Welcome weary traveler! Rest\p"
+    .string "well, but beware the whispers in\n"
+    .string "the night...'$"
 
 SafariZone_East_Text_TimeDeclinesOnlyWhileYouWalk::
-    .string "TRAINER TIPS\p"
-    .string "The remaining time declines only\n"
-    .string "while you walk.$"
+    .string "Hurry up, runner!$"
 
 SafariZone_East_Text_AreaSign::
-    .string "AREA 1\n"
-    .string "WEST: CENTER AREA$"
+    .string "You sense a strange energy\p"
+    .string "emanating from the CENTER AREA...$"
 

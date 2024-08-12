@@ -1,162 +1,139 @@
 Route8_Text_AidanIntro::
-    .string "You look good at POKéMON, but how\n"
-    .string "is your chemistry grade?$"
+    .string "'Don't worry 'bout that, gotta\p"
+    .string "catch 'em all!'$"
 
 Route8_Text_AidanDefeat::
-    .string "Ow!\n"
-    .string "Meltdown!$"
+    .string "'BURN BULLETIN:  Critical Thermal\p"
+    .string "Overload!'$"
 
 Route8_Text_AidanPostBattle::
-    .string "I am better at school than this!$"
+    .string "'You're not exactly proficient\p"
+    .string "in... algebra yet.'$"
 
 Route8_Text_StanIntro::
-    .string "All right!\n"
-    .string "Let's play a game!$"
+    .string "WELCOME TO 'QUEST FOR GLORY'$"
 
 Route8_Text_StanDefeat::
-    .string "Drat!\n"
-    .string "Came up short!$"
+    .string "OBJECT NOT IN RANGE!$"
 
 Route8_Text_StanPostBattle::
-    .string "Things didn't work today.$"
+    .string "Systems malfunctioning...$"
 
 Route8_Text_GlennIntro::
-    .string "You should be informed.\n"
-    .string "You need strategy to win at this!$"
+    .string "Are you ready for the CHALLENGE?$"
 
 Route8_Text_GlennDefeat::
-    .string "It's not logical!$"
+    .string "ILLOGICAL BIZARRENESS DETECTED!$"
 
 Route8_Text_GlennPostBattle::
-    .string "Go with GRIMER first…and…\n"
-    .string "…and…then…$"
+    .string "The cyclopean horrors await!$"
 
 Route8_Text_PaigeIntro::
-    .string "I like NIDORAN, so I collect them!$"
+    .string "Find ing three Nidoran in the\p"
+    .string "cave!$"
 
 Route8_Text_PaigeDefeat::
-    .string "Why?\n"
-    .string "Why??$"
+    .string "Cursed temple's strange energy\p"
+    .string "disrupts my mind.$"
 
 Route8_Text_PaigePostBattle::
-    .string "When POKéMON grow up, they get\n"
-    .string "ugly! They shouldn't evolve.$"
+    .string "'BUT WAIT! GROWTH IS KEY!'$"
 
 Route8_Text_LeslieIntro::
-    .string "School is fun, but so are POKéMON.$"
+    .string "'CHOOSE YOUR POKeMON CAREFULLY!'$"
 
 Route8_Text_LeslieDefeat::
-    .string "You made it clear to me that\n"
-    .string "I should stick with school.$"
+    .string "You're being led astray by the\p"
+    .string "streets! Return to campus, young\n"
+    .string "one.$"
 
 Route8_Text_LesliePostBattle::
-    .string "I was planning on getting some\n"
-    .string "fresh air for a change, but…\p"
-    .string "We're stuck here because of the\n"
-    .string "gates at SAFFRON.$"
+    .string "LEFT GATE WON'T BUDGE. WHY?!$"
 
 Route8_Text_AndreaIntro::
-    .string "MEOWTH is so cute, meow, meow,\n"
-    .string "meow!$"
+    .string "Wilburn captures MEOWTH!$"
 
 Route8_Text_AndreaDefeat::
-    .string "Meeeeyow!$"
+    .string "'WALKING CATBEAST APPROACHES!'$"
 
 Route8_Text_AndreaPostBattle::
-    .string "I think PIDGEY and RATTATA are\n"
-    .string "cute, too!$"
+    .string "You discovered a wild 24 Rattata!$"
 
 Route8_Text_MeganIntro::
-    .string "We must look silly standing here\n"
-    .string "like this.$"
+    .string "'Repeat syllables to dispel\p"
+    .string "confusion!'$"
 
 Route8_Text_MeganDefeat::
-    .string "Look what you did to my poor, cute\n"
-    .string "POKéMON!$"
+    .string "'Your Poke Ball malfunctioned!'$"
 
 Route8_Text_MeganPostBattle::
-    .string "SAFFRON's gatekeeper won't let us\n"
-    .string "go through.\p"
-    .string "I know he's doing his job, but I\n"
-    .string "think he's mean.$"
+    .string "'Talk to the gatekeeper, he\p"
+    .string "seems... skeptical.'$"
 
 Route8_Text_RichIntro::
-    .string "I'm a rambling, gaming dude!$"
+    .string "'Cursed Temple Ahead!'$"
 
 Route8_Text_RichDefeat::
-    .string "Missed the big chance!$"
+    .string "FORTUNE SLIPS THROUGH YOUR FINGERS$"
 
 Route8_Text_RichPostBattle::
-    .string "Playing games and POKéMON are like\n"
-    .string "eating peanuts! I just can't stop!$"
+    .string "YOUR ADDICTION KNOWS NO BOUNDS!$"
 
 Route8_Text_JuliaIntro::
-    .string "What's a cute, round, and fluffy\n"
-    .string "POKéMON?$"
+    .string "CHARMANDER$"
 
 Route8_Text_JuliaDefeat::
-    .string "Stop!\p"
-    .string "Don't be so mean to my CLEFAIRY!$"
+    .string "'BACK OFF, GYM LEADER!'$"
 
 Route8_Text_JuliaPostBattle::
-    .string "I read that CLEFAIRY evolves when\n"
-    .string "it's exposed to a MOON STONE.\p"
-    .string "I read that in a POKéMON JOURNAL.\n"
-    .string "I wonder if it's true?$"
+    .string "GOTCHA!$"
 
 Route8_Text_UndergroundPathSign::
-    .string "UNDERGROUND PATH\n"
-    .string "CELADON CITY - LAVENDER TOWN$"
+    .string "'Continue north to Lavender Town?'$"
 
 Route8_Text_EliIntro::
-    .string "ELI: Twin power is fantastic.\n"
-    .string "Did you know?$"
+    .string "'DUAL ENERGY GENERATORS ONLINE!'$"
 
 Route8_Text_EliDefeat::
-    .string "ELI: But…\n"
-    .string "We used our twin power…$"
+    .string "'BUT WAIT! MAGNETIC FUSES\p"
+    .string "FAILING!'$"
 
 Route8_Text_EliPostBattle::
-    .string "ELI: I caught my POKéMON with\n"
-    .string "ANNE!$"
+    .string "'Pokemon caught!'$"
 
 Route8_Text_EliNotEnoughMons::
-    .string "ELI: We can't battle if you don't\n"
-    .string "have two POKéMON.$"
+    .string "'BATTLES NOT POSSIBLE. PLEASE\p"
+    .string "SELECT TWO POKEMON.'$"
 
 Route8_Text_AnneIntro::
-    .string "ANNE: We'll shock you with our twin\n"
-    .string "power!$"
+    .string "'TWIN STORM COMING!'$"
 
 Route8_Text_AnneDefeat::
-    .string "ANNE: Our twin power…$"
+    .string "UNLEASHED!$"
 
 Route8_Text_AnnePostBattle::
-    .string "ANNE: I'm raising POKéMON with\n"
-    .string "ELI.$"
+    .string "'Great minds think alike!'$"
 
 Route8_Text_AnneNotEnoughMons::
-    .string "ANNE: Hi, hi! Let's battle!\n"
-    .string "But bring two POKéMON.$"
+    .string "BRING YOUR STRONGEST PAIR!$"
 
 Route8_Text_RicardoIntro::
-    .string "My bike's acting up, man.$"
+    .string "'Broke Spoke: Confirmed. Fix or\p"
+    .string "Replace?'$"
 
 Route8_Text_RicardoDefeat::
-    .string "Aww, man.\n"
-    .string "I'm not into this.$"
+    .string "You're not ready for this fight.$"
 
 Route8_Text_RicardoPostBattle::
-    .string "I got grass caught up in my\n"
-    .string "spokes, man.$"
+    .string "'Stuck in the weeds!'$"
 
 Route8_Text_JarenIntro::
-    .string "Clear the way, or I'll run you\n"
-    .string "down!$"
+    .string "GET OUT OF DOCKING BAY 94!$"
 
 Route8_Text_JarenDefeat::
-    .string "You for real, kid?$"
+    .string "RENEGADE TUNNEL LOW-LEVEL DAYCYCLE\p"
+    .string "RAID$"
 
 Route8_Text_JarenPostBattle::
-    .string "Don't think you're all special and\n"
-    .string "all just because of this.$"
+    .string "'You're no hero, kid.'$"
+

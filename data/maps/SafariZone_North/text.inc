@@ -1,21 +1,18 @@
 SafariZone_North_Text_RestHouse::
-    .string "REST HOUSE$"
+    .string "'Welcome weary traveler! Rest\p"
+    .string "well, but beware the whispers in\n"
+    .string "the night...'$"
 
 SafariZone_North_Text_SecretHouseStillAhead::
-    .string "TRAINER TIPS\p"
-    .string "The SECRET HOUSE is still ahead.$"
+    .string "Entrance hidden behind waterfall\p"
+    .string "awaits!$"
 
 SafariZone_North_Text_Area2::
-    .string "AREA 2$"
+    .string "'CRUMBLING BRIDGE AHEAD!x27;$"
 
 SafariZone_North_Text_ZigzagThroughTallGrass::
-    .string "TRAINER TIPS\p"
-    .string "POKéMON hide in tall grass.\p"
-    .string "Zigzag through grassy areas to\n"
-    .string "flush them out.$"
+    .string "HEADS UP, TRAINER!$"
 
 SafariZone_North_Text_WinFreeHMFindSecretHouse::
-    .string "TRAINER TIPS\p"
-    .string "Win a free HM for finding the\n"
-    .string "SECRET HOUSE.$"
+    .string "Discover the SECRET HOUSE!$"
 

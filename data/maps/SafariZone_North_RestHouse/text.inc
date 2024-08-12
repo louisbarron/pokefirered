@@ -1,15 +1,10 @@
 SafariZone_East_Text_KeepAnyItemFoundOnSafari::
-    .string "You can keep any item you find in\n"
-    .string "the SAFARI ZONE.\p"
-    .string "But, you'll run out of time if you\n"
-    .string "try for all of them at once.$"
+    .string "Use your pick wisely!$"
 
 SafariZone_East_Text_PrizeInDeepestPartOfSafariZone::
-    .string "Go to the deepest part of the\n"
-    .string "SAFARI ZONE. You will win a prize!$"
+    .string "'Beware the ROAMING MONSTERS!'$"
 
 SafariZone_East_Text_MyEeveeEvolvedIntoFlareon::
-    .string "My EEVEE evolved into FLAREON.\p"
-    .string "But, a friend's EEVEE turned into a\n"
-    .string "VAPOREON. I wonder why?$"
+    .string "STABLES OF EVOLUTION MYSTERY\p"
+    .string "UNRAVELED!$"
 

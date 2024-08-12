@@ -1,11 +1,12 @@
 SafariZone_Center_Text_RestHouse::
-    .string "REST HOUSE$"
+    .string "'Welcome weary traveler! Rest\p"
+    .string "well, but beware the whispers in\n"
+    .string "the night...'$"
 
 SafariZone_Center_Text_PressStartToCheckTime::
-    .string "TRAINER TIPS\p"
-    .string "Press START to check\n"
-    .string "remaining time.$"
+    .string "TIME'S RUNNING OUT!$"
 
 SafariZone_Center_Text_CenterArea::
-    .string "CENTER AREA$"
+    .string "You see a strange pedestal with a\p"
+    .string "glowing orb on top.$"
 

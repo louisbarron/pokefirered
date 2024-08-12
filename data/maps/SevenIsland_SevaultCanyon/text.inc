@@ -1,130 +1,95 @@
 SevenIsland_SevaultCanyon_Text_CyndyIntro::
-    .string "My conditioning's in top form!$"
+    .string "'Condition: Perfect!'$"
 
 SevenIsland_SevaultCanyon_Text_CyndyDefeat::
-    .string "Huh?\n"
-    .string "Something's not right…$"
+    .string "'Mysterious Force Field Ahead!'$"
 
 SevenIsland_SevaultCanyon_Text_CyndyPostBattle::
-    .string "The way I am now, I may have to\n"
-    .string "hold off on TRAINER TOWER…$"
+    .string "HEET WEAK FROM FIGHTS PAST...$"
 
 SevenIsland_SevaultCanyon_Text_EvanIntro::
-    .string "It doesn't matter if you happen to\n"
-    .string "have the strongest POKéMON…\p"
-    .string "It doesn't mean a thing if you don't\n"
-    .string "know how to use them properly!$"
+    .string "Wise words from Professor Oak!$"
 
 SevenIsland_SevaultCanyon_Text_EvanDefeat::
-    .string "You're a master at this.$"
+    .string "CRASHES INTO DEADLY CACTUS!$"
 
 SevenIsland_SevaultCanyon_Text_EvanPostBattle::
-    .string "You see them every so often,\n"
-    .string "TRAINERS with awesome POKéMON\l"
-    .string "who have no idea what to do.\p"
-    .string "Before training POKéMON, TRAINERS\n"
-    .string "themselves need to grow up.$"
+    .string "You encounter a rookie TRAINER\p"
+    .string "with a Pikachu!$"
 
 SevenIsland_SevaultCanyon_Text_JacksonIntro::
-    .string "I work to protect the environment.\n"
-    .string "In turn, nature protects me!$"
+    .string "Confidor Key: Eco Harmony\p"
+    .string "Activated.$"
 
 SevenIsland_SevaultCanyon_Text_JacksonDefeat::
-    .string "Whoa! You're tough!\n"
-    .string "How about protecting me?$"
+    .string "WARWAR 3000 Protects You!$"
 
 SevenIsland_SevaultCanyon_Text_JacksonPostBattle::
-    .string "From far out among the stars, our\n"
-    .string "planet is just a drop of water.\p"
-    .string "But we want to protect that drop\n"
-    .string "of water for everyone.$"
+    .string "adows creep across the ruined\p"
+    .string "earth.$"
 
 SevenIsland_SevaultCanyon_Text_KatelynIntro::
-    .string "Those shoes you have are pretty\n"
-    .string "snazzy.$"
+    .string "'Thanks, I got them from the last\p"
+    .string "sale!'$"
 
 SevenIsland_SevaultCanyon_Text_KatelynDefeat::
-    .string "You're hot stuff in spite of your\n"
-    .string "cute looks.$"
+    .string "' Gloria Goddess of Heat!'$"
 
 SevenIsland_SevaultCanyon_Text_KatelynPostBattle::
-    .string "Your mom bought those snazzy\n"
-    .string "RUNNING SHOES for you?\p"
-    .string "She must adore you.$"
+    .string "GIVE MOM A HUG!$"
 
 SevenIsland_SevaultCanyon_Text_LeroyIntro::
-    .string "You look strong.\n"
-    .string "Let me battle you, please!$"
+    .string " Prepare thyself! A Golem of Stone\p"
+    .string "awaits!$"
 
 SevenIsland_SevaultCanyon_Text_LeroyDefeat::
-    .string "I knew it!\n"
-    .string "You're as tough as I thought!$"
+    .string "KEEP FIGHTING!$"
 
 SevenIsland_SevaultCanyon_Text_LeroyPostBattle::
-    .string "The way you battle has given me\n"
-    .string "a lot of useful data.\p"
-    .string "Thanks so much!$"
+    .string "The researcher's note...'$"
 
 SevenIsland_SevaultCanyon_Text_MichelleIntro::
-    .string "I was given the best possible\n"
-    .string "education to become this strong.\p"
-    .string "I don't want to lose to anyone!$"
+    .string "'RESHAPING DESTINY IN THE HEAT OF\p"
+    .string "BATTLE!'$"
 
 SevenIsland_SevaultCanyon_Text_MichelleDefeat::
-    .string "Thank you. I feel like I've been\n"
-    .string "set free by losing to you.$"
+    .string "'Reality's harsh dawn awaits'$"
 
 SevenIsland_SevaultCanyon_Text_MichellePostBattle::
-    .string "For some reason, I get furious\n"
-    .string "over the slightest thing.\p"
-    .string "I'll calm myself by breathing\n"
-    .string "deeply.$"
+    .string "'FURY FLARES, BUT COOL HEAD\p"
+    .string "PREVAILS!'$"
 
 SevenIsland_SevaultCanyon_Text_LexIntro::
-    .string "LEX: My darling NYA, together\n"
-    .string "we could win!$"
+    .string "'WILL YOU JOIN ME?'$"
 
 SevenIsland_SevaultCanyon_Text_LexDefeat::
-    .string "LEX: I seem to have been too\n"
-    .string "careless…$"
+    .string "Careless mistake...$"
 
 SevenIsland_SevaultCanyon_Text_LexPostBattle::
-    .string "LEX: I think it was a good\n"
-    .string "experience for NYA.\p"
-    .string "You have my gratitude.$"
+    .string "'Well met, adventurer.'$"
 
 SevenIsland_SevaultCanyon_Text_LexNotEnoughMons::
-    .string "LEX: May I ask you to battle the\n"
-    .string "both of us at the same time?$"
+    .string "'That's a crazy request! I'm in!'$"
 
 SevenIsland_SevaultCanyon_Text_NyaIntro::
-    .string "NYA: I'll do my best so I won't\n"
-    .string "drag down my mentor, LEX!$"
+    .string "Don't let me down, NYA!$"
 
 SevenIsland_SevaultCanyon_Text_NyaDefeat::
-    .string "NYA: Oh, no…\n"
-    .string "I'm so sorry, I…$"
+    .string "OH THE SHAME!$"
 
 SevenIsland_SevaultCanyon_Text_NyaPostBattle::
-    .string "NYA: I think I'm going to need\n"
-    .string "much more seasoning and tutoring\l"
-    .string "under LEX…\p"
-    .string "…So, LEX, please, may I stay with\n"
-    .string "you like this?$"
+    .string "/mit/mit/Live with LEX?\p"
+    .string "Y/N/Cancel/Help$"
 
 SevenIsland_SevaultCanyon_Text_NyaNotEnoughMons::
-    .string "NYA: I'm sorry, but may we battle\n"
-    .string "in two-on-two style?$"
+    .string "Brrr-Ka: Glutton for punishment,\p"
+    .string "eh? Bring it on!$"
 
 SevenIsland_SevaultCanyon_Text_RouteSign::
-    .string "SEVAULT CANYON\n"
-    .string "TANOBY RUINS AHEAD$"
+    .string "'Ruins of ancient TANOBY\p"
+    .string "civilization lie before you. Be\n"
+    .string "careful, death lurks within.'$"
 
 SevenIsland_SevaultCanyon_Text_BrunoTrainedWithBrawly::
-    .string "Training by oneself is certainly\n"
-    .string "not a bad thing.\p"
-    .string "But it's also not bad to aim for\n"
-    .string "the top with a partner.\p"
-    .string "Even BRUNO…\n"
-    .string "He trained with a fellow by the\l"
-    .string "name of BRAWLY before.$"
+    .string "Train w/ Bruno  Brawly?$"
+

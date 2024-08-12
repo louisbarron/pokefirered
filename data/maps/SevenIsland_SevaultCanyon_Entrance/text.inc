@@ -1,93 +1,72 @@
 SevenIsland_SevaultCanyon_Entrance_Text_MiahIntro::
-    .string "Kyahaha!\n"
-    .string "I'll flick you away effortlessly!$"
+    .string "'HAHA, YOU'RE NO MATCH FOR MY\p"
+    .string "QUICK FISTS!'$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MiahDefeat::
-    .string "Tch!\n"
-    .string "Too strong for me!$"
+    .string "YOU FELL!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MiahPostBattle::
-    .string "What's that?\n"
-    .string "I don't act the way I look?\p"
-    .string "Heh, that's a part of my strategy!$"
+    .string "A MASKED MASTERMIND AMONG US.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonIntro::
-    .string "Howdy!\n"
-    .string "Are you a member of my fan club?$"
+    .string " ALERT: FAN CLUB MEMBER NOT FOUND!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonDefeat::
-    .string "Oh, so you're not a fan…\p"
-    .string "Well, I can change that.\n"
-    .string "Let me sing for you!$"
+    .string "'WOOOO! LISTEN UP, PAL!'$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonPostBattle::
-    .string "Lalalah…\n"
-    .string "My POKéMON, I send them out,\l"
-    .string "all the girls scream and shout!$"
+    .string "SELECT YOUR POKE TEAM!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasIntro::
-    .string "This island is too spread out…\n"
-    .string "It's not easy patrolling the place.$"
+    .string "'ROAMER ALERT!ayload junction\p"
+    .string "compromised.'$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasDefeat::
-    .string "Uh-huh…$"
+    .string "'GOLDdm'$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasPostBattle::
-    .string "TRAINERS like you from cities,\n"
-    .string "they sure are tough.\p"
-    .string "You'll be headed for the TOWER,\n"
-    .string "won't you?$"
+    .string "'The road to TOWERS is long, are\p"
+    .string "you prepared?'$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineIntro::
-    .string "I punish people who abuse\n"
-    .string "POKéMON!$"
+    .string "You're a Viridian Gym Leader!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineDefeat::
-    .string "You don't seem to be a problem\n"
-    .string "TRAINER.$"
+    .string "'Malfunction detected!...'$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelinePostBattle::
-    .string "If you treat your POKéMON with\n"
-    .string "kindness, they'll understand.$"
+    .string "NEW FRIEND APPROACHING!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveIntro::
-    .string "EVE: I'll team up with JON and\n"
-    .string "battle together.$"
+    .string "'Ready, Set, FIGHT!'$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveDefeat::
-    .string "EVE: Me and JON, we lost.\n"
-    .string "Ehehe.$"
+    .string "'Jon's Gone, Forever Lost in the\p"
+    .string "Wastes'$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EvePostBattle::
-    .string "EVE: I'm going to work harder with\n"
-    .string "JON.$"
+    .string "FOCUS REQUIRED!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveNotEnoughMons::
-    .string "EVE: I want to team up with JON\n"
-    .string "when I battle you.\p"
-    .string "Come back with two POKéMON, okay?$"
+    .string "You got a challenge! Committing to\p"
+    .string "the fight.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonIntro::
-    .string "JON: When I'm with EVE, it feels\n"
-    .string "like we could never lose.$"
+    .string "Your heart beats faster, like a,\p"
+    .string "forgetting all cares.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonDefeat::
-    .string "JON: When I'm with EVE,\n"
-    .string "it doesn't feel like I've lost!$"
+    .string "'EVE by your side, forever our\p"
+    .string "guide'$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonPostBattle::
-    .string "JON: When I'm with EVE, I feel\n"
-    .string "giddy whether I win or lose.\p"
-    .string "It's magical!$"
+    .string "LOVE IN BLOOM$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonNotEnoughMons::
-    .string "JON: If it's with EVE, I'll be\n"
-    .string "happy to battle with you.\p"
-    .string "So, I'd like to make it a\n"
-    .string "two-on-two battle, if I may.$"
+    .string "You found EVE! She's ready to\p"
+    .string "rumble.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_RouteSign::
-    .string "SEVAULT CANYON ENTRANCE\p"
-    .string "TRAINERS are asked to refrain from\n"
-    .string "damaging plants in the CANYON.$"
+    .string "'Beware the Whispers of the\p"
+    .string "Canyon'$"
 

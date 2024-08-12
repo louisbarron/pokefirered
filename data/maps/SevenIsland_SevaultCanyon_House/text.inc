@@ -1,22 +1,19 @@
 SevenIsland_SevaultCanyon_House_Text_ChanseyDanceJoinIn::
-    .string "Dance, dance!\n"
-    .string "CHANSEY Dance!\p"
-    .string "You join in, too!\n"
-    .string "Dance, dance!$"
+    .string "THUNDEROUS APPLAUSE!$"
 
 SevenIsland_SevaultCanyon_House_Text_WouldYouLikeToDance::
-    .string "Would you like to dance?$"
+    .string "STRUT YOUR STUFF! Y/ES N/O$"
 
 SevenIsland_SevaultCanyon_House_Text_ComeOnDance::
-    .string "Come on, dance!$"
+    .string "DANCE FEVER TIME!$"
 
 SevenIsland_SevaultCanyon_House_Text_DancedChanseyDance::
-    .string "{PLAYER} danced the CHANSEY Dance!$"
+    .string "WOOHOO!$"
 
 SevenIsland_SevaultCanyon_House_Text_YoureAllChipperNow::
-    .string "Ahahahaha!\p"
-    .string "There, you're all chipper now!\n"
-    .string "Lucky!$"
+    .string "YOU GOT THE ITEM!$"
 
 SevenIsland_SevaultCanyon_House_Text_Chansey::
-    .string "CHANSEY: Chansi! Chansi!$"
+    .string "'Ahahah, Welcome to my cave,\p"
+    .string "adventurer!'$"
+
