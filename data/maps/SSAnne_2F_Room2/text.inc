@@ -1,23 +1,20 @@
 SSAnne_2F_Room2_Text_BrooksIntro::
-    .string "Competing against the young keeps\n"
-    .string "me youthful.$"
+    .string "'A kindred spirit!'$"
 
 SSAnne_2F_Room2_Text_BrooksDefeat::
-    .string "Good match!\n"
-    .string "Ah, I feel young again!$"
+    .string "WOOHOO! You succeeded in\p"
+    .string "rekindling your fervor!$"
 
 SSAnne_2F_Room2_Text_BrooksPostBattle::
-    .string "Fifteen years ago, I would\n"
-    .string "have won!$"
+    .string "'Get Revenge, Jackson!'$"
 
 SSAnne_2F_Room2_Text_DaleIntro::
-    .string "Check out what I fished up!$"
+    .string "GOLDEN FISHscaled Brilliance!$"
 
 SSAnne_2F_Room2_Text_DaleDefeat::
-    .string "I'm all out!$"
+    .string "'Need Credits? Find More in the\p"
+    .string "Cash Register!'$"
 
 SSAnne_2F_Room2_Text_DalePostBattle::
-    .string "Party?\p"
-    .string "The cruise ship's party should be\n"
-    .string "over by now.$"
+    .string "'Lost my ticket...'$"
 

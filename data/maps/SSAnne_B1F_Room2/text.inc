@@ -1,10 +1,10 @@
 SSAnne_B1F_Room2_Text_HueyIntro::
-    .string "Even us sailors have POKéMON, too!$"
+    .string "'Meet the new recruit! He's got a\p"
+    .string "Jolteon on deck!'$"
 
 SSAnne_B1F_Room2_Text_HueyDefeat::
-    .string "Okay, you're not bad.$"
+    .string "'You've got skills, kid!'$"
 
 SSAnne_B1F_Room2_Text_HueyPostBattle::
-    .string "We caught all our POKéMON while\n"
-    .string "we were out at sea.$"
+    .string "'Ahoy, untouched waters ahead!'$"
 

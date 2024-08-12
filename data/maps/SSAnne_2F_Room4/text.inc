@@ -1,22 +1,19 @@
 SSAnne_2F_Room4_Text_LamarIntro::
-    .string "Which do you find more worthy,\n"
-    .string "a strong or a rare POKéMON?$"
+    .string "'A rare POKeMON's power!'$"
 
 SSAnne_2F_Room4_Text_LamarDefeat::
-    .string "I must salute you!$"
+    .string "'Welcome, Hero! Press Enter to\p"
+    .string "proceed.'$"
 
 SSAnne_2F_Room4_Text_LamarPostBattle::
-    .string "Personally, I prefer strong and\n"
-    .string "rare POKéMON.$"
+    .string "You've caught a rare Mew!$"
 
 SSAnne_2F_Room4_Text_DawnIntro::
-    .string "I don't believe I saw you at the\n"
-    .string "party?$"
+    .string "WHO ARE YOU?$"
 
 SSAnne_2F_Room4_Text_DawnDefeat::
-    .string "Take it easy!$"
+    .string "CHILLIN' TIME APPROACHING$"
 
 SSAnne_2F_Room4_Text_DawnPostBattle::
-    .string "Oh, I adore your strong POKéMON!\n"
-    .string "Oh, how I envy you for them!$"
+    .string "WANT TO TRADE?$"
 

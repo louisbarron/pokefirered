@@ -1,45 +1,41 @@
 SilphCo_4F_Text_CantYouSeeImHiding::
-    .string "Sssh!\n"
-    .string "Can't you see I'm hiding?$"
+    .string "Don't blow my cover!$"
 
 SilphCo_4F_Text_TeamRocketIsGone::
-    .string "Huh?\n"
-    .string "TEAM ROCKET is gone?$"
+    .string "'ta da! Goldenrod Tower\p"
+    .string "liberated!'$"
 
 SilphCo_4F_Text_Grunt1Intro::
-    .string "TEAM ROCKET has taken control\n"
-    .string "of SILPH CO.!$"
+    .string "saretasaretaPUT BACK THE MOOLAH!$"
 
 SilphCo_4F_Text_Grunt1Defeat::
-    .string "Arrgh!$"
+    .string "SHIP SINKING!$"
 
 SilphCo_4F_Text_Grunt1PostBattle::
-    .string "Fwahahaha!\n"
-    .string "My BOSS has been after this place!$"
+    .string "'Condemned to Destruction...!'$"
 
 SilphCo_4F_Text_RodneyIntro::
-    .string "My POKéMON is my loyal servant.$"
+    .string "'Servant no more, by dawn's early\p"
+    .string "light!'$"
 
 SilphCo_4F_Text_RodneyDefeat::
-    .string "Darn!\n"
-    .string "You weak POKéMON!$"
+    .string "'Total Defeat! Your weak PKMN\p"
+    .string "unable to withstand the attack!'$"
 
 SilphCo_4F_Text_RodneyPostBattle::
-    .string "The doors are electronically\n"
-    .string "locked.\p"
-    .string "It takes a CARD KEY to open the\n"
-    .string "doors here.$"
+    .string "'Enter CARD KEY to proceed.'$"
 
 SilphCo_4F_Text_Grunt2Intro::
-    .string "Intruder spotted!$"
+    .string "8888 BETRAYED!$"
 
 SilphCo_4F_Text_Grunt2Defeat::
-    .string "Who are you?$"
+    .string "RONIN WARRIOR$"
 
 SilphCo_4F_Text_Grunt2PostBattle::
-    .string "I better tell the BOSS on 11F!$"
+    .string "'BOSSES' OFFICE, 11F:  IMPERIAL\p"
+    .string "FACTORIES UNDER SIEGE!'$"
 
 SilphCo_4F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "4F$"
+    .string "'Welcome, Agent. Please report to\p"
+    .string "reception.'$"
 

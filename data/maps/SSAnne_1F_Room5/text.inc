@@ -1,12 +1,10 @@
 SSAnne_1F_Room5_Text_ArthurIntro::
-    .string "You insolent pup!\n"
-    .string "How dare you barge in!$"
+    .string "'Grrraaah! Prepare to face the\p"
+    .string "wrath of my master!'$"
 
 SSAnne_1F_Room5_Text_ArthurDefeat::
-    .string "Humph! You rude child!\n"
-    .string "You have no sense of courtesy!$"
+    .string "GRNPY OLD MAN GLARES AT YOU$"
 
 SSAnne_1F_Room5_Text_ArthurPostBattle::
-    .string "I wish to be left alone!\n"
-    .string "Get out!$"
+    .string "'BACK OFF, STRANGER!'$"
 

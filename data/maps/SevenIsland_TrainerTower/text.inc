@@ -1,41 +1,33 @@
 SevenIsland_TrainerTower_Text_DarioIntro::
-    .string "I sensed your approach.$"
+    .string "'Uh-oh, danger lurks nearby...'$"
 
 SevenIsland_TrainerTower_Text_DarioDefeat::
-    .string "Give up…$"
+    .string "QUIT WHILE YOU'RE AHEAD!$"
 
 SevenIsland_TrainerTower_Text_DarioPostBattle::
-    .string "In your future, I sense that you\n"
-    .string "will meet many others.\p"
-    .string "I think you will be linked to each\n"
-    .string "other by a strange power.$"
+    .string "POWER AWAKENS. STRANGE ENERGY\p"
+    .string "DETECTED.$"
 
 SevenIsland_TrainerTower_Text_RodetteIntro::
-    .string "Somewhere on this island, peculiar\n"
-    .string "POKéMON are sleeping.$"
+    .string "'WAKE UP, SLEEPING MON!'$"
 
 SevenIsland_TrainerTower_Text_RodetteDefeat::
-    .string "What an amazing TRAINER!$"
+    .string "WILL YOU FACE MY ULRITH?!$"
 
 SevenIsland_TrainerTower_Text_RodettePostBattle::
-    .string "Somewhere on this island, peculiar\n"
-    .string "POKéMON are sleeping.\p"
-    .string "Could it be that they're waiting\n"
-    .string "for you?$"
+    .string "'I REST HERE'$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerSign::
-    .string "TRAINER TOWER ENTRANCE\n"
-    .string "Rise to the Challenge, TRAINERS!$"
+    .string "APPROACHING ENTRANCE DOOR...$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerAhead::
-    .string "TRAINER TOWER AHEAD$"
+    .string "'Beware, rival trainers protect\p"
+    .string "the tower's secrets'$"
 
 @ Unused text perhaps indicating Trainer Tower was planned to be unlocked by something
 SevenIsland_TrainerTower_Text_LooksLikeTrainerTowerIsClosed::
-    .string "トレーナータワーには\n"
-    .string "いまは　はいれない　みたい‥$"
+    .string "ACCESS DENIED BY TRAINER TOWER$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerIsOpenLetsGoIn::
-    .string "トレーナータワーが　あいてる！\n"
-    .string "さっそく　はいってみよう！$"
+    .string "'1F: Trainer Tower Entrance'$"
 

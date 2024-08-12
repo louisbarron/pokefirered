@@ -1,34 +1,28 @@
 SilphCo_3F_Text_WhatAmIToDo::
-    .string "I work for SILPH CO.\n"
-    .string "What am I to do?$"
+    .string "Investigate the strange energy\p"
+    .string "readings at Viridian City!$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
-    .string "{PLAYER}!\n"
-    .string "You and your POKéMON saved us!$"
+    .string "THANK YOU, HERO!$"
 
 SilphCo_3F_Text_GruntIntro::
-    .string "Quit messing with us, kid!$"
+    .string "'Not so fast, punk!'$"
 
 SilphCo_3F_Text_GruntDefeat::
-    .string "I give up!$"
+    .string "YOU GIVE UP TOO EASY!$"
 
 SilphCo_3F_Text_GruntPostBattle::
-    .string "A hint? You can open doors with\n"
-    .string "a CARD KEY!$"
+    .string "CARD KEY NOT FOUND$"
 
 SilphCo_3F_Text_JoseIntro::
-    .string "I support TEAM ROCKET more than\n"
-    .string "I support SILPH CO.!$"
+    .string "'You're making a big mistake!'$"
 
 SilphCo_3F_Text_JoseDefeat::
-    .string "You really got me!$"
+    .string "YOU'RE OUT OF LUCK, PAL!$"
 
 SilphCo_3F_Text_JosePostBattle::
-    .string "Humph…\p"
-    .string "TEAM ROCKET said that if I helped\n"
-    .string "them, they'd let me study POKéMON.$"
+    .string "'But why should I trust you?'$"
 
 SilphCo_3F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "3F$"
+    .string "TEMPORARY Boundary Check Failure$"
 

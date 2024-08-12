@@ -1,87 +1,68 @@
 SixIsland_RuinValley_Text_CantFigureOutHowToGetInside::
-    .string "I can't figure out how I'm supposed\n"
-    .string "to get inside.$"
+    .string "'INACCESSIBLE ENTRANCE? TRY\p"
+    .string "SHOOTING WALL TO UNLOCK PATH.'$"
 
 SixIsland_RuinValley_Text_IFoundThisPlace::
-    .string "Let me tell you, I found this\n"
-    .string "place.\p"
-    .string "Don't look so envious, will you?$"
+    .string "'The Gardens of Eternal Rest'$"
 
 SixIsland_RuinValley_Text_CheckDoorMoreThoroughly::
-    .string "The door doesn't budge at all.\n"
-    .string "Check it more thoroughly?$"
+    .string "' obsolete lock may be jammed'$"
 
 SixIsland_RuinValley_Text_LeftDoorAlone::
-    .string "{PLAYER} left the door alone.$"
+    .string "'Door remains locked'$"
 
 SixIsland_RuinValley_Text_SeveralDotsOnTheDoor::
-    .string "On closer inspection, there are\n"
-    .string "several dots on the door…$"
+    .string "Strange symbols read: 'EYES WATCH'$"
 
 SixIsland_RuinValley_Text_DoorIsOpen::
-    .string "The door is open.$"
+    .string "'WARNING: DOOR OPEN'$"
 
 SixIsland_RuinValley_Text_StanlyIntro::
-    .string "There appear to be many secrets\n"
-    .string "still unsolved in this world.$"
+    .string "' Legend speaks of hidden\p"
+    .string "doors...'$"
 
 SixIsland_RuinValley_Text_StanlyDefeat::
-    .string "Hmm…$"
+    .string "Wanted for: Bank Robbery$"
 
 SixIsland_RuinValley_Text_StanlyPostBattle::
-    .string "I suggest to you that you, too,\n"
-    .string "give a thought to the secrets and\l"
-    .string "mysteries of our world once a day.$"
+    .string "Ancient tome lies nearby.$"
 
 SixIsland_RuinValley_Text_FosterIntro::
-    .string "I'm curious, what compelled you to\n"
-    .string "come here?$"
+    .string "STRANGERS IN THE DARK$"
 
 SixIsland_RuinValley_Text_FosterDefeat::
-    .string "It's been so long since I battled,\n"
-    .string "my instincts are off.$"
+    .string "'GET READY TO FIGHT... AGAIN!'$"
 
 SixIsland_RuinValley_Text_FosterPostBattle::
-    .string "There are several ruins on the\n"
-    .string "SEVII ISLANDS.\p"
-    .string "The majority of them date back\n"
-    .string "a long way.$"
+    .string "Enter SEVII ISLANDS Ruins? Y/N$"
 
 SixIsland_RuinValley_Text_LarryIntro::
-    .string "It's been said that there are\n"
-    .string "mysterious stones on this island.\p"
-    .string "I suspect it has something to do\n"
-    .string "with the ruins here.$"
+    .string "You stumble upon a stone with\p"
+    .string "ancient runes...$"
 
 SixIsland_RuinValley_Text_LarryDefeat::
-    .string "Oh, interesting.$"
+    .string "'Flickering Door: Warning.\p"
+    .string "Treasure hidden behind.'$"
 
 SixIsland_RuinValley_Text_LarryPostBattle::
-    .string "Those ruins over there…\p"
-    .string "I haven't had any luck in finding\n"
-    .string "how I can get inside.$"
+    .string "'Cursed door refuses to budge.'$"
 
 SixIsland_RuinValley_Text_DarylIntro::
-    .string "A battle with you, so high up!$"
+    .string "'??????? CROSSES PATHS WITH YOU!'$"
 
 SixIsland_RuinValley_Text_DarylDefeat::
-    .string "Oh, the heartbreak of losing so\n"
-    .string "easily to you!$"
+    .string "'Not again! The Agony!'$"
 
 SixIsland_RuinValley_Text_DarylPostBattle::
-    .string "Experience the joy of climbing!$"
+    .string "Craggy peaks await!$"
 
 SixIsland_RuinValley_Text_HectorIntro::
-    .string "I'm pretty familiar with the land\n"
-    .string "around these parts.$"
+    .string "SSHSSH! Mystery Ruins Ahead$"
 
 SixIsland_RuinValley_Text_HectorDefeat::
-    .string "You don't need to be so pushy.\n"
-    .string "I'll be happy to tell you.$"
+    .string "'Spoken by Sultry Siren'$"
 
 SixIsland_RuinValley_Text_HectorPostBattle::
-    .string "The door to the ruins…\n"
-    .string "It has these strange patterns\l"
-    .string "engraved on the outside.\p"
-    .string "I don't know what they mean,\n"
-    .string "though.$"
+    .string "EGAEGAjr INITIATE INSCRIPTION\p"
+    .string "ANALYSIS.$"
+

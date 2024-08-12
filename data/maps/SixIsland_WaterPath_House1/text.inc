@@ -1,51 +1,35 @@
 SixIsland_WaterPath_House1_Text_LoveItNeedItHeracross::
-    .string "Hera, hera, HERACROSS!\n"
-    .string "Big and shiny, it's the bug boss!\l"
-    .string "Love it, need it, HERACROSS!$"
+    .string "'THE TIME HAS COME! FIGHT IT!'$"
 
 SixIsland_WaterPath_House1_Text_MayIMeasureHeracross::
-    .string "Eeeeek!\n"
-    .string "That's a HERACROSS!\p"
-    .string "Please, please, may I measure how\n"
-    .string "big it is?$"
+    .string "HERACROSS: 5.5 METERS$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesDeserveReward::
-    .string "Eeeek, it's {STR_VAR_2} inches!\n"
-    .string "I've never seen anything like this!\l"
-    .string "You deserve a reward!$"
+    .string "Whoa, GIGANTASMITE!$"
 
 SixIsland_WaterPath_House1_Text_WantToSeeBiggerOne::
-    .string "I want to see a much, much bigger\n"
-    .string "HERACROSS than that one.\p"
-    .string "Oh, how I adore them, big\n"
-    .string "HERACROSS!$"
+    .string "A behemoth HERACROSS layoffs in\p"
+    .string "the distance!$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesSameAsBefore::
-    .string "Huh? This {STR_VAR_2}-inch measurement…\n"
-    .string "Oh, boo! It's the same as before.$"
+    .string "'Inches away from fatal mistake!'$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesYInchesWasBiggest::
-    .string "Oh, it's just {STR_VAR_2} inches.\n"
-    .string "The HERACROSS before was bigger.\p"
-    .string "It was {STR_VAR_3} inches, the biggest\n"
-    .string "HERACROSS you've brought me.$"
+    .string "'7 inches. The HERACROSS before\p"
+    .string "was bigger. It was 9 inches, the\n"
+    .string "biggest HERACROSS you've brought\p"
+    .string "me.'$"
 
 SixIsland_WaterPath_House1_Text_ThisWontDo::
-    .string "Oh, no! This won't do!\p"
-    .string "HERACROSS looks much more macho\n"
-    .string "and cool, and has a lovely horn!$"
+    .string "You're not in Kong Country no\p"
+    .string "more!$"
 
 SixIsland_WaterPath_House1_Text_YourBagIsFull::
-    .string "Your BAG is full.\n"
-    .string "My reward won't fit.$"
+    .string "Not enough room in tumbling!$"
 
 SixIsland_WaterPath_House1_Text_BiggestHeracrossIsXInches::
-    .string "The biggest HERACROSS that I have\n"
-    .string "ever seen measured so far is:\p"
-    .string "{STR_VAR_3} inches!$"
+    .string "'47.5 inches!'$"
 
 SixIsland_WaterPath_House1_Text_BlankChartOfSomeSort::
-    .string "It's a blank chart of some sort.\p"
-    .string "It has spaces for writing in\n"
-    .string "records of some kind.$"
+    .string "CRIME LOG$"
 

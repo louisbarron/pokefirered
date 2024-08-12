@@ -1,31 +1,25 @@
 SSAnne_1F_Room2_Text_TylerIntro::
-    .string "I love POKéMON!\n"
-    .string "Do you?$"
+    .string "WANT TO BEHOLD THE MIGHT OF\p"
+    .string "PIKACHU?!$"
 
 SSAnne_1F_Room2_Text_TylerDefeat::
-    .string "Wow! \n"
-    .string "You're great!$"
+    .string "Congratulations! Well done\p"
+    .string "adventurer!$"
 
 SSAnne_1F_Room2_Text_TylerPostBattle::
-    .string "Listen, listen!\n"
-    .string "Let me be your friend, okay?\p"
-    .string "Then we can trade POKéMON and\n"
-    .string "do stuff.$"
+    .string " Buddy up?$"
 
 SSAnne_1F_Room2_Text_AnnIntro::
-    .string "I collected these POKéMON\n"
-    .string "from all around the world!$"
+    .string "'A WORLD COLLECTION: 142/151\p"
+    .string "POKeMON GATHERED!'$"
 
 SSAnne_1F_Room2_Text_AnnDefeat::
-    .string "Oh, no!\n"
-    .string "I went around the world for these!$"
+    .string "'Those rare pearls are now Yours!'$"
 
 SSAnne_1F_Room2_Text_AnnPostBattle::
-    .string "You hurt my poor POKéMON!\p"
-    .string "I demand that you heal them at a\n"
-    .string "POKéMON CENTER!$"
+    .string "'Heal Them Now? Y/N'$"
 
 SSAnne_1F_Room2_Text_CruisingAroundWorld::
-    .string "We are cruising around the world,\n"
-    .string "my children and I.$"
+    .string "'Setting sail for exotic shores.\p"
+    .string "Keep watch for sea monsters!'$"
 
