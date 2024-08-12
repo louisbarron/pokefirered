@@ -801,687 +801,732 @@ gFameCheckerFlavorTextOriginLocation_ProfOak0:: @ 0x81B0C45
 	.string "PALLET TOWN$"
 
 gFameCheckerFlavorTextOriginLocation_ProfOak1::
-	.string "RESEARCH LAB$"
+    .string "'Experimental Hypothesis Failed:\p"
+    .string "Serum massively increases\n"
+    .string "strength!'$"
 
 gFameCheckerFlavorTextOriginLocation_ProfOak2::
-	.string "RESEARCH LAB$"
+    .string "'Experimental Hypothesis Failed:\p"
+    .string "Serum massively increases\n"
+    .string "strength!'$"
 
 gFameCheckerFlavorTextOriginLocation_ProfOak3::
-	.string "VIRIDIAN CITY$"
+    .string "YOUR SHIP HAS LANDED IN EERIE\p"
+    .string "SILENCE.$"
 
 gFameCheckerFlavorTextOriginLocation_ProfOak4::
-	.string "POKéMON LEAGUE$"
+    .string "CHALLENGER APPROACHING!$"
 
 gFameCheckerFlavorTextOriginLocation_ProfOak5::
-	.string "RESEARCH LAB$"
+    .string "'Experimental Hypothesis Failed:\p"
+    .string "Serum massively increases\n"
+    .string "strength!'$"
 
 gFameCheckerFlavorTextOriginLocation_Daisy0::
-	.string "RESEARCH LAB$"
+    .string "'Experimental Hypothesis Failed:\p"
+    .string "Serum massively increases\n"
+    .string "strength!'$"
 
 gFameCheckerFlavorTextOriginLocation_Daisy1::
-	.string "VERMILION CITY$"
+    .string "WELCOME TO VERMILION CITY$"
 
 gFameCheckerFlavorTextOriginLocation_Daisy2::
-	.string "WATER LABYRINTH$"
+    .string "'An oasis awaits, but beware the\p"
+    .string "secrets within.'$"
 
 gFameCheckerFlavorTextOriginLocation_Daisy3::
-	.string "VIRIDIAN CITY$"
+    .string "YOUR SHIP HAS LANDED IN EERIE\p"
+    .string "SILENCE.$"
 
 gFameCheckerFlavorTextOriginLocation_Daisy4::
-	.string "CELADON MANSION$"
+    .string "'Approach with caution, many\p"
+    .string "secrets await within.'$"
 
 gFameCheckerFlavorTextOriginLocation_Daisy5::
-	.string "FOUR ISLAND$"
+    .string " destroying a row of crates!$"
 
 gFameCheckerFlavorTextOriginLocation_Brock0::
-	.string "PEWTER CITY$"
+    .string "You approach the bustling streets\p"
+    .string "of Pewter City. Cafe Ultima to\n"
+    .string "your north. Pewter Museum to your\p"
+    .string "east.$"
 
 gFameCheckerFlavorTextOriginLocation_Brock1::
-	.string "PEWTER GYM$"
+    .string "WALLRUIN TRAINER AVAILABLE$"
 
 gFameCheckerFlavorTextOriginLocation_Brock2::
-	.string "PEWTER CITY$"
+    .string "You approach the bustling streets\p"
+    .string "of Pewter City. Cafe Ultima to\n"
+    .string "your north. Pewter Museum to your\p"
+    .string "east.$"
 
 gFameCheckerFlavorTextOriginLocation_Brock3::
-	.string "ROUTE 4$"
+    .string "ENEMY ALERT!$"
 
 gFameCheckerFlavorTextOriginLocation_Brock4::
-	.string "MT. MOON$"
+    .string "LAUNCH CAPSULE$"
 
 gFameCheckerFlavorTextOriginLocation_Brock5::
-	.string "PEWTER MUSEUM$"
+    .string "Treasures await within!$"
 
 gFameCheckerFlavorTextOriginLocation_Misty0::
-	.string "CERULEAN CITY$"
+    .string "You are in the heart of Cerulean\p"
+    .string "City. the Gym awaits you.$"
 
 gFameCheckerFlavorTextOriginLocation_Misty1::
-	.string "CERULEAN GYM$"
+    .string "Enter vendor for special deals on\p"
+    .string "potions and elixirs.$"
 
 gFameCheckerFlavorTextOriginLocation_Misty2::
-	.string "CERULEAN GYM$"
+    .string "Enter vendor for special deals on\p"
+    .string "potions and elixirs.$"
 
 gFameCheckerFlavorTextOriginLocation_Misty3::
-	.string "SEAFOAM ISLANDS$"
+    .string "' zemli vrag pravil'$"
 
 gFameCheckerFlavorTextOriginLocation_Misty4::
-	.string "CERULEAN CAPE$"
+    .string "Return the mystical Cape to reveal\p"
+    .string "secrets!$"
 
 gFameCheckerFlavorTextOriginLocation_Misty5::
-	.string "CERULEAN CITY$"
+    .string "You are in the heart of Cerulean\p"
+    .string "City. the Gym awaits you.$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge0::
-	.string "VERMILION CITY$"
+    .string "WELCOME TO VERMILION CITY$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge1::
-	.string "VERMILION GYM$"
+    .string "Enter the candidate's office...$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge2::
-	.string "VERMILION GYM$"
+    .string "Enter the candidate's office...$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge3::
-	.string "VERMILION GYM$"
+    .string "Enter the candidate's office...$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge4::
-	.string "VERMILION GYM$"
+    .string "Enter the candidate's office...$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge5::
-	.string "VERMILION CITY$"
+    .string "WELCOME TO VERMILION CITY$"
 
 gFameCheckerFlavorTextOriginLocation_Erika0::
-	.string "CELADON CITY$"
+    .string "WELCOME TO CELADON CITY! VISIT THE\p"
+    .string "POCHE CLIP ACCESSORIES SHOP TO\n"
+    .string "RESTORE YOUR POKE BALLS$"
 
 gFameCheckerFlavorTextOriginLocation_Erika1::
-	.string "CELADON GYM$"
+    .string "'BROOKE IS WAITING FOR YOU!'$"
 
 gFameCheckerFlavorTextOriginLocation_Erika2::
-	.string "CELADON GYM$"
+    .string "'BROOKE IS WAITING FOR YOU!'$"
 
 gFameCheckerFlavorTextOriginLocation_Erika3::
-	.string "CELADON GYM$"
+    .string "'BROOKE IS WAITING FOR YOU!'$"
 
 gFameCheckerFlavorTextOriginLocation_Erika4::
-	.string "CELADON GYM$"
+    .string "'BROOKE IS WAITING FOR YOU!'$"
 
 gFameCheckerFlavorTextOriginLocation_Erika5::
-	.string "CELADON MANSION$"
+    .string "'Approach with caution, many\p"
+    .string "secrets await within.'$"
 
 gFameCheckerFlavorTextOriginLocation_Koga0::
-	.string "FUCHSIA CITY$"
+    .string "GRAFFITI SCRAWLED WALLS, CITY IN\p"
+    .string "CHAOS!$"
 
 gFameCheckerFlavorTextOriginLocation_Koga1::
-	.string "FUCHSIA GYM$"
+    .string "' Trainer, challenges await!$"
 
 gFameCheckerFlavorTextOriginLocation_Koga2::
-	.string "FUCHSIA GYM$"
+    .string "' Trainer, challenges await!$"
 
 gFameCheckerFlavorTextOriginLocation_Koga3::
-	.string "FUCHSIA CITY$"
+    .string "GRAFFITI SCRAWLED WALLS, CITY IN\p"
+    .string "CHAOS!$"
 
 gFameCheckerFlavorTextOriginLocation_Koga4::
-	.string "FUCHSIA CITY$"
+    .string "GRAFFITI SCRAWLED WALLS, CITY IN\p"
+    .string "CHAOS!$"
 
 gFameCheckerFlavorTextOriginLocation_Koga5::
-	.string "SAFARI ZONE$"
+    .string "ROARING LIONS UP AHEAD!$"
 
 gFameCheckerFlavorTextOriginLocation_Sabrina0::
-	.string "SAFFRON CITY$"
+    .string "'Enter the merchant's guild.'$"
 
 gFameCheckerFlavorTextOriginLocation_Sabrina1::
-	.string "THREE ISLAND$"
+    .string "'Approach caution! Rocks ahead!'$"
 
 gFameCheckerFlavorTextOriginLocation_Sabrina2::
-	.string "SAFFRON GYM$"
+    .string "'Welcome, young warrior! Train\p"
+    .string "here to refine your skills.'$"
 
 gFameCheckerFlavorTextOriginLocation_Sabrina3::
-	.string "SAFFRON GYM$"
+    .string "'Welcome, young warrior! Train\p"
+    .string "here to refine your skills.'$"
 
 gFameCheckerFlavorTextOriginLocation_Sabrina4::
-	.string "SAFFRON CITY$"
+    .string "'Enter the merchant's guild.'$"
 
 gFameCheckerFlavorTextOriginLocation_Sabrina5::
-	.string "SAFFRON GYM$"
+    .string "'Welcome, young warrior! Train\p"
+    .string "here to refine your skills.'$"
 
 gFameCheckerFlavorTextOriginLocation_Blaine0::
-	.string "CINNABAR ISLAND$"
+    .string "'Welcome to Cinnabar Island.\p"
+    .string "Uncover the secrets.'$"
 
 gFameCheckerFlavorTextOriginLocation_Blaine1::
-	.string "CINNABAR GYM$"
+    .string "'Darkness lurks in the shadows. Be\p"
+    .string "prepared.'$"
 
 gFameCheckerFlavorTextOriginLocation_Blaine2::
-	.string "CINNABAR GYM$"
+    .string "'Darkness lurks in the shadows. Be\p"
+    .string "prepared.'$"
 
 gFameCheckerFlavorTextOriginLocation_Blaine3::
-	.string "CINNABAR ISLAND$"
+    .string "'Welcome to Cinnabar Island.\p"
+    .string "Uncover the secrets.'$"
 
 gFameCheckerFlavorTextOriginLocation_Blaine4::
-	.string "CINNABAR GYM$"
+    .string "'Darkness lurks in the shadows. Be\p"
+    .string "prepared.'$"
 
 gFameCheckerFlavorTextOriginLocation_Blaine5::
-	.string "RESORT GORGEOUS$"
+    .string "'Welcome to Tranquility Resort'$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei0::
-	.string "POKéMON LEAGUE$"
+    .string "CHALLENGER APPROACHING!$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei1::
-	.string "POKéMON LEAGUE$"
+    .string "CHALLENGER APPROACHING!$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei2::
-	.string "FOUR ISLAND$"
+    .string " destroying a row of crates!$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei3::
-	.string "FIVE ISLAND$"
+    .string "'LAND HO!'$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei4::
-	.string "FOUR ISLAND$"
+    .string " destroying a row of crates!$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei5::
-	.string "FOUR ISLAND$"
+    .string " destroying a row of crates!$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno0::
-	.string "POKéMON LEAGUE$"
+    .string "CHALLENGER APPROACHING!$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno1::
-	.string "POKéMON LEAGUE$"
+    .string "CHALLENGER APPROACHING!$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno2::
-	.string "SAFFRON CITY$"
+    .string "'Enter the merchant's guild.'$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno3::
-	.string "EMBER SPA$"
+    .string "'CANDLES FOR SALE...Cheap!'$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno4::
-	.string "TWO ISLAND$"
+    .string " Island Elder: 'Seek the artifact\p"
+    .string "onLady Isabella's Island.'$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno5::
-	.string "SEVAULT CANYON$"
+    .string "'Welcome to Sevault Canyon, a\p"
+    .string "treacherous ravine filled with\n"
+    .string "ancient ruins. Danger lurks around\p"
+    .string "every corner. Be prepared.'$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha0::
-	.string "POKéMON LEAGUE$"
+    .string "CHALLENGER APPROACHING!$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha1::
-	.string "INDIGO PLATEAU$"
+    .string "Ancient structures bare secrets to\p"
+    .string "the brave who dare approach.$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha2::
-	.string "INDIGO PLATEAU$"
+    .string "Ancient structures bare secrets to\p"
+    .string "the brave who dare approach.$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha3::
-	.string "SEVEN ISLAND$"
+    .string "'INCOMING TIDE: FISH LEVIES\p"
+    .string "IRELAND'$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha4::
-	.string "POKéMON LEAGUE$"
+    .string "CHALLENGER APPROACHING!$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha5::
-	.string "SIX ISLAND$"
+    .string "WATERFALL UP Ahead$"
 
 gFameCheckerFlavorTextOriginLocation_Lance0::
-	.string "POKéMON LEAGUE$"
+    .string "CHALLENGER APPROACHING!$"
 
 gFameCheckerFlavorTextOriginLocation_Lance1::
-	.string "POKéMON LEAGUE$"
+    .string "CHALLENGER APPROACHING!$"
 
 gFameCheckerFlavorTextOriginLocation_Lance2::
-	.string "SAFFRON CITY$"
+    .string "'Enter the merchant's guild.'$"
 
 gFameCheckerFlavorTextOriginLocation_Lance3::
-	.string "CELADON DEPT.$"
+    .string "SYSTEM HACKING DETECTED$"
 
 gFameCheckerFlavorTextOriginLocation_Lance4::
-	.string "INDIGO PLATEAU$"
+    .string "Ancient structures bare secrets to\p"
+    .string "the brave who dare approach.$"
 
 gFameCheckerFlavorTextOriginLocation_Lance5::
-	.string "INDIGO PLATEAU$"
+    .string "Ancient structures bare secrets to\p"
+    .string "the brave who dare approach.$"
 
 gFameCheckerFlavorTextOriginLocation_Bill0::
-	.string "CERULEAN CITY$"
+    .string "You are in the heart of Cerulean\p"
+    .string "City. the Gym awaits you.$"
 
 gFameCheckerFlavorTextOriginLocation_Bill1::
-	.string "CERULEAN CITY$"
+    .string "You are in the heart of Cerulean\p"
+    .string "City. the Gym awaits you.$"
 
 gFameCheckerFlavorTextOriginLocation_Bill2::
-	.string "FUCHSIA CITY$"
+    .string "GRAFFITI SCRAWLED WALLS, CITY IN\p"
+    .string "CHAOS!$"
 
 gFameCheckerFlavorTextOriginLocation_Bill3::
-	.string "ONE ISLAND$"
+    .string "'Island of the Ancients'$"
 
 gFameCheckerFlavorTextOriginLocation_Bill4::
-	.string "ONE ISLAND$"
+    .string "'Island of the Ancients'$"
 
 gFameCheckerFlavorTextOriginLocation_Bill5::
-	.string "ONE ISLAND$"
+    .string "'Island of the Ancients'$"
 
 gFameCheckerFlavorTextOriginLocation_MrFuji0::
-	.string "LAVENDER TOWN$"
+    .string "You've arrived in peaceful\p"
+    .string "Lavender Town, a solemn gathering\n"
+    .string "place for pilgrims. The scent of\p"
+    .string "lavender wafts through the air.$"
 
 gFameCheckerFlavorTextOriginLocation_MrFuji1::
-	.string "POKéMON TOWER$"
+    .string "BATTLE THE GYM LEADER GRADEKO$"
 
 gFameCheckerFlavorTextOriginLocation_MrFuji2::
-	.string "LAVENDER TOWN$"
+    .string "You've arrived in peaceful\p"
+    .string "Lavender Town, a solemn gathering\n"
+    .string "place for pilgrims. The scent of\p"
+    .string "lavender wafts through the air.$"
 
 gFameCheckerFlavorTextOriginLocation_MrFuji3::
-	.string "LAVENDER TOWN$"
+    .string "You've arrived in peaceful\p"
+    .string "Lavender Town, a solemn gathering\n"
+    .string "place for pilgrims. The scent of\p"
+    .string "lavender wafts through the air.$"
 
 gFameCheckerFlavorTextOriginLocation_MrFuji4::
-	.string "CINNABAR GYM$"
+    .string "'Darkness lurks in the shadows. Be\p"
+    .string "prepared.'$"
 
 gFameCheckerFlavorTextOriginLocation_MrFuji5::
-	.string "CINNABAR ISLAND$"
+    .string "'Welcome to Cinnabar Island.\p"
+    .string "Uncover the secrets.'$"
 
 gFameCheckerFlavorTextOriginLocation_Giovanni0::
-	.string "ROCKET HIDEOUT$"
+    .string "LASER DEFENSE DOWN!$"
 
 gFameCheckerFlavorTextOriginLocation_Giovanni1::
-	.string "SILPH CO.$"
+    .string "'Authorized supplier of Rare\p"
+    .string "Incense'$"
 
 gFameCheckerFlavorTextOriginLocation_Giovanni2::
-	.string "SILPH CO.$"
+    .string "'Authorized supplier of Rare\p"
+    .string "Incense'$"
 
 gFameCheckerFlavorTextOriginLocation_Giovanni3::
-	.string "VIRIDIAN GYM$"
+    .string "Congratulations! You reached the\p"
+    .string "Viridian Gym Leader, Brock!$"
 
 gFameCheckerFlavorTextOriginLocation_Giovanni4::
-	.string "VIRIDIAN GYM$"
+    .string "Congratulations! You reached the\p"
+    .string "Viridian Gym Leader, Brock!$"
 
 gFameCheckerFlavorTextOriginLocation_Giovanni5::
-	.string "ROCKET WAREHOUSE$"
+    .string ".Collapsed structure, beware of\p"
+    .string "falling debris!$"
 
 gFameCheckerFlavorTextOriginObjectName_ProfOak0::
-	.string "SIGN$"
+    .string " Forbidden Forbidden$"
 
 gFameCheckerFlavorTextOriginObjectName_ProfOak1::
-	.string "PROF. OAK$"
+    .string "Welcome, young adventurer!$"
 
 gFameCheckerFlavorTextOriginObjectName_ProfOak2::
-	.string "AIDE$"
+    .string "ERROR 853: Unauthorized Access$"
 
 gFameCheckerFlavorTextOriginObjectName_ProfOak3::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_ProfOak4::
-	.string "AGATHA$"
+    .string "'MIDNIGHT CIGNALS: TRY AGAIN?'$"
 
 gFameCheckerFlavorTextOriginObjectName_ProfOak5::
-	.string "AIDE$"
+    .string "ERROR 853: Unauthorized Access$"
 
 gFameCheckerFlavorTextOriginObjectName_Daisy0::
-	.string "AIDE$"
+    .string "ERROR 853: Unauthorized Access$"
 
 gFameCheckerFlavorTextOriginObjectName_Daisy1::
-	.string "WOMAN$"
+    .string "'STRANGE OCCURRENCES IN THE\p"
+    .string "ABANDONED DISTRICTRosewater\n"
+    .string "Tavern?'$"
 
 gFameCheckerFlavorTextOriginObjectName_Daisy2::
-	.string "MAN$"
+    .string "MANEATER AMBUSH US!$"
 
 gFameCheckerFlavorTextOriginObjectName_Daisy3::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_Daisy4::
-	.string "OLD LADY$"
+    .string "'Welcome, young adventurer! I've\p"
+    .string "got a tale to tell... and a\n"
+    .string "treasure to share.'$"
 
 gFameCheckerFlavorTextOriginObjectName_Daisy5::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_Brock0::
-	.string "SIGN$"
+    .string " Forbidden Forbidden$"
 
 gFameCheckerFlavorTextOriginObjectName_Brock1::
-	.string "BROCK$"
+    .string "'Get Ready for Battle!'$"
 
 gFameCheckerFlavorTextOriginObjectName_Brock2::
-	.string "YOUNG MAN$"
+    .string "WARNING: MYSTERIOUS STRANGER\p"
+    .string "APPROACHES$"
 
 gFameCheckerFlavorTextOriginObjectName_Brock3::
-	.string "BOY$"
+    .string "'NAME ENTERED: BOY'$"
 
 gFameCheckerFlavorTextOriginObjectName_Brock4::
-	.string "MAN$"
+    .string "MANEATER AMBUSH US!$"
 
 gFameCheckerFlavorTextOriginObjectName_Brock5::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_Misty0::
-	.string "SIGN$"
+    .string " Forbidden Forbidden$"
 
 gFameCheckerFlavorTextOriginObjectName_Misty1::
-	.string "MISTY$"
+    .string "Fog Rises!$"
 
 gFameCheckerFlavorTextOriginObjectName_Misty2::
-	.string "LUIS$"
+    .string "You encounter LUIS, a mysterious\p"
+    .string "figure in a hood. He whispers:\n"
+    .string "'Beware the WATCHER!'$"
 
 gFameCheckerFlavorTextOriginObjectName_Misty3::
-	.string "YOUNG MAN$"
+    .string "WARNING: MYSTERIOUS STRANGER\p"
+    .string "APPROACHES$"
 
 gFameCheckerFlavorTextOriginObjectName_Misty4::
-	.string "DAME$"
+    .string "'Gold Coin Discovered! 100 Points\p"
+    .string "Awarded'$"
 
 gFameCheckerFlavorTextOriginObjectName_Misty5::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge0::
-	.string "SIGN$"
+    .string " Forbidden Forbidden$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge1::
-	.string "LT. SURGE$"
+    .string "ENLISTED IN SEARCH FOR LOST TEAMS$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge2::
-	.string "TUCKER$"
+    .string "YOU FOUND TUCKER'S WALLET!$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge3::
-	.string "TUCKER$"
+    .string "YOU FOUND TUCKER'S WALLET!$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge4::
-	.string "DWAYNE$"
+    .string "' Welcome to Cyberworld, Dwayne! '$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge5::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_Erika0::
-	.string "SIGN$"
+    .string " Forbidden Forbidden$"
 
 gFameCheckerFlavorTextOriginObjectName_Erika1::
-	.string "ERIKA$"
+    .string "CRITICAL ERROR$"
 
 gFameCheckerFlavorTextOriginObjectName_Erika2::
-	.string "LOLA$"
+    .string "'Power restored!seutegeuojeu'$"
 
 gFameCheckerFlavorTextOriginObjectName_Erika3::
-	.string "TAMIA$"
+    .string "'The Mysterious Island beckons...\p"
+    .string "Dare you set foot?'$"
 
 gFameCheckerFlavorTextOriginObjectName_Erika4::
-	.string "ERIKA$"
+    .string "CRITICAL ERROR$"
 
 gFameCheckerFlavorTextOriginObjectName_Erika5::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_Koga0::
-	.string "SIGN$"
+    .string " Forbidden Forbidden$"
 
 gFameCheckerFlavorTextOriginObjectName_Koga1::
-	.string "KOGA$"
+    .string "'LOST IN SPACE ...'$"
 
 gFameCheckerFlavorTextOriginObjectName_Koga2::
-	.string "KIRK$"
+    .string "'Welcome to Kirk's Quest!$"
 
 gFameCheckerFlavorTextOriginObjectName_Koga3::
-	.string "CHARINE$"
+    .string "'CHARINE has fallen to her doom!'$"
 
 gFameCheckerFlavorTextOriginObjectName_Koga4::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_Koga5::
-	.string "MAN$"
+    .string "MANEATER AMBUSH US!$"
 
 gFameCheckerFlavorTextOriginObjectName_Sabrina0::
-	.string "SIGN$"
+    .string " Forbidden Forbidden$"
 
 gFameCheckerFlavorTextOriginObjectName_Sabrina1::
-	.string "YOUNG MAN$"
+    .string "WARNING: MYSTERIOUS STRANGER\p"
+    .string "APPROACHES$"
 
 gFameCheckerFlavorTextOriginObjectName_Sabrina2::
-	.string "SABRINA$"
+    .string "Danger lurks ahead!$"
 
 gFameCheckerFlavorTextOriginObjectName_Sabrina3::
-	.string "SABRINA$"
+    .string "Danger lurks ahead!$"
 
 gFameCheckerFlavorTextOriginObjectName_Sabrina4::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_Sabrina5::
-	.string "TYRON$"
+    .string "'TYRON FOUND! AWAITING\p"
+    .string "AUTHORIZATION TO ENTER..'$"
 
 gFameCheckerFlavorTextOriginObjectName_Blaine0::
-	.string "SIGN$"
+    .string " Forbidden Forbidden$"
 
 gFameCheckerFlavorTextOriginObjectName_Blaine1::
-	.string "BLAINE$"
+    .string "'LINE UP FOR BATTLE!'$"
 
 gFameCheckerFlavorTextOriginObjectName_Blaine2::
-	.string "DEREK$"
+    .string "'Run!'$"
 
 gFameCheckerFlavorTextOriginObjectName_Blaine3::
-	.string "WOMAN$"
+    .string "'STRANGE OCCURRENCES IN THE\p"
+    .string "ABANDONED DISTRICTRosewater\n"
+    .string "Tavern?'$"
 
 gFameCheckerFlavorTextOriginObjectName_Blaine4::
-	.string "PHOTO$"
+    .string "'Flickering lights on distant\p"
+    .string "tower beckon you!'$"
 
 gFameCheckerFlavorTextOriginObjectName_Blaine5::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_Lorelei0::
-	.string "LORELEI$"
+    .string "'Welcome, brave adventurer, to the\p"
+    .string "mystical realm of Eldrador.'$"
 
 gFameCheckerFlavorTextOriginObjectName_Lorelei1::
-	.string "LORELEI$"
+    .string "'Welcome, brave adventurer, to the\p"
+    .string "mystical realm of Eldrador.'$"
 
 gFameCheckerFlavorTextOriginObjectName_Lorelei2::
-	.string "OLD MAN$"
+    .string "'Stranger, what brings ye to these\p"
+    .string "lands?'$"
 
 gFameCheckerFlavorTextOriginObjectName_Lorelei3::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_Lorelei4::
-	.string "LITTLE GIRL$"
+    .string "'A LOST SOUL NEEDS YOUR HELP!'$"
 
 gFameCheckerFlavorTextOriginObjectName_Lorelei5::
-	.string "OLD LADY$"
+    .string "'Welcome, young adventurer! I've\p"
+    .string "got a tale to tell... and a\n"
+    .string "treasure to share.'$"
 
 gFameCheckerFlavorTextOriginObjectName_Bruno0::
-	.string "BRUNO$"
+    .string "'YOUfound Golden Coin!10 health'$"
 
 gFameCheckerFlavorTextOriginObjectName_Bruno1::
-	.string "BRUNO$"
+    .string "'YOUfound Golden Coin!10 health'$"
 
 gFameCheckerFlavorTextOriginObjectName_Bruno2::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_Bruno3::
-	.string "CRUSHER$"
+    .string "'Business as Usual... Destroyer's\p"
+    .string "Revenge Awaits'$"
 
 gFameCheckerFlavorTextOriginObjectName_Bruno4::
-	.string "WOMAN$"
+    .string "'STRANGE OCCURRENCES IN THE\p"
+    .string "ABANDONED DISTRICTRosewater\n"
+    .string "Tavern?'$"
 
 gFameCheckerFlavorTextOriginObjectName_Bruno5::
-	.string "CRUSHER$"
+    .string "'Business as Usual... Destroyer's\p"
+    .string "Revenge Awaits'$"
 
 gFameCheckerFlavorTextOriginObjectName_Agatha0::
-	.string "AGATHA$"
+    .string "'MIDNIGHT CIGNALS: TRY AGAIN?'$"
 
 gFameCheckerFlavorTextOriginObjectName_Agatha1::
-	.string "CRUSHER$"
+    .string "'Business as Usual... Destroyer's\p"
+    .string "Revenge Awaits'$"
 
 gFameCheckerFlavorTextOriginObjectName_Agatha2::
-	.string "CRUSHER$"
+    .string "'Business as Usual... Destroyer's\p"
+    .string "Revenge Awaits'$"
 
 gFameCheckerFlavorTextOriginObjectName_Agatha3::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_Agatha4::
-	.string "AGATHA$"
+    .string "'MIDNIGHT CIGNALS: TRY AGAIN?'$"
 
 gFameCheckerFlavorTextOriginObjectName_Agatha5::
-	.string "OLD LADY$"
+    .string "'Welcome, young adventurer! I've\p"
+    .string "got a tale to tell... and a\n"
+    .string "treasure to share.'$"
 
 gFameCheckerFlavorTextOriginObjectName_Lance0::
-	.string "LANCE$"
+    .string "'Enemy Knight appears!'$"
 
 gFameCheckerFlavorTextOriginObjectName_Lance1::
-	.string "LANCE$"
+    .string "'Enemy Knight appears!'$"
 
 gFameCheckerFlavorTextOriginObjectName_Lance2::
-	.string "WOMAN$"
+    .string "'STRANGE OCCURRENCES IN THE\p"
+    .string "ABANDONED DISTRICTRosewater\n"
+    .string "Tavern?'$"
 
 gFameCheckerFlavorTextOriginObjectName_Lance3::
-	.string "LITTLE GIRL$"
+    .string "'A LOST SOUL NEEDS YOUR HELP!'$"
 
 gFameCheckerFlavorTextOriginObjectName_Lance4::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_Lance5::
-	.string "YOUNG MAN$"
+    .string "WARNING: MYSTERIOUS STRANGER\p"
+    .string "APPROACHES$"
 
 gFameCheckerFlavorTextOriginObjectName_Bill0::
-	.string "{RIVAL}$"
+    .string "'Obstacle returns to thwart your\p"
+    .string "quest!'$"
 
 gFameCheckerFlavorTextOriginObjectName_Bill1::
-	.string "LITTLE BOY$"
+    .string "YOU FOUND LIL BOY!$"
 
 gFameCheckerFlavorTextOriginObjectName_Bill2::
-	.string "OLD MAN$"
+    .string "'Stranger, what brings ye to these\p"
+    .string "lands?'$"
 
 gFameCheckerFlavorTextOriginObjectName_Bill3::
-	.string "CELIO$"
+    .string "ROBBERY IN PROGRESS$"
 
 gFameCheckerFlavorTextOriginObjectName_Bill4::
-	.string "CELIO$"
+    .string "ROBBERY IN PROGRESS$"
 
 gFameCheckerFlavorTextOriginObjectName_Bill5::
-	.string "CELIO$"
+    .string "ROBBERY IN PROGRESS$"
 
 gFameCheckerFlavorTextOriginObjectName_MrFuji0::
-	.string "LITTLE GIRL$"
+    .string "'A LOST SOUL NEEDS YOUR HELP!'$"
 
 gFameCheckerFlavorTextOriginObjectName_MrFuji1::
-	.string "TEAM ROCKET$"
+    .string "'Gotta catch 'em all, but you\p"
+    .string "won't with us around!'$"
 
 gFameCheckerFlavorTextOriginObjectName_MrFuji2::
-	.string "MAGAZINE$"
+    .string "'Magazine Cover: 'Quest\p"
+    .string "Conquered!''$"
 
 gFameCheckerFlavorTextOriginObjectName_MrFuji3::
-	.string "MAN$"
+    .string "MANEATER AMBUSH US!$"
 
 gFameCheckerFlavorTextOriginObjectName_MrFuji4::
-	.string "PHOTO$"
+    .string "'Flickering lights on distant\p"
+    .string "tower beckon you!'$"
 
 gFameCheckerFlavorTextOriginObjectName_MrFuji5::
-	.string "POKéMON JOURNAL$"
+    .string "'Caught Rattata! Level 5'$"
 
 gFameCheckerFlavorTextOriginObjectName_Giovanni0::
-	.string "GIOVANNI$"
+    .string "'Seeking fabled treasure,\p"
+    .string "Giovanni's hope fades in dark\n"
+    .string "tavern'$"
 
 gFameCheckerFlavorTextOriginObjectName_Giovanni1::
-	.string "SCIENTIST$"
+    .string "'WARNING: CONTAMINATION RISING!'$"
 
 gFameCheckerFlavorTextOriginObjectName_Giovanni2::
-	.string "SCIENTIST$"
+    .string "'WARNING: CONTAMINATION RISING!'$"
 
 gFameCheckerFlavorTextOriginObjectName_Giovanni3::
-	.string "GIOVANNI$"
+    .string "'Seeking fabled treasure,\p"
+    .string "Giovanni's hope fades in dark\n"
+    .string "tavern'$"
 
 gFameCheckerFlavorTextOriginObjectName_Giovanni4::
-	.string "MAN$"
+    .string "MANEATER AMBUSH US!$"
 
 gFameCheckerFlavorTextOriginObjectName_Giovanni5::
-	.string "GIDEON$"
+    .string "'Enter ancient temple, beware\p"
+    .string "guardian statues.'$"
 
 PokemonJournal_Text_SpecialFeatureBrock::
-	.string "POKéMON JOURNAL\p"
-	.string "Special Feature: PEWTER GYM\n"
-	.string "LEADER BROCK!\p"
-	.string "BROCK rarely laughs, but is said to\n"
-	.string "be unable to stop if he starts.$"
+    .string "YOU HEARD A LAUGH FROM WITHIN!$"
 
 PokemonJournal_Text_SpecialFeatureMisty::
-	.string "POKéMON JOURNAL\p"
-	.string "Special Feature: CERULEAN GYM\n"
-	.string "LEADER MISTY!\p"
-	.string "MISTY is said to worship LORELEI\n"
-	.string "of the ELITE FOUR.$"
+    .string "WANT TO CHALLENGE MISTY?$"
 
 PokemonJournal_Text_SpecialFeatureLtSurge::
-	.string "POKéMON JOURNAL\p"
-	.string "Special Feature: VERMILION GYM\n"
-	.string "LEADER LT. SURGE!\p"
-	.string "LT. SURGE is rumored to have been\n"
-	.string "a pilot while home in America.\p"
-	.string "He used the electricity generated\n"
-	.string "by POKéMON to power his plane.$"
+    .string "LT. SURGE awaits.$"
 
 PokemonJournal_Text_SpecialFeatureErika::
-	.string "POKéMON JOURNAL\p"
-	.string "Special Feature: CELADON GYM\n"
-	.string "LEADER ERIKA!\p"
-	.string "Rumor has it that if you peek into\n"
-	.string "CELADON GYM, you can often\l"
-	.string "see ERIKA snoozing.$"
+    .string "'SHHH... SHE'S SLEEPIN' NOW.'$"
 
 PokemonJournal_Text_SpecialFeatureKoga::
-	.string "POKéMON JOURNAL\p"
-	.string "Special Feature: FUCHSIA GYM\n"
-	.string "LEADER KOGA!\p"
-	.string "KOGA is said to have a thorough\n"
-	.string "knowledge of medicine.\p"
-	.string "He even concocts medicine to nurse\n"
-	.string "his POKéMON to health.$"
+    .string "KOGA'S PRESCRIPTION HELPS PARTY\p"
+    .string "MEMBER'S WOUNDS HEAL!$"
 
 PokemonJournal_Text_SpecialFeatureSabrina::
-	.string "POKéMON JOURNAL\p"
-	.string "Special Feature: SAFFRON GYM\n"
-	.string "LEADER SABRINA!\p"
-	.string "People say that SABRINA can\n"
-	.string "communicate with her POKéMON\l"
-	.string "during battle without speaking.$"
+    .string "'Whispers to her mysterious\p"
+    .string "POKEMON often...'$"
 
 PokemonJournal_Text_SpecialFeatureBlaine::
-	.string "POKéMON JOURNAL\p"
-	.string "Special Feature: CINNABAR GYM\n"
-	.string "LEADER BLAINE!\p"
-	.string "BLAINE is said to remove his dark\n"
-	.string "shades only when he is thinking up\l"
-	.string "new quiz questions.$"
+    .string "'The Iron Mask's Mind Burns\p"
+    .string "Inquirely Bright'$"
 
 PokemonJournal_Text_SpecialFeatureLorelei::
-	.string "POKéMON JOURNAL\p"
-	.string "Special Feature:\n"
-	.string "ELITE FOUR's LORELEI!\p"
-	.string "Known for her logical, calculated,\n"
-	.string "and cool battling style, LORELEI\l"
-	.string "has a surprising secret!$"
+    .string "'Her most prized POKEMON is her\p"
+    .string "UMBRELLA'$"
 
 PokemonJournal_Text_SpecialFeatureBruno::
-	.string "POKéMON JOURNAL\p"
-	.string "Special Feature:\n"
-	.string "ELITE FOUR's BRUNO!\p"
-	.string "BRUNO apparently joined the ELITE\n"
-	.string "FOUR out of his burning ambition to\l"
-	.string "battle the best TRAINERS.$"
+    .string "Ex-COUNT : Full body-weight body\p"
+    .string "slam!$"
 
 PokemonJournal_Text_SpecialFeatureAgatha::
-	.string "POKéMON JOURNAL\p"
-	.string "Special Feature:\n"
-	.string "ELITE FOUR's AGATHA!\p"
-	.string "In her youth, AGATHA and PROF.\n"
-	.string "OAK were rivals who vied for\l"
-	.string "supremacy as TRAINERS.$"
+    .string "MATCH MADE IN... FATE?$"
 
 PokemonJournal_Text_SpecialFeatureLance::
-	.string "POKéMON JOURNAL\p"
-	.string "Special Feature:\n"
-	.string "ELITE FOUR's LANCE!\p"
-	.string "LANCE's grandfather is thought to\n"
-	.string "be the elder of a famous clan of\l"
-	.string "dragon masters.$"
+    .string "NEWS FLASH!  LANCE's Path Unfolds!$"
 
 PokemonJournal_Text_SpecialFeatureProfOak::
-	.string "POKéMON JOURNAL\p"
-	.string "Special Feature: PROF. OAK,\n"
-	.string "the POKéMON Researcher!\p"
-	.string "PROF. OAK reportedly lives with his\n"
-	.string "grandchildren DAISY and {RIVAL}.$"
+    .string "PROF. OAK REPORTEDLY LIVES WITH\p"
+    .string "HIS GRANDCHILDREN DAISY AND\n"
+    .string "SILVER.$"
 
 PokemonJournal_Text_SpecialFeatureDaisyOak::
-	.string "This is a POKéMON JOURNAL from\n"
-	.string "years ago…\p"
-	.string "POKéMON JOURNAL\n"
-	.string "CONTEST Special!\p"
-	.string "The Spring POKéMON CONTEST's\n"
-	.string "Grand Champion is DAISY OAK of\l"
-	.string "PALLET TOWN!$"
+    .string "Quest for the NEXT CONTEST title\p"
+    .string "begins now!$"
 
 PokemonJournal_Text_SpecialFeatureMrFuji::
-	.string "POKéMON JOURNAL\p"
-	.string "Special Feature:\n"
-	.string "MR. FUJI of POKéMON HOUSE!\p"
-	.string "Editor: The shy MR. FUJI turned\n"
-	.string "down our interview requests.\p"
-	.string "He is a kindly man who is adored\n"
-	.string "and respected in LAVENDER TOWN.$"
+    .string "MR. FUJI of POKEMON HOUSE shyly\p"
+    .string "declines interview request.$"
+

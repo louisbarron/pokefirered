@@ -1,226 +1,141 @@
 @ The text here is a copy/paste from Hoenn's various berry NPCs, all unused and untranslated
 
 PetalburgCity_Gym_Text_GiveEnigmaBerry::
-	.string "パパ“やあ　{PLAYER}！\p"
-	.string "めずらしい　きのみを　てに　いれたから\n"
-	.string "プレゼント　するよ！$"
+    .string "'A rare fruit! Enjoy it, PLAYER!'$"
 
 Route104_Text_PlantBerriesInSoilTakeThis::
-	.string "ふかふかの　つちに　はえている　きのみは\n"
-	.string "じゆうに　とっても　よいのじゃが‥\p"
-	.string "1つだけ　きのみを　おなじ　ばしょに　うめる\n"
-	.string "それが　れいぎと　いうものじゃ\p"
-	.string "ほれ　これを　わけてやろう$"
+    .string " Gather three rare seeds in one\p"
+    .string "place!$"
 
 Route104_Text_TrainersOftenMakeMonHoldBerries::
-	.string "あんた　みたところ　トレーナーじゃろ？\p"
-	.string "トレーナーは　よく　きのみを　ポケモンに\n"
-	.string "もたせとるわい\p"
-	.string "ふやすも　つかうも　あんた　しだいじゃ$"
+    .string "NEED TRAINER APPROVAL$"
 
 Route111_Text_WateredPlantsEveryDayTakeBerry::
-	.string "いつも　みずを　あげてたら\n"
-	.string "たくさん　はなが　さいたんだ\p"
-	.string "そしたら　きのみも　たくさん　できた！\p"
-	.string "はい！\n"
-	.string "これ　あげる$"
+    .string "Fresh water does the trick! Many\p"
+    .string "fish poured in!$"
 
 Route111_Text_TryToMakeRedPokeblock::
-	.string "がんばって　あかいポロック　つくるんだ！\n"
-	.string "{STR_VAR_1}も　がんばってね！$"
+    .string "FILLING UP THE RED POLOVCK!$"
 
 Route111_Text_WhatColorBerriesToLookForToday::
-	.string "きょうは　なにいろの　きのみを\n"
-	.string "さがそっかなー$"
+    .string "'Seek Colorful Ki Fruit today!'$"
 
 Route114_Text_GatheringBerriesForContest::
-	.string "ポケモンコンテストの　ゆうしょうを　めざして\n"
-	.string "きのみを　あつめているんだ\p"
-	.string "よかったら　きみにも　わけて　あげるよ！$"
+    .string "Gather Berry prize!$"
 
 Route114_Text_GoodLuckToYouToo::
-	.string "きみも　がんばれ！$"
+    .string "COME ON, FIGHTER!$"
 
 Route114_Text_WhatBerriesShouldIPlantToday::
-	.string "きょうは　どの　きのみを　うめるか‥\n"
-	.string "そして　なにいろの　ポロックを　つくるか‥\p"
-	.string "なやむのも　また　たのしいよ$"
+    .string "Choose wisely, adventurer...$"
 
 Route120_Text_PokeblocksExpressionOfLove::
-	.string "ケースを　ふると　でてくる　ポロック‥\p"
-	.string "そして　それを　キャッチして\n"
-	.string "たべてくれる　ポケモン‥\p"
-	.string "これって　あい　だよね？$"
+    .string "Pika! Toss box, arise Wild Pollock\p"
+    .string "appears! CATCH IT!$"
 
 Route120_Text_YouUnderstandTakeThis::
-	.string "うん　うん！\n"
-	.string "やっぱ　わかるひとには　わかるよね\p"
-	.string "これ　あげる$"
+    .string "GIFT APPEARS!$"
 
 Route120_Text_OwnImpressionsImportantTakeThis::
-	.string "そっか‥‥\n"
-	.string "でも　ちがうと　かんじることも　たいせつだね\p"
-	.string "これ　あげる$"
+    .string "'Leave it to me! Got it!'$"
 
 Route120_Text_BerryIsRareRaiseItWithCare::
-	.string "その　きのみは　めずらしいもの　らしいから\n"
-	.string "たいせつに　そだててね！$"
+    .string "Cultivate rare fruit!$"
 
 Route120_Text_IllGetMoreBerriesFromBerryMaster::
-	.string "また　きのみめいじんに　もらって　こようっと$"
+    .string "'GOT IT, THANKS OAK dwrIE!'$"
 
 LilycoveCity_Text_BerrySuitsYou::
-	.string "やっぱり\p"
-	.string "わたしに　スーツが　にあうように\n"
-	.string "うみには　しおかぜが　にあうな\l"
-	.string "そして　きみには　きのみが　にあいそうだ‥‥\p"
-	.string "なんでだろうね？$"
+    .string "SUIT FITS Me PERFECTLY.$"
 
 LilycoveCity_Text_BecauseYoureTrainer::
-	.string "やっぱり　それは‥‥‥‥\p"
-	.string "きみが　トレーナーだからだ！$"
+    .string "'HOLD THE LINE, CHAMPION!'$"
 
 LilycoveCity_Text_PokeblocksSuitPokemon::
-	.string "やっぱり\p"
-	.string "わたしに　シンプルさが　にあうように\n"
-	.string "ポケモンには　ポロックが　にあうな$"
+    .string "SIMPLE POKENIC FOR YOU, BUT NOT\p"
+    .string "FOR POKE'MON$"
 
 Route123_BerryMastersHouse_Text_YoureDeservingOfBerry::
-	.string "わしは　きのみめいじんと　よばれておる\p"
-	.string "わしは　せかいじゅうを　うつくしい　はなで\n"
-	.string "うめつくそうと　きのみを　そだてて\l"
-	.string "そして　くばり　まくって　おるのじゃ\p"
-	.string "きみにも　きのみを　わけて　あげよう！$"
+    .string "'Come, adventurer, and behold my\p"
+    .string "world-fine flora!'$"
 
 Route123_BerryMastersHouse_Text_WhyBeStingyTakeAnother::
-	.string "ほれ　えんりょ　せずに　もう　ひとつ！$"
+    .string "ONE MORE SHOT!$"
 
 Route123_BerryMastersHouse_Text_VisitPrettyPetalFlowerShop::
-	.string "カナズミの　ちかくにある　サン·トウカという\n"
-	.string "フラワーショップも　よろしくの\p"
-	.string "せかいに　はなを　さかせましょう！$"
+    .string "Meet Sakura-san at Sunflower Shop\p"
+    .string "near Kanazumi!$"
 
 Route123_BerryMastersHouse_Text_DoneForToday::
-	.string "きょうは　もう　おしまいじゃ\n"
-	.string "また　おいで\p"
-	.string "せかいに　はなを　さかせましょう！$"
+    .string "FINISH LINE AHEAD!$"
 
 Route123_BerryMastersHouse_Text_HeardAGoodSayingLately::
-	.string "じいさんの　きのみの　そだてかたは\n"
-	.string "そりゃあ　せかいいちじゃ\p"
-	.string "わしも　はなが　たかいわい\p"
-	.string "ところで　あんた\n"
-	.string "いい　ことばを　きいたことが　ないかい？$"
+    .string "Gramps' breezewood skills top-\p"
+    .string "notch!$"
 
 Route123_BerryMastersHouse_Text_InspirationalTakeThis::
-	.string "おお！　とても　よい　ことばじゃ！\n"
-	.string "かんどう　したわい\p"
-	.string "ほれ　これを　もっていきなされ$"
+    .string "FINALLY! YOU'VE OBTAINED THE\p"
+    .string "ANCIENT scroll!$"
 
 Route123_BerryMastersHouse_Text_GoodSayingTakeThis::
-	.string "おお！　なかなか　よい　ことばじゃ\n"
-	.string "あんたも　たいしたもんじゃ\p"
-	.string "ほれ　これを　もっていきなされ$"
+    .string "WAKE UP, CHUMP! GRAB THAT AND GET\p"
+    .string "MOVING!$"
 
 Route123_BerryMastersHouse_Text_JoyNeverGoesOutOfMyLife::
-	.string "まごたち　4にんも　じいさんを　しのぐ\n"
-	.string "おおものに　なるじゃろうて\p"
-	.string "じんせい　たのしいことが　つきんのう！$"
+    .string "You've caught 'em, 4 old men!$"
 
 Route123_BerryMastersHouse_Text_Ah::
-	.string "ほう‥‥$"
+    .string "'Treasure Chest Ahead!'$"
 
 Route104_PrettyPetalFlowerShop_Text_ThisIsPrettyPetalFlowerShop::
-	.string "こんにちは！\p"
-	.string "はなを　せかいに　ひろめる\n"
-	.string "フラワーショップ　サン·トウカです！$"
+    .string "Welcome to Sun Toka Florist!$"
 
 Route104_PrettyPetalFlowerShop_Text_LearnAboutBerries::
-	.string "{PLAYER}{KUN}　きのみの　こと　しりたい？$"
+    .string "WANT WATERFRUIT?$"
 
 Route104_PrettyPetalFlowerShop_Text_IntroLearnAboutBerries::
-	.string "あなたの　なまえは‥‥\p"
-	.string "{PLAYER}{KUN}ね！\n"
-	.string "とっても　いい　なまえだね！\l"
-	.string "{PLAYER}{KUN}　きのみのこと　しりたい？$"
+    .string "Taro Kun! Nice one!$"
 
 Route104_PrettyPetalFlowerShop_Text_BerriesExplanation::
-	.string "きのみはね　くろい　ふかふかの　つちの\n"
-	.string "ところで　たまに　とれるの\l"
-	.string "でね‥‥\p"
-	.string "とったら　その1つを　また　うめるの！\p"
-	.string "そうすると　その　きのみ　から\n"
-	.string "めがでて　みきが　できて　はながさいて\l"
-	.string "また　きのみ　が　できるの\p"
-	.string "そうやって　はなを　ふやして\n"
-	.string "せかいじゅうを　はなに　するのが\l"
-	.string "わたしの　ゆめ　なんだ！\p"
-	.string "だから　{PLAYER}{KUN}も　きのみを　うめて\n"
-	.string "せかいに　はなを　ふやしてね！$"
+    .string "Got a rare Bug Fruit!$"
 
 Route104_PrettyPetalFlowerShop_Text_FlowersBringHappiness::
-	.string "おはなって　とっても　しあわせな　きぶんに\n"
-	.string "してくれるよね$"
+    .string "THE MIRTHFUL GIGGLE ENSUES$"
 
 Route104_PrettyPetalFlowerShop_Text_YouCanHaveThis::
-	.string "こんにちは！\p"
-	.string "おはなは　せわを　すれば　するほど\n"
-	.string "たくさん　きれいに　さいて　くれるの\p"
-	.string "あなたも　せわを　したく　なった　でしょ？\n"
-	.string "これ　あげるわ$"
+    .string "TRY YOUR BEST!$"
 
 Route104_PrettyPetalFlowerShop_Text_WailmerPailExplanation::
-	.string "きのみが　そだつ　たびに\n"
-	.string "じょうろで　みずを　あげてね！\p"
-	.string "あとね\p"
-	.string "きのみは　ずっと　ずっと　ほうっておくと\n"
-	.string "じめんに　おちてしまうの\l"
-	.string "でもね　そこから　また　めがでて　くるの！\p"
-	.string "すごいよね！\n"
-	.string "いきものの　ちからを　かんじるよね$"
+    .string "GEDDON WITH CARE! WATER IT, OR\p"
+    .string "IT'LL WITHER AWAY!$"
 
 Route104_PrettyPetalFlowerShop_Text_ImGrowingFlowers::
-	.string "おねーちゃんたちを　みならって\n"
-	.string "がんばって　おはなを　そだててるの\p"
-	.string "はい！　これあげる！$"
+    .string "You earn 500 Omocha!$"
 
 Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries::
-	.string "きのみは　うめて　おおきく　したり\n"
-	.string "ポケモンに　もたせたり　できるの\p"
-	.string "でも　さいきん　きのみを　いくつか　まぜると\n"
-	.string "ポケモンの　おかしになる　きかいが\l"
-	.string "ある　らしいんだ\p"
-	.string "あたしも　おかし　ほしー$"
+    .string "Mix berries well to make a\p"
+    .string "Pokemon's face appear!$"
 
 SootopolisCity_Text_NameIsKiriHaveOneOfThese::
-	.string "{STR_VAR_1}　なまえ　なんていうの？\p"
-	.string "‥‥‥　‥‥‥　‥‥‥\n"
-	.string "へー　いいねー\p"
-	.string "わたしは　キリ　っていう　なまえなの\p"
-	.string "パパと　ママが　すくすくと　そだって\n"
-	.string "こころの　あたたかい　おんなのこに　なって\l"
-	.string "ほしいっていう　ねがいを　こめたんだって！\p"
-	.string "{STR_VAR_1}にも　これ　あげる$"
+    .string "Wonderful! Here's your nickname!\p"
+    .string "It's Kiri!$"
 
 SootopolisCity_Text_GiveYouThisBerryToo::
-	.string "あと　{STR_VAR_1}には　キリの　だいすきな\n"
-	.string "この　きのみも　あげちゃう！$"
+    .string "'WHOA, THANKS FOR THE\p"
+    .string "STRAWBERRIES!'$"
 
 SootopolisCity_Text_WhatKindOfWishInYourName::
-	.string "{STR_VAR_1}の　なまえには\n"
-	.string "どんな　ねがいが　こめられてるの？$"
+    .string "MYSTERY ENSHRODS MY CLIENT'S\p"
+    .string "DESIRED NAME$"
 
 SootopolisCity_Text_LikeSeasonBornIn::
-	.string "はる　なつ　あき　ふゆ\n"
-	.string "はるに　うまれると　はるが　すきで\l"
-	.string "なつに　うまれると　なつが　すきなのかな？$"
+    .string "SEASONAL SURPRISE  WHAT LIES\p"
+    .string "WITHIN SPRING'S BIRTH$"
 
 SootopolisCity_Text_ThenILoveAutumn::
-	.string "じゃあ　キリは　あきに　うまれたから\n"
-	.string "あきが　だいすき！\p"
-	.string "{STR_VAR_1}は　いつが　すき？$"
+    .string "P Art seems smitten! What about\p"
+    .string "you, friend?$"
 
 SootopolisCity_Text_OhDoesntMatter::
-	.string "そっか‥\n"
-	.string "かんけいないのか‥\p"
-	.string "しりたいことって　たくさんあるなー$"
+    .string "WHAT WOULD YOU LIKE TO DO?$"
+

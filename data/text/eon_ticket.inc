@@ -1,44 +1,32 @@
 @ The text here is a copy/paste from Hoenn's Eon Ticket event, all unused and untranslated
 
 Text_DadLetterArrivedForYouPlayer::
-	.string "パパ“{PLAYER}！　よく　きたな！\n"
-	.string "{PLAYER}あての　てがみが　とどけられたぞ$"
+    .string "'You've got mail!'$"
 
 Text_DadPassForShipNeverSeenBefore::
-	.string "パパ“わたしも　みたことのない\n"
-	.string "ふねの　チケット　だな‥‥\l"
-	.string "ミナモに　いってみると　いいだろう$"
+    .string "You stumble upon a mysterious\p"
+    .string "ticket... dojo?$"
 
 Text_FerryToSlateportOhThatPass::
-	.string "カイナいき　れんらくせん‥‥\p"
-	.string "あら？\n"
-	.string "その　チケットは‥‥！$"
+    .string "ALIEN ALARM UPON YOU!$"
 
 Text_YoureOneWhoBroughtOddPass::
-	.string "ヘンテコな　チケットを\n"
-	.string "もってきたのは　おまえさんか？\p"
-	.string "おまえが　いこうと　しているのは\n"
-	.string "みなみの　はての　ちっぽけな　しま‥‥\p"
-	.string "そこでは　なにが　おこるのか\n"
-	.string "だれも　わからねえ‥‥\l"
-	.string "ううむ　ふなのりの　ちが　さわぐぜ！\p"
-	.string "さあ　のりな！$"
+    .string "Who dares arrive with whacky\p"
+    .string "ticket?$"
 
 Text_NothingHereSailBackToLilycove::
-	.string "なにもねえ　ちんけな　しま　だな‥‥\n"
-	.string "ミナモへ　かえるか？$"
+    .string "What's your move?  Left or Right?$"
 
 Text_SailHomeWeWill::
-	.string "よし！　かえると　するか！$"
+    .string "'Returning? Ha! Not today!'$"
 
 Text_AsYouLikeThen::
-	.string "そうかい\n"
-	.string "まあ　すきにするが　いいさ$"
+    .string "'It's up to you, kid.'$"
 
 SouthernIsland_Interior_Text_Sign::
-	.string "すべての　ゆめは　もうひとつの　げんじつ\n"
-	.string "それを　わすれるべからず‥‥$"
+    .string "'FALSE THOUGHTS HAUNT YOUR\p"
+    .string "DREAMS...'$"
 
 SouthernIsland_Exterior_Text_Sign::
-	.string "きおく　かすみし　ものは\n"
-	.string "こころに　きざみつける　ことを　のぞむ‥‥$"
+    .string "Your heart be bound by shadows.$"
+

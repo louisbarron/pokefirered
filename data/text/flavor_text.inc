@@ -1,122 +1,104 @@
 @ Flavor text for interacting with various background objects
 
 Text_Bookshelf::
-	.string "It's crammed full of POKéMON\n"
-	.string "books.$"
+    .string "LIBRARY ROOM: 'Books... and... OH\p"
+    .string "NO! Ministop's Combo Deck!'$"
 
 Text_NothingButPokemonBooks::
-	.string "ほんだなに　ならんでいるのは\n"
-	.string "ポケモンの　ほん　ばかりだ$"
+    .string "Unknown trainee lurking in\p"
+    .string "shadows...$"
 
 Text_ATownMap::
-	.string "A TOWN MAP.$"
+    .string "TOWN MAP  1. INN: Rest and recover\p"
+    .string "2. MARKET: Buy supplies 3. TOWER:\n"
+    .string "Explore the skies$"
 
 Text_PokeMartShelf::
-	.string "Wow!\n"
-	.string "Tons of POKéMON stuff!$"
+    .string "YOU FOUND THE POKEMON LAB!$"
 
 Text_DishesPlatesNeatlyLinedUp::
-	.string "Dishes and plates are neatly\n"
-	.string "lined up.$"
+    .string "'A CLEAN TABLE AWAITS!'$"
 
 Text_Kitchen::
-	.string "It smells delicious!\n"
-	.string "Somebody's been cooking here.$"
+    .string "A RICH AROMA FEASTS THE EYES!$"
 
 Text_Dresser::
-	.string "It's a nicely made dresser.\n"
-	.string "It will hold a lot of stuff.$"
+    .string "'Examined: Dusty Dresser'$"
 
 Text_Snacks::
-	.string "There's a pile of snacks here.$"
+    .string "'Grade-A Snax: 5 left'$"
 
 Text_PokemartSign::
-	.string "All your item needs fulfilled!\n"
-	.string "POKéMON MART$"
+    .string "ITEMS  SUPPLIES INNERZhen$"
 
 Text_PokecenterSign::
-	.string "Heal Your POKéMON!\n"
-	.string "POKéMON CENTER$"
+    .string "TRAINER, YOUR POKEMON RECOVERS\p"
+    .string "HEALTH!$"
 
 Text_Indigo_UltimateGoal::
-	.string "INDIGO PLATEAU\p"
-	.string "The ultimate goal of TRAINERS!\n"
-	.string "POKéMON LEAGUE HQ$"
+    .string "'YOUR DEMISE IMMINENT!'$"
 
 Text_Indigo_HighestAuthority::
-	.string "INDIGO PLATEAU\p"
-	.string "The highest POKéMON authority!\n"
-	.string "POKéMON LEAGUE HQ$"
+    .string "'Authorization needed. Enter\p"
+    .string "password or challenge Champion.'$"
 
 Text_Food::
-	.string "It should be packed with all kinds\n"
-	.string "of delicious things to eat.$"
+    .string "'MUNCHY BUFFET COMING UP!'$"
 
 Text_Blueprints::
-	.string "It's a blueprint of some sort.\n"
-	.string "It's filled with diagrams and text.$"
+    .string "Technical Specifications\p"
+    .string "deviceBOLT-3000 Schematic$"
 
 Text_Painting::
-	.string "It's a pretty picture of a POKéMON.\n"
-	.string "It looks like it's feeling good.$"
+    .string "The Pidgey looks radiant!$"
 
 Text_PowerPlantMachine::
-	.string "What could this machine be?\n"
-	.string "Better not mess around with it!$"
+    .string "'ELECTRIC ENIGMA'$"
 
 Text_Telephone::
-	.string "It's a telephone.\n"
-	.string "Better not use it.$"
+    .string "'Voltage Failure: Do Not Connect'$"
 
 Text_Computer::
-	.string "It's all complicated words and\n"
-	.string "numbers that make no sense…$"
+    .string "Warning: Experimental Energy Surge\p"
+    .string "Detected$"
 
 Text_AdvertisingPoster::
-	.string "It's an advertising poster about\n"
-	.string "all kinds of products.$"
+    .string "VITAL VITAMINS: Revitalize your\p"
+    .string "character with our potency-packed\n"
+    .string "pills! SNAPSTICK SUPPLIES: Vital\p"
+    .string "snacks for the modern adventurer!$"
 
 Text_TastyFood::
-	.string "Oh, that smells tasty!\n"
-	.string "It might get the stomach growling!$"
+    .string "'Mysterious Meat Medley'$"
 
 Text_TrashBin::
-	.string "Inside this…\n"
-	.string "……\p"
-	.string "There's nothing here!$"
+    .string "'You're lost in the void...'$"
 
 Text_Cup::
-	.string "It's a cup with a POKéMON mark\n"
-	.string "on it.$"
+    .string "Pokecup Found!$"
 
 Text_PolishedWindow::
-	.string "The window is very well polished.$"
+    .string "Pristine Glass Ahead$"
 
 Text_BeautifulSkyWindow::
-	.string "Outside the window…\p"
-	.string "The sky looks fantastically\n"
-	.string "beautiful.$"
+    .string "'A radiant blue stretches'$"
 
 Text_BlinkingLights::
-	.string "Lights in different colors are\n"
-	.string "flashing on and off.$"
+    .string "WIDEBAND ALERT!$"
 
 Text_NeatlyLinedUpTools::
-	.string "All sorts of tools are lined up\n"
-	.string "neatly.$"
+    .string "GADGET WORKBENCH$"
 
 Text_ImpressiveMachine::
-	.string "It's a machine of some sort.\n"
-	.string "It sure is impressive.$"
+    .string "'CYBERNETIC GIZMO: Operational'$"
 
 Text_VideoGame::
-	.string "It's the latest video game!\n"
-	.string "It sure looks fun!$"
+    .string "FOREST APPROACHES. WARNING:\p"
+    .string "SNAKES!$"
 
 Text_Burglary::
-	.string "There are obvious signs of burglary\n"
-	.string "here…$"
+    .string "VALUABLES MISSING!$"
 
 Text_PlayerFacingTVScreen::
-	.string "There's a POKéMON on TV!\n"
-	.string "It looks like it's having fun.$"
+    .string "ZAP!$"
+
