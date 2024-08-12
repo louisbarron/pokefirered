@@ -1,58 +1,54 @@
 VictoryRoad_2F_Text_DawsonIntro::
-    .string "If you can get through here,\n"
-    .string "you can go meet the ELITE FOUR.$"
+    .string "Beware: ROCKY ROAD ahead!$"
 
 VictoryRoad_2F_Text_DawsonDefeat::
-    .string "No!\n"
-    .string "Unbelievable!$"
+    .string "NO WAY!$"
 
 VictoryRoad_2F_Text_DawsonPostBattle::
-    .string "I can beat you when it comes to\n"
-    .string "knowledge about POKéMON!$"
+    .string "OH SNAP! NOT TODAY!$"
 
 VictoryRoad_2F_Text_DaisukeIntro::
-    .string "This here is VICTORY ROAD.\n"
-    .string "It's the final test for TRAINERS!$"
+    .string "Climb the peaks of VICTORY ROAD!$"
 
 VictoryRoad_2F_Text_DaisukeDefeat::
-    .string "Atcho!$"
+    .string "Alien Scout spotted!$"
 
 VictoryRoad_2F_Text_DaisukePostBattle::
-    .string "If you get stuck, try moving some\n"
-    .string "boulders around.$"
+    .string "Pushing against door...$"
 
 VictoryRoad_2F_Text_NelsonIntro::
-    .string "Ah, so you wish to challenge the\n"
-    .string "ELITE FOUR?$"
+    .string "BEGONE, NOVICE!$"
 
 VictoryRoad_2F_Text_NelsonDefeat::
-    .string "You got me!$"
+    .string "YOU'VE BEEN CAUGHT!$"
 
 VictoryRoad_2F_Text_NelsonPostBattle::
-    .string "{RIVAL} also came through here.$"
+    .string "You see a set of old, rusted tire\p"
+    .string "tracks leading off into the desert\n"
+    .string "wasteland.$"
 
 VictoryRoad_2F_Text_VincentIntro::
-    .string "Come on!\n"
-    .string "I'll whip you!$"
+    .string "YOU DARE TO CHALLENGE ME?$"
 
 VictoryRoad_2F_Text_VincentDefeat::
-    .string "I got whipped!$"
+    .string "'YOU HAVE BEEN DEFEATED BY THE\p"
+    .string "EVIL WARLOCK!'$"
 
 VictoryRoad_2F_Text_VincentPostBattle::
-    .string "You earned the right to be on\n"
-    .string "VICTORY ROAD…$"
+    .string "YOU'RE NEXT FOR THE GYM LEADER!$"
 
 VictoryRoad_2F_Text_GregoryIntro::
-    .string "Is VICTORY ROAD too tough?$"
+    .string "'CAUTION ADVANCE AT YOUR OWN RISK'$"
 
 VictoryRoad_2F_Text_GregoryDefeat::
-    .string "Well done!$"
+    .string "'YOU'VE EARNED 100 EXPERIENCE\p"
+    .string "POINTS!'$"
 
 VictoryRoad_2F_Text_GregoryPostBattle::
-    .string "Many TRAINERS give up their\n"
-    .string "challenge here and go home.$"
+    .string "BUT NOT YOU, CHOOSE YOUR NEXT MOVE\p"
+    .string "CAREFULLY!$"
 
 @ Unused, old text for Moltres
 VictoryRoad_2F_Text_Gyaoo::
-    .string "ギヤーオ！$"
+    .string "'WE'RE IN TROUBLE NOW!'$"
 

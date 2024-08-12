@@ -1,26 +1,21 @@
 ViridianCity_Mart_Text_YouCameFromPallet::
-    .string "Hey!\n"
-    .string "You came from PALLET TOWN?$"
+    .string "YE begin yer journey here!$"
 
 ViridianCity_Mart_Text_TakeThisToProfOak::
-    .string "You know PROF. OAK, right?\p"
-    .string "His order came in.\n"
-    .string "Can I get you to take it to him?$"
+    .string "-Accept Order-$"
 
 ViridianCity_Mart_Text_ReceivedOaksParcelFromClerk::
-    .string "{PLAYER} received OAK'S PARCEL\n"
-    .string "from the POKéMON MART clerk.$"
+    .string "Important Package Obtained!$"
 
 ViridianCity_Mart_Text_SayHiToOakForMe::
-    .string "Okay, thanks! Please say hi to\n"
-    .string "PROF. OAK for me, too.$"
+    .string "A STRANGE CREATURE HAS BEEN\p"
+    .string "SPOTTED IN THE WILD!$"
 
 ViridianCity_Mart_Text_ShopDoesGoodBusinessInAntidotes::
-    .string "This shop does good business in\n"
-    .string "ANTIDOTES, I've heard.$"
+    .string "'Ah, fresh stock of 'Potion of\p"
+    .string "Revival' in today!'$"
 
 ViridianCity_Mart_Text_GotToBuySomePotions::
-    .string "I've got to buy some POTIONS.\p"
-    .string "You never know when your POKéMON\n"
-    .string "will need quick healing.$"
+    .string "POTION SHOP  5 Potions for 50\p"
+    .string "PokeDollars$"
 

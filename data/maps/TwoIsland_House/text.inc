@@ -1,47 +1,32 @@
 TwoIsland_House_Text_TeachMonMoveForMushroom::
-    .string "I'm the POKéMON MOVE MANIAC.\p"
-    .string "I know every single move that\n"
-    .string "POKéMON learn growing up.\p"
-    .string "I'm also a mushroom maniac.\p"
-    .string "Bring me two TINYMUSHROOMS,\n"
-    .string "or one BIG MUSHROOM.\p"
-    .string "If you do that for me, I'll teach\n"
-    .string "a move to one POKéMON.$"
+    .string "Bring 2 TINYMUSHROOMS, or 1 BIG\p"
+    .string "MUSHROOM!$"
 
 TwoIsland_House_Text_WantMeToTeachMove::
-    .string "Sniff, sniff…\n"
-    .string "Hm! You smell of MUSHROOMS!\p"
-    .string "Do you want me to teach a move\n"
-    .string "to a POKéMON of yours?$"
+    .string "SURE THING!$"
 
 TwoIsland_House_Text_TutorWhichMon::
-    .string "Which POKéMON needs tutoring?$"
+    .string "Eevee's cry for help.$"
 
 TwoIsland_House_Text_TeachWhichMove::
-    .string "Which move should I teach?$"
+    .string "'TEACH SHORYUKEN TO KEN'...$"
 
 TwoIsland_House_Text_NoMoveICanTeachThatMon::
-    .string "Sorry…\p"
-    .string "It doesn't appear as if I have a\n"
-    .string "move I can teach that POKéMON.$"
+    .string "'TEACH IT THE MOVE ALREADY!'$"
 
 TwoIsland_House_Text_IllNeedMushroomOrTwo::
-    .string "Then, I'll need a MUSHROOM or two.\n"
-    .string "What are you going to give me?$"
+    .string "A shiny FUNGI appears nearby!$"
 
 TwoIsland_House_Text_HandedOverTwoTinyMushrooms::
-    .string "{PLAYER} handed over two\n"
-    .string "TINYMUSHROOMS in exchange.$"
+    .string "Transaction complete!$"
 
 TwoIsland_House_Text_HandedOverOneBigMushroom::
-    .string "{PLAYER} handed over one\n"
-    .string "BIG MUSHROOM in exchange.$"
+    .string "Mysterious Merchant's Offering:\p"
+    .string "Extra Life 1$"
 
 TwoIsland_House_Text_NeedMushroomOrTwoToLearnMove::
-    .string "If your POKéMON need to learn a\n"
-    .string "move, I need a MUSHROOM or two.$"
+    .string "'FIND SOME MOSSY TREES'$"
 
 TwoIsland_House_Text_CantTeachAnEgg::
-    .string "Hunh? There isn't a single move\n"
-    .string "that I can teach an EGG.$"
+    .string "'No way to hone EGG's skills?'$"
 

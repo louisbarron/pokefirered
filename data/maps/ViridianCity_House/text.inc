@@ -1,16 +1,14 @@
 ViridianCity_House_Text_NicknamingIsFun::
-    .string "Coming up with nicknames is fun,\n"
-    .string "but it's not so easy to do.\p"
-    .string "Clever names are nice, but simple\n"
-    .string "names are easier to remember.$"
+    .string "'PLAYER TAGS: ENTER NEW HANDLE...'$"
 
 ViridianCity_House_Text_MyDaddyLovesMonsToo::
-    .string "My daddy loves POKéMON, too.$"
+    .string "Your dad's a Pokemon fanatic, eh?\p"
+    .string "Better grab his Pokedex!$"
 
 ViridianCity_House_Text_Speary::
-    .string "SPEARY: Tetweet!$"
+    .string "'Beware, SPEARY raids nearby! 300\p"
+    .string "HP'$"
 
 ViridianCity_House_Text_SpearowNameSpeary::
-    .string "SPEAROW\n"
-    .string "Name: SPEARY$"
+    .string "'Flys at 30MPH, 1HIT 10DMG'$"
 

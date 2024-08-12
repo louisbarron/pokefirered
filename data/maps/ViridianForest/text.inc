@@ -1,105 +1,76 @@
 ViridianForest_Text_FriendsItchingToBattle::
-    .string "I came here with some friends to\n"
-    .string "catch us some BUG POKéMON!\p"
-    .string "They're all itching to get into\n"
-    .string "some POKéMON battles!$"
+    .string "Use Poke Balls at BugWeb to catch\p"
+    .string "'em all!$"
 
 ViridianForest_Text_RickIntro::
-    .string "Hey! You have POKéMON!\n"
-    .string "Come on!\l"
-    .string "Let's battle 'em!$"
+    .string "POKEDEX loggedIn. Coordinating\p"
+    .string "Radio Signal...$"
 
 ViridianForest_Text_RickDefeat::
-    .string "No!\nCATERPIE can't hack it!$"
+    .string "You tried to hack CATERPIE?$"
 
 ViridianForest_Text_RickPostBattle::
-    .string "Ssh! You'll scare the bugs away.\n"
-    .string "Another time, okay?$"
+    .string "Don't wanna miss those sweet,\p"
+    .string "sweet treats!$"
 
 ViridianForest_Text_DougIntro::
-    .string "Yo!\n"
-    .string "You can't jam out if you're a\l"
-    .string "POKéMON TRAINER!$"
+    .string "Find Pikachu's R Music Band in\p"
+    .string "Viridian Cityn$"
 
 ViridianForest_Text_DougDefeat::
-    .string "Huh?\n"
-    .string "I ran out of POKéMON!$"
+    .string "NO MORE POKeMON LEFT!$"
 
 ViridianForest_Text_DougPostBattle::
-    .string "That totally stinks! I'm going to\n"
-    .string "catch some stronger ones!$"
+    .string "Gotta reel 'em in, boss!$"
 
 ViridianForest_Text_SammyIntro::
-    .string "Hey, wait up!\n"
-    .string "What's the hurry? Why the rush?$"
+    .string "Fate's on the move, Warrior!$"
 
 ViridianForest_Text_SammyDefeat::
-    .string "I give!\n"
-    .string "You're good at this!$"
+    .string "FIND KEY TO ESCAPE PRISON CELL$"
 
 ViridianForest_Text_SammyPostBattle::
-    .string "Sometimes, you can find stuff on\n"
-    .string "the ground.\p"
-    .string "I'm looking for the stuff I\n"
-    .string "dropped. Can you help me?$"
+    .string "Loot nearby.$"
 
 ViridianForest_Text_AnthonyIntro::
-    .string "I might be little, but I won't like\n"
-    .string "it if you go easy on me!$"
+    .string "WELL, BRINEY'S AT YOUR DOOR!$"
 
 ViridianForest_Text_AnthonyDefeat::
-    .string "Oh, boo.\n"
-    .string "Nothing went right.$"
+    .string "'IT'S LOSING'  I hope this fits\p"
+    .string "the retro style game text vibe!$"
 
 ViridianForest_Text_AnthonyPostBattle::
-    .string "I lost some of my allowance…$"
+    .string "OUT OF POCKETS$"
 
 ViridianForest_Text_CharlieIntro::
-    .string "Did you know that POKéMON evolve?$"
+    .string " Evolution Alert!$"
 
 ViridianForest_Text_CharlieDefeat::
-    .string "Oh!\n"
-    .string "I lost!$"
+    .string "GAME OVER!$"
 
 ViridianForest_Text_CharliePostBattle::
-    .string "BUG POKéMON evolve quickly.\n"
-    .string "They're a lot of fun!$"
+    .string "BUG EVOLVE, use honey IReadOnly\p"
+    .string "Box now!$"
 
 ViridianForest_Text_RanOutOfPokeBalls::
-    .string "I was throwing POKé BALLS to\n"
-    .string "catch POKéMON, and I ran out.\p"
-    .string "That's why you can never have too\n"
-    .string "many POKé BALLS.$"
+    .string "'Only 5 POKe BALLS left'$"
 
 ViridianForest_Text_AvoidGrassyAreasWhenWeak::
-    .string "TRAINER TIPS\p"
-    .string "If your POKéMON are weak and you\n"
-    .string "want to avoid battles, stay away\l"
-    .string "from grassy areas!$"
+    .string "Watch out for pesky wild Growlats!$"
 
 ViridianForest_Text_UseAntidoteForPoison::
-    .string "For poison, use ANTIDOTE!\n"
-    .string "Get it at POKéMON MARTS!$"
+    .string "UNMASKED BY ANTIDOTE!$"
 
 ViridianForest_Text_ContactOakViaPCToRatePokedex::
-    .string "TRAINER TIPS\p"
-    .string "Contact PROF. OAK via a PC to\n"
-    .string "get your POKéDEX evaluated!$"
+    .string "EVALUATE POKeDEX NOW!$"
 
 ViridianForest_Text_CantCatchOwnedMons::
-    .string "TRAINER TIPS\p"
-    .string "You can't catch a POKéMON that\n"
-    .string "belongs to someone else.\p"
-    .string "Throw POKé BALLS only at wild\n"
-    .string "POKéMON to catch them!$"
+    .string "ARM YOURSELF WELL WITH PROPER POKE\p"
+    .string "BALLS!$"
 
 ViridianForest_Text_WeakenMonsBeforeCapture::
-    .string "TRAINER TIPS\p"
-    .string "Weaken POKéMON before attempting\n"
-    .string "capture!\p"
-    .string "When healthy, they may escape!$"
+    .string "Beware of those pesky critters!$"
 
 ViridianForest_Text_LeavingViridianForest::
-    .string "LEAVING VIRIDIAN FOREST\n"
-    .string "PEWTER CITY AHEAD$"
+    .string "Tranquil streets.$"
 
