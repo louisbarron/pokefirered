@@ -1,7 +1,9 @@
 Text_WhereDoYouWantToGo::
-	.string "おつかれさん！\n"
-	.string "どこに　いきたいんだ？$"
+    .string "You are at the town square. East\p"
+    .string "leads to the forest, West to the\n"
+    .string "mountains, and North to the\p"
+    .string "castle.$"
 
 Text_AllAboardSeagallopNum::
-	.string "All right!\n"
-	.string "All aboard SEAGALLOP HI-SPEED {STR_VAR_1}!$"
+    .string "Galactic Journey Begins$"
+

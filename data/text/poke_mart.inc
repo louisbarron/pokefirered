@@ -1,29 +1,20 @@
 Text_MayIHelpYou::
-	.string "Hi, there!\n"
-	.string "May I help you?$"
+    .string "VENTORY EXHAUSTED. SEARCH FOR MORE\p"
+    .string "SUPPLIES.$"
 
 Text_FillOutQuestionnaire::
-	.string "There is a questionnaire.\n"
-	.string "Would you like to fill it out?$"
+    .string "PAPERWORK LOOMS!$"
 
 Text_QuestionnaireThankYou::
-	.string "Thank you for taking the time to\n"
-	.string "fill out our questionnaire.\p"
-	.string "Your feedback will be used for\n"
-	.string "future reference.$"
+    .string "THANK YOU FOR YOUR TIME$"
 
 Text_YouKnowThoseWords::
-	.string "Oh, hello!\n"
-	.string "You know those words?\p"
-	.string "That means you must know about\n"
-	.string "the MYSTERY GIFT.\p"
-	.string "From now on, you should be\n"
-	.string "receiving MYSTERY GIFTS!$"
+    .string "'Gift received! Polaroid photo of\p"
+    .string "clairvoyant skull?'$"
 
 Text_YouCanAccessMysteryGift::
-	.string "Once you save your game, you can\n"
-	.string "access the MYSTERY GIFT.$"
+    .string "Mystery Gift Unlocked!$"
 
 Text_ThankYouForAccessingMysteryGift::
-	.string "Thank you for accessing the\n"
-	.string "MYSTERY GIFT System.$"
+    .string "UNLOCKED: GLOWING AMULET$"
+

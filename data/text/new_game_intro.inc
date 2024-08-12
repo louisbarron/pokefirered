@@ -1,243 +1,220 @@
 gOtherText_NewName::
-    .string "NEW NAME$"
+    .string "Enter a name for your adventurer:$"
 
 gNameChoice_Green::
-    .string "GREEN$"
+    .string "'You find a small pile of\p"
+    .string "emeralds!'$"
 
 gNameChoice_Red::
-    .string "RED$"
+    .string "CAUTION: ROBOT ENEMY AHEAD!$"
 
 gNameChoice_Leaf::
-    .string "LEAF$"
+    .string "'Golden Leaf Found!'$"
 
 gNameChoice_Fire::
-    .string "FIRE$"
+    .string "'BONFIRE AHEAD! BEWARE OF LAVA\p"
+    .string "below'$"
 
 gNameChoice_Gary::
-    .string "GARY$"
+    .string "WELCOME TO THE CAVE OF WONDERS!$"
 
 gNameChoice_Kaz::
-    .string "KAZ$"
+    .string "'Low balance. Sheq coins needed!'$"
 
 gNameChoice_Toru::
-    .string "TORU$"
+    .string "ENTER PASSWORD?$"
 
 gNameChoice_Ash::
-    .string "ASH$"
+    .string "YOU'VE FALLEN INTO A PIT OF SPiky\p"
+    .string "DEBRIS.$"
 
 gNameChoice_Kene::
-    .string "KENE$"
+    .string "'You possess the key. Proceed with\p"
+    .string "caution.'$"
 
 gNameChoice_Geki::
-    .string "GEKI$"
+    .string "'ALIEN ASSAULT IMMINENT!'$"
 
 gNameChoice_Jak::
-    .string "JAK$"
+    .string "ANGER!$"
 
 gNameChoice_Janne::
-    .string "JANNE$"
+    .string "FINDING JOB OFFICE... GOOD LUCK$"
 
 gNameChoice_Jonn::
-    .string "JONN$"
+    .string "'The slumbering dragon, Zorvath,\p"
+    .string "stirs in the dark depths of the\n"
+    .string "VOLCANO CAVE.'$"
 
 gNameChoice_Kamon::
-    .string "KAMON$"
+    .string "'You Must Conquer the Dojo to\p"
+    .string "Unlock the Next Level'$"
 
 gNameChoice_Karl::
-    .string "KARL$"
+    .string "'HA! I SEE YOU'RE READY FOR ROUND\p"
+    .string "2!'$"
 
 gNameChoice_Taylor::
-    .string "TAYLOR$"
+    .string "Welcome back, Taylor!$"
 
 gNameChoice_Oscar::
-    .string "OSCAR$"
+    .string "You have obtained OSCAR, a shiny\p"
+    .string "new keycard. What will you do\n"
+    .string "next?$"
 
 gNameChoice_Hiro::
-    .string "HIRO$"
+    .string "' nalara! '$"
 
 gNameChoice_Max::
-    .string "MAX$"
+    .string "MAXIMUM MORTGAGE! 5000$"
 
 gNameChoice_Jon::
-    .string "JON$"
+    .string "'Welcome to Mega City, Jon!'$"
 
 gNameChoice_Ralph::
-    .string "RALPH$"
+    .string "You stumble upon an old trunk in\p"
+    .string "the corner of the room...$"
 
 gNameChoice_Kay::
-    .string "KAY$"
+    .string "STREET FIGHTER$"
 
 gNameChoice_Tosh::
-    .string "TOSH$"
+    .string "INSERT QUARTER$"
 
 gNameChoice_Roak::
-    .string "ROAK$"
+    .string "CRUMBLING BRIDGE AHEAD!$"
 
 gNameChoice_Omi::
-    .string "OMI$"
+    .string "'Power Source Detected!'$"
 
 gNameChoice_Jodi::
-    .string "JODI$"
+    .string "CLASSES UNLOCKED. AIM FOR THE TOP!$"
 
 gNameChoice_Amanda::
-    .string "AMANDA$"
+    .string "'Cannot Access Amanda's Files. Sec\p"
+    .string "Clearance Required.'$"
 
 gNameChoice_Hillary::
-    .string "HILLARY$"
+    .string "'CLIMB TO THE SUMMIT'$"
 
 gNameChoice_Makey::
-    .string "MAKEY$"
+    .string "Repair Shop Ahead.$"
 
 gNameChoice_Michi::
-    .string "MICHI$"
+    .string "WELCOME HOME$"
 
 gNameChoice_Paula::
-    .string "PAULA$"
+    .string "HELP ARRIVES!$"
 
 gNameChoice_June::
-    .string "JUNE$"
+    .string "WARMth SETTLES OVER THE DESERT.$"
 
 gNameChoice_Cassie::
-    .string "CASSIE$"
+    .string "'Energy: 80/100'$"
 
 gNameChoice_Rey::
-    .string "REY$"
+    .string "'Fuel tanks: 50 lifes: 3'$"
 
 gNameChoice_Seda::
-    .string "SEDA$"
+    .string "'Echoes of the past await your\p"
+    .string "uncovering.'$"
 
 gNameChoice_Kiko::
-    .string "KIKO$"
+    .string "ENTER PIN?$"
 
 gNameChoice_Mina::
-    .string "MINA$"
+    .string "'Welcome to Mina's Castle'$"
 
 gNameChoice_Norie::
-    .string "NORIE$"
+    .string "'Welcome, Norie '$"
 
 gNameChoice_Sai::
-    .string "SAI$"
+    .string "SAILBACK ANGRILY$"
 
 gNameChoice_Momo::
-    .string "MOMO$"
+    .string "'CRITICAL ERROR DETECTED: MOMO\p"
+    .string "QUEEN DOWN!'$"
 
 gNameChoice_Suzi::
-    .string "SUZI$"
+    .string "'This way, lest ye face the claw!'$"
 
 gControlsGuide_Text_Intro::
-    .string "The various buttons will be explained in\n"
-    .string "the order of their importance.$"
+    .string "JETSTICK: Explanation Coming Up$"
 
 gControlsGuide_Text_DPad::
-    .string "Moves the main character.\n"
-    .string "Also used to choose various data\n"
-    .string "headings.$"
+    .string "Press Enter$"
 
 gControlsGuide_Text_AButton::
-    .string "Used to confirm a choice, check\n"
-    .string "things, chat, and scroll text.$"
+    .string "CONFIRM Choice?$"
 
 gControlsGuide_Text_BButton::
-    .string "Used to exit, cancel a choice,\n"
-    .string "and cancel a mode.$"
+    .string "CANCEL$"
 
 gControlsGuide_Text_StartButton::
-    .string "Press this button to open the\n"
-    .string "MENU.$"
+    .string "PUSH TO OPEN MENU$"
 
 gControlsGuide_Text_SelectButton::
-    .string "Used to shift items and to use\n"
-    .string "a registered item.$"
+    .string "USE N/U$"
 
 gControlsGuide_Text_LRButtons::
-    .string "If you need help playing the\n"
-    .string "game, or on how to do things,\n"
-    .string "press the L or R Button.$"
+    .string "PERFECT YOUR SKILLS ALREADY!$"
 
 gOakSpeech_Text_AskPlayerGender::
-    .string "Now tell me. Are you a boy?\n"
-    .string "Or are you a girl?$"
+    .string "The spirits of the land whisper to\p"
+    .string "me...$"
 
 gPikachuIntro_Text_Page1::
-    .string "In the world which you are about to\n"
-    .string "enter, you will embark on a grand\n"
-    .string "adventure with you as the hero.\n"
-    .string "\n"
-    .string "Speak to people and check things\n"
-    .string "wherever you go, be it towns, roads,\n"
-    .string "or caves. Gather information and\n"
-    .string "hints from every source.$"
+    .string "GREETINGS, ADVENTURER! YOU'VE\p"
+    .string "ENTERED THE LAND OF TORR socks.$"
 
 gPikachuIntro_Text_Page2::
-    .string "New paths will open to you by helping\n"
-    .string "people in need, overcoming challenges,\n"
-    .string "and solving mysteries.\n"
-    .string "\n"
-    .string "At times, you will be challenged by\n"
-    .string "others and attacked by wild creatures.\n"
-    .string "Be brave and keep pushing on.$"
+    .string "'The whispers of the ancient ones\p"
+    .string "grow faint, but a new path\n"
+    .string "awaits!'$"
 
 gPikachuIntro_Text_Page3::
-    .string "Through your adventure, we hope\n"
-    .string "that you will interact with all sorts\n"
-    .string "of people and achieve personal growth.\n"
-    .string "That is our biggest objective.\n"
-    .string "\n"
-    .string "Press the A Button, and let your\n"
-    .string "adventure begin!$"
+    .string "Prepare for self-discovery...$"
 
 gOakSpeech_Text_WelcomeToTheWorld::
-    .string "Hello, there!\n"
-    .string "Glad to meet you!\p"
-    .string "Welcome to the world of POKéMON!\p"
-    .string "My name is OAK.\p"
-    .string "People affectionately refer to me\n"
-    .string "as the POKéMON PROFESSOR.\p$"
+    .string "WELCOME TO Pallet Town!$"
 
 gOakSpeech_Text_ThisWorld::
-    .string "This world…$"
+    .string "...of eternal darkness.$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
-    .string "…is inhabited far and wide by\n"
-    .string "creatures called POKéMON.\p$"
+    .string "STRANGE SMELL IN AIR$"
 
 gOakSpeech_Text_IStudyPokemon::
-    .string "For some people, POKéMON are pets.\n"
-    .string "Others use them for battling.\p"
-    .string "As for myself…\p"
-    .string "I study POKéMON as a profession.\p$"
+    .string "Professor Oak's words echo in my\p"
+    .string "mind... 'Gotta catch 'em all!'\n"
+    .string "Some new leads on a rare species\p"
+    .string "emerged...$"
 
 gOakSpeech_Text_TellMeALittleAboutYourself::
-    .string "But first, tell me a little about\n"
-    .string "yourself.\p$"
+    .string "Name: Zaran Title: Last Hopen\p"
+    .string "Class: Warrior$"
 
 gOakSpeech_Text_YourNameWhatIsIt::
-    .string "Let's begin with your name.\n"
-    .string "What is it?\p$"
+    .string "STRANGER, MY NAME IS RAVEN\p"
+    .string "BLACKWOOD.$"
 
 gOakSpeech_Text_SoYourNameIsPlayer::
-    .string "Right…\n"
-    .string "So your name is {PLAYER}.$"
+    .string "You're the legendary hero of old,\p"
+    .string "seeking fortune and fame.$"
 
 gOakSpeech_Text_WhatWasHisName::
-    .string "This is my grandson.\p"
-    .string "He's been your rival since you both\n"
-    .string "were babies.\p"
-    .string "…Erm, what was his name now?$"
+    .string "You see the wispy form of Buster!$"
 
 gOakSpeech_Text_YourRivalsNameWhatWasIt::
-    .string "Your rival's name, what was it now?$"
+    .string "'BOWTIER'$"
 
 gOakSpeech_Text_ConfirmRivalName::
-    .string "…Er, was it {RIVAL}?$"
+    .string "'A HECK YES, IT WAS!'$"
 
 gOakSpeech_Text_RememberRivalsName::
-    .string "That's right! I remember now!\n"
-    .string "His name is {RIVAL}!\p$"
+    .string "'ZNACKER!'$"
 
 gOakSpeech_Text_LetsGo::
-    .string "{PLAYER}!\p"
-    .string "Your very own POKéMON legend is\n"
-    .string "about to unfold!\p"
-    .string "A world of dreams and adventures\n"
-    .string "with POKéMON awaits! Let's go!$"
+    .string "POKeMON Trainer School Wing, your\p"
+    .string "starting point awaits!$"
+

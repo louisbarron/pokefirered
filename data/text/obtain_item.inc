@@ -1,47 +1,41 @@
 Text_ObtainedTheX::
-	.string "Obtained the {STR_VAR_2}!$"
+    .string "' strengthens your legs!'$"
 
 Text_BagIsFull::
-	.string "The BAG is full…$"
+    .string "NOT ENOUGH ROOM!$"
 
 Text_PutItemAway::
-	.string "{PLAYER} put the {STR_VAR_2}\n"
-	.string "in the {STR_VAR_3}.$"
+    .string "You put the potion in the chest.$"
 
 Text_FoundOneItem::
-	.string "{PLAYER} found one {STR_VAR_2}!$"
+    .string "You found one Golden Feather!$"
 
 Text_TooBadBagFull::
-	.string "Too bad!\n"
-	.string "The BAG is full…$"
+    .string "TRY THE TRADER!$"
 
 Text_FoundXCoins::
-	.string "{PLAYER} found\n"
-	.string "{STR_VAR_1} {STR_VAR_2}!$"
+    .string "You found Ancient Temple Keys!$"
 
 Text_PutCoinsAwayInCoinCase::
-	.string "{PLAYER} put the COINS away in\n"
-	.string "the COIN CASE.$"
+    .string "You stash the loot securely.$"
 
 Text_CoinCaseIsFull::
-	.string "Too bad!\n"
-	.string "The COIN CASE is full…$"
+    .string "'DUPLICATE COINS! TRY OTHER\p"
+    .string "SLOTS?'$"
 
 Text_NothingToPutThemIn::
-	.string "Too bad!\n"
-	.string "There's nothing to put them in…$"
+    .string "'EMPTY INVENTORY'$"
 
 Text_FoundXItems::
-	.string "{PLAYER} found\n"
-	.string "{STR_VAR_1} {STR_VAR_2}(s)!$"
+    .string "Trap 5 treasure chests!$"
 
 Text_ObtainedTheDecor::
-	.string "Obtained the {STR_VAR_2}!$"
+    .string "' strengthens your legs!'$"
 
 Text_NoRoomForAnotherDecor::
-	.string "Too bad! There's no room left for\n"
-	.string "another {STR_VAR_2}…$"
+    .string "'None to spare!'$"
 
 Text_DecorTransferredToPC::
-	.string "The {STR_VAR_2} was transferred\n"
-	.string "to the PC.$"
+    .string "'Data transfer complete. ECX:\p"
+    .string "000001'$"
+

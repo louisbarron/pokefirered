@@ -1,123 +1,86 @@
 PokedexRating_Text_HowIsPokedexComingAlong::
-	.string "OAK: Good to see you!\n"
-	.string "How is your POKéDEX coming along?\p"
-	.string "Here, let me take a look.$"
+    .string "Many catches so far, Professor!$"
 
 PokedexRating_Text_SeenXOwnedY::
-	.string "The amount of progress you've made\n"
-	.string "on your POKéDEX is:\p"
-	.string "{STR_VAR_1} POKéMON seen and\n"
-	.string "{STR_VAR_2} POKéMON owned.\p"
-	.string "{FONT_NORMAL}PROF. OAK's rating:$"
+    .string "000 / 124 POKeMON seen and 002\p"
+    .string "POKeMON owned.$"
 
 PokedexRating_Text_LessThan10::
-	.string "You still have lots to do.\p"
-	.string "Go into every patch of grass you\n"
-	.string "see and look for POKéMON!$"
+    .string "ITEM BAG FULL!$"
 
 PokedexRating_Text_LessThan20::
-	.string "It looks as if you're getting on\n"
-	.string "the right track!\p"
-	.string "I've given one of my AIDES a FLASH\n"
-	.string "HM. Make sure you go get it!$"
+    .string "You found the FLASH! What's next?\p"
+    .string "HM...$"
 
 PokedexRating_Text_LessThan30::
-	.string "Your POKéDEX could use a bit more\n"
-	.string "volume still!\p"
-	.string "Try to catch other species of\n"
-	.string "POKéMON!$"
+    .string "'Captain Cassiopeia's Pokedex\p"
+    .string "says: Add more variety, trainer!'$"
 
 PokedexRating_Text_LessThan40::
-	.string "Good, it's apparent that you're\n"
-	.string "trying hard!\p"
-	.string "I've given one of my AIDES an\n"
-	.string "ITEMFINDER. Be sure to collect it!$"
+    .string "Collect aid from behind waterfall.$"
 
 PokedexRating_Text_LessThan50::
-	.string "Your POKéDEX is coming along quite\n"
-	.string "well!\p"
-	.string "I've given one of my AIDES an\n"
-	.string "AMULET COIN. Be sure to get it!$"
+    .string "CRUCIAL AIDE.Joining the battle!$"
 
 PokedexRating_Text_LessThan60::
-	.string "Ah, you've finally topped 50\n"
-	.string "species!\p"
-	.string "I've given one of my AIDES an EXP.\n"
-	.string "SHARE. Be sure to go get it!$"
+    .string "You got a new AIDE! What will you\p"
+    .string "name it?$"
 
 PokedexRating_Text_LessThan70::
-	.string "Hoho! This is turning into quite the\n"
-	.string "respectable POKéDEX!$"
+    .string "FOUND: PIKACHU!$"
 
 PokedexRating_Text_LessThan80::
-	.string "Very good!\p"
-	.string "I think you'll collect even more\n"
-	.string "POKéMON by going fishing!$"
+    .string "Fishing Spot: Lake Veritas$"
 
 PokedexRating_Text_LessThan90::
-	.string "Wonderful! Let me guess… You\n"
-	.string "like to collect things, don't you?$"
+    .string "A rare-seeked Orbadilite!$"
 
 PokedexRating_Text_LessThan100::
-	.string "I'm impressed!\n"
-	.string "It must have been difficult to do!$"
+    .string "WOWZA! CRUSHING SCORE RISES TO\p"
+    .string "1000!$"
 
 PokedexRating_Text_LessThan110::
-	.string "You've finally hit 100 species!\n"
-	.string "I can't believe how good you are!$"
+    .string "CONGRATULATIONS, YOU'VE REACHED A\p"
+    .string "MAJOR MILESTONE!$"
 
 PokedexRating_Text_LessThan120::
-	.string "You even have the evolved forms\n"
-	.string "of POKéMON! Super!$"
+    .string "'EVOLVED FORMS CONFIRMED!'$"
 
 PokedexRating_Text_LessThan130::
-	.string "Excellent! Trade with friends to\n"
-	.string "get some more!$"
+    .string "TRADE ITEMS W/ FRIENDS TO BOOST\p"
+    .string "stash!$"
 
 PokedexRating_Text_LessThan140::
-	.string "Outstanding!\n"
-	.string "You've become a real pro at this!$"
+    .string "WELL DONE, CHAMPION!$"
 
 PokedexRating_Text_LessThan150::
-	.string "I have nothing left to say!\n"
-	.string "You're the POKéMON PROFESSOR now!$"
+    .string " receive receive it!$"
 
 PokedexRating_Text_Complete::
-	.string "Your POKéDEX is entirely complete!\n"
-	.string "Congratulations!!$"
+    .string "'Hey there, Trainer!'$"
 
 PokedexRating_Text_NationalDexSeenXOwnedY::
-	.string "And your NATIONAL POKéDEX is:\p"
-	.string "{STR_VAR_1} POKéMON seen and\n"
-	.string "{STR_VAR_2} POKéMON owned.$"
+    .string "Your NATIONAL POKeDEX is: 45\p"
+    .string "POKeMON seen and 20 POKeMON owned.$"
 
 PokedexRating_Text_LookForwardToFilledNationalDex::
-	.string "I'll be looking forward to seeing\n"
-	.string "you fill the NATIONAL POKéDEX!$"
+    .string "'You have 249 Pokemon to go!'$"
 
 PokedexRating_Text_YouveCompletedDex::
-	.string "Finally…\p"
-	.string "You've finally completed the\n"
-	.string "POKéDEX!\p"
-	.string "It's magnificent!\n"
-	.string "Truly, this is a fantastic feat!$"
+    .string "YOU'VE DONE IT, TRAINER!$"
 
 PokedexRating_Text_Wroooaaarrr::
-	.string "Wroooooooaaaaaarrrr!$"
+    .string "Dragon Approaches!$"
 
 PokedexRating_Text_HaHa::
-	.string "はあ はあ‥$"
+    .string "You're getting dizzy from the\p"
+    .string "spinning blades. Better get outta\n"
+    .string "here!$"
 
 PokedexRating_Text_ThankYouMadeDreamReality::
-	.string "Thank you, {PLAYER}!\n"
-	.string "Sincerely, thank you!\l"
-	.string "You've made my dream a reality!$"
+    .string "THANK YOU FOR MAKING MY DREAM\p"
+    .string "REALITY!$"
 
 PokedexRating_Text_LoveSeeingYourPokedex::
-	.string "OAK: Ah, welcome!\p"
-	.string "Tell me, how is your POKéDEX\n"
-	.string "coming along?\p"
-	.string "Wahaha!\p"
-	.string "Actually, I know how it is, but I\n"
-	.string "love seeing it anyway!\p"
-	.string "Let's see…$"
+    .string "My POKeDEX is complete!$"
+

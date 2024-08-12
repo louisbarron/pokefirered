@@ -1,60 +1,50 @@
 Trade_Text_LookingForMonWannaTradeForMon::
-	.string "I'm looking for the POKéMON\n"
-	.string "{STR_VAR_1}!\p"
-	.string "Wanna trade one for my\n"
-	.string "{STR_VAR_2}?$"
+    .string "PIKACHU!$"
 
 Trade_Text_AwwOhWell::
-	.string "Awww!\n"
-	.string "Oh, well…$"
+    .string "Hope next time is more lucky!$"
 
 Trade_Text_WhatThatsNoMon::
-	.string "What?\n"
-	.string "That's no {STR_VAR_1}!$"
+    .string "What sorcery is this?!$"
 
 Trade_Text_HeyThanks::
-	.string "Hey, thanks!$"
+    .string "WARNING: Danger ahead!$"
 
 Trade_Text_IsntMyOldMonGreat::
-	.string "Isn't my old {STR_VAR_2} great?$"
+    .string "That STRVAR2 has won me 10 golden\p"
+    .string "acorns!$"
 
 Trade_Text_DoYouHaveMonWouldYouTradeForMon::
-	.string "Hello, there! Do you happen to\n"
-	.string "have a {STR_VAR_1}?\p"
-	.string "Would you agree to a trade for\n"
-	.string "my {STR_VAR_2}?$"
+    .string "Need a Golden Apple and willing to\p"
+    .string "part with my rusty old Sword.$"
 
 Trade_Text_WellIfYouDontWantTo::
-	.string "Well, if you don't want to…$"
+    .string "...risk it all, flee now!$"
 
 Trade_Text_ThisIsntMon::
-	.string "Hmmm?\n"
-	.string "This isn't a {STR_VAR_1}.\p"
-	.string "Think of me if you get one.$"
+    .string "'Secret hasn't surfaced yet'$"
 
 Trade_Text_Thanks::
-	.string "Thanks!$"
+    .string "GRAVEYARD OF THE DAMNED$"
 
 Trade_Text_HasTradedMonGrownStronger::
-	.string "The {STR_VAR_2} that I traded you,\n"
-	.string "has it grown stronger?$"
+    .string "YES, IT DRAWS NEAR STRONG!/ male$"
 
 Trade_Text_DoYouHaveMonWantToTradeForMon::
-	.string "Hi!\n"
-	.string "Do you have a {STR_VAR_1}?\p"
-	.string "Want to trade it for my\n"
-	.string "{STR_VAR_2}?$"
+    .string "DO YOU HAVE THE ANCIENT SWORD?$"
 
 Trade_Text_ThatsTooBad::
-	.string "That's too bad.$"
+    .string "'Uh oh, looks like you're in a bit\p"
+    .string "of trouble!'$"
 
 Trade_Text_ThisIsNoMon::
-	.string "…This is no {STR_VAR_1}.\p"
-	.string "If you get one, trade it with me.$"
+    .string "Rarity Badge of Zeal$"
 
 Trade_Text_ThanksYoureAPal::
-	.string "Thanks, you're a pal!$"
+    .string " flattened ridgeline ahead,\p"
+    .string "beware!$"
 
 Trade_Text_HowIsMyOldMon::
-	.string "How is my old {STR_VAR_2}?\n"
-	.string "My {STR_VAR_1} is doing great!$"
+    .string "How is my old sword?n My brother\p"
+    .string "is doing great!$"
+

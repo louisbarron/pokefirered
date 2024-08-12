@@ -1,39 +1,33 @@
 Text_MonSentToBoxInSomeonesPC::
-    .string "{STR_VAR_2} was transferred to\n"
-    .string "Someone's PC.\p"
-    .string "It was placed in \n"
-    .string "BOX “{STR_VAR_1}.”$"
+    .string "GRIZZ'S TREASURE was transferred\p"
+    .string "to Someone's PC. It was placed in\n"
+    .string "BOX 'Pirate's Booty.'$"
 
 Text_MonSentToBoxInBillsPC::
-    .string "{STR_VAR_2} was transferred to\n"
-    .string "BILL'S PC.\p"
-    .string "It was placed in \n"
-    .string "BOX “{STR_VAR_1}.”$"
+    .string "PLAYER'S NOTES was transferred to\p"
+    .string "BILL'S PC. It was placed in BOX\n"
+    .string "'INVENTORY'.$"
 
 Text_MonSentToBoxSomeonesBoxFull::
-    .string "BOX “{STR_VAR_3}” on\n"
-    .string "Someone's PC was full.\p"
-    .string "{STR_VAR_2} was transferred to\n"
-    .string "BOX “{STR_VAR_1}.”$"
+    .string "Box 'System' on Someone's PC was\p"
+    .string "full.  Data was transferred to Box\n"
+    .string "'Save'.$"
 
 Text_MonSentToBoxBillsBoxFull::
-    .string "BOX “{STR_VAR_3}” on\n"
-    .string "BILL'S PC was full.\p"
-    .string "{STR_VAR_2} was transferred to\n"
-    .string "BOX “{STR_VAR_1}.”$"
+    .string "BOX 'DOS DATA' on BILL'S PC was\p"
+    .string "full. DOSUPG was transferred to\n"
+    .string "BOX 'dosdata.'$"
 
 Text_PlayerObtainedTheMon::
-    .string "{PLAYER} obtained\n"
-    .string "the {STR_VAR_1}!$"
+    .string "You obtained the Sword!$"
 
 @ Unused. Translated below
 @ You cannot carry any more Pokemon, so {STR_VAR_2} was sent to PC Box {STR_VAR_1}!
 Text_MonSentToBoxInPC::
-    .string "ポケモンを　もちきれないので\n"
-    .string "パソコンの　ボックス“{STR_VAR_1}”　に\l"
-    .string "{STR_VAR_2}を　てんそうした！$"
+    .string "Unable to carry Pokemon son Stored\p"
+    .string "STRVAR1 in computer boxn STRVAR2\n"
+    .string "flashed on screen!$"
 
 Text_NoMoreRoomForPokemon::
-    .string "There's no more room for POKéMON!\p"
-    .string "The POKéMON BOXES are full and\n"
-    .string "can't accept any more!$"
+    .string "You caught too many!$"
+
